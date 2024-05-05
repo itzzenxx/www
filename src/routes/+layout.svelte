@@ -1,0 +1,91 @@
+<script>
+	import { page } from '$app/stores';
+	import picture from '$lib/assets/picture.png';
+</script>
+
+<svelte:head>
+	<title>allissa's burrow</title>
+	<meta name="description" content="this is the personal website of allissa" />
+</svelte:head>
+
+<header>
+	<h1>allissa's comfy burrow</h1>
+	<p><a href="https://en.wikipedia.org/wiki/Be_(Beady_Eye_album)"><i>“It’s not porn, is it? It’s classic, man. Classic nipple.” - Liam Gallagher</i></a></p>
+</header>
+
+<main>
+	<nav>
+		<a href="/" class:active={$page.url.pathname == '/'}><i class="fa-solid fa-house"></i> home</a>
+		<a href="/about" class:active={$page.url.pathname == '/about/'}><i class="fa-solid fa-address-card"></i> about me</a>
+		<a href="/contact" class:active={$page.url.pathname == '/contact/'}><i class="fa-solid fa-paper-plane"></i> contact</a>
+		<a href="/socials" class:active={$page.url.pathname == '/socials/'}><i class="fa-solid fa-thumbs-up"></i> socials</a>
+		<a href="/projects" class:active={$page.url.pathname == '/projects/'}><i class="fa-solid fa-hammer"></i> projects</a>
+		<a href="/donate" class:active={$page.url.pathname == '/donate/'}><i class="fa-solid fa-money-bill"></i> donate</a>
+		<a href="/writeups/" class:active={$page.url.pathname == '/writeups/'}><i class="fa-solid fa-newspaper"></i> write ups</a>
+		<a href="https://cloud.itzzen.net/s/2o33okXjeQPWo9D" class:active={$page.url.pathname == '/files/'}><i class="fa-solid fa-folder"></i> files</a>
+		<hr />
+
+		<img alt="kanna kamui looking kinda sad" src={picture} id="picture" />
+	</nav>
+
+	<article>
+		<slot />
+	</article>
+</main>
+
+<footer>
+	<p><i>site last modified May 5th 2024</i> | <i>made with</i> ❤ <i>by allissa | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+</footer>
+
+<style>
+	main {
+		display: flex;
+		flex-direction: row;
+		gap: 20px;
+	}
+
+	header {
+		display: flex;
+		align-items: center;
+		gap: 40px;
+	}
+
+	header p {
+		font-family: sans-serif;
+	}
+
+	nav {
+		padding: 10px;
+		gap: 12px;
+		border-right: 1px black solid;
+		min-width: 110px;
+		max-width: 110px;
+		display: flex;
+		flex-direction: column;
+	}
+
+	nav hr {
+		width: 100%;
+	}
+
+	nav a {
+		text-decoration: none;
+	}
+
+	.active {
+		font-weight: bold;
+	}
+
+	#picture {
+		width: 110px;
+		height: 110px;
+	}
+
+	article {
+		max-width: 612px;
+	}
+
+	main {
+		font-family: sans-serif;
+	}
+</style>
