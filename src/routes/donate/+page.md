@@ -6,7 +6,7 @@ if you like this page, my work on my various projects, or whatever I did that ha
 
 [![liberapay donation button](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/itzzen/donate)
 
-### or crypto if that floats your boat:
+### or with crypto if that floats your boat
 
 _**please do not add a high miner fee to your payment.** These transactions do not need to reach me instantly, so it's not worth spending a lot on fees._
 
