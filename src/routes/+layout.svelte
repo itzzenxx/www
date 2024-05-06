@@ -1,6 +1,7 @@
 <script>
 	import { page } from '$app/stores';
 	import picture from '$lib/assets/picture.png';
+	import "/static/css/main.css";
 </script>
 
 <svelte:head>
@@ -34,58 +35,5 @@
 </main>
 
 <footer>
-	<p><i><a href="https://codeberg.org/itzzen/www/commits/branch/main">site last modified May 5th 2024</a></i> | <i>made with</i> ❤ <i>by allissa | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i><a href="https://codeberg.org/itzzen/www/commits/branch/main">site last modified May 6th 2024</a></i> | <i>made with</i> ❤ <i>by allissa | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>
-
-<style>
-	main {
-		display: flex;
-		flex-direction: row;
-		gap: 20px;
-	}
-
-	header {
-		display: flex;
-		align-items: center;
-		gap: 40px;
-	}
-
-	header p {
-		font-family: sans-serif;
-	}
-
-	nav {
-		padding: 10px;
-		gap: 12px;
-		border-right: 1px black solid;
-		min-width: 110px;
-		max-width: 110px;
-		display: flex;
-		flex-direction: column;
-	}
-
-	nav hr {
-		width: 100%;
-	}
-
-	nav a {
-		text-decoration: none;
-	}
-
-	.active {
-		font-weight: bold;
-	}
-
-	#picture {
-		width: 110px;
-		height: 110px;
-	}
-
-	article {
-		max-width: 612px;
-	}
-
-	main {
-		font-family: sans-serif;
-	}
-</style>

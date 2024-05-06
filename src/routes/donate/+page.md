@@ -12,9 +12,3 @@ _**please do not add a high miner fee to your payment.** These transactions do n
 
 - <i class="fa-brands fa-monero"></i> <code>XMR: 446YtXbiUKNfpp2otpTSvWAU1ghYbj5HC5rv8WUR5YAwjHdhoys4ZLJVdxfg9kkv3BaCoQRx6qWLhR5FbCGvJSTvDcqCQ3K</code>
 - <i class="fa-brands fa-bitcoin"></i> <code>BTC: bc1qh6w5se22rl8zvnfh7yaa0ugthxg70gtmjkml4n</code>
-
-<style>
-li {
-    line-break: anywhere;
-}
-</style>

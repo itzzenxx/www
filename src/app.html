@@ -4,61 +4,12 @@
 		<meta charset="utf-8" />
 		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
 		<link rel="me" href="https://solarpunk.moe/@itzzen" />
+		<link rel="stylesheet" href="%sveltekit.assets%/css/body.css">
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		%sveltekit.head%
 	</head>
 
 	<body data-sveltekit-preload-data="hover">
-		<style>
-			body {
-				background-color: lightgrey;
-			}
-
-			body a {
-				color: darkblue;
-			}
-
-			#pride {
-				position: fixed;
-				top: 0;
-				right: 0;
-			}
-
-			@media screen and (max-width: 810px) {
-				#pride {
-					top: -30px;
-					right: -30px;
-					transform: scale(0.5);
-				}
-			}
-
-			@media (prefers-color-scheme: dark) {
-				body {
-					background-color: black;
-				}
-
-				body a {
-					color: lightblue;
-				}
-
-				body h1,
-				h2,
-				h3,
-				h4,
-				h5,
-				h6,
-				p,
-				ul,
-				li,
-				hr {
-					color: lightgray;
-				}
-
-				nav {
-					border-right: 1px lightgray solid !important;
-				}
-			}
-		</style>
 		<div id="pride">
 			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
 				<path id="red" d="M120,80 L100,100 L120,120 Z" style="fill: #d20605" />
