@@ -1,4 +1,4 @@
-import { fetchMarkdownPosts } from '$lib/utils/index.js';
+import { fetchMarkdownPosts } from '$lib/utils/blogEntries.js';
 
 export const load = async () => {
 	const posts = await fetchMarkdownPosts();

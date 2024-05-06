@@ -1,7 +1,7 @@
 <script>
 	import { page } from '$app/stores';
 	import picture from '$lib/assets/picture.png';
-	import "/static/css/main.css";
+	import '/static/css/main.css';
 </script>
 
 <svelte:head>
