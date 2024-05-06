@@ -1,4 +1,4 @@
-# getting ahold of the webmistress
+## getting ahold of the webmistress
 
 if you need to get a hold of me, I have a few options you can use
 

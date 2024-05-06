@@ -4,7 +4,7 @@
 	import validatom from "/assets/validatom.png";
 </script>
 
-# my write ups
+## my write ups
 
 very infrequently I will write a thing and post it onto this website, my entries are shown here:
 
