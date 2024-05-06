@@ -40,11 +40,11 @@ import vscbutton from "$lib/assets/vscbutton.gif";
 	}
 </style>
 
-# hi there, my name is allissa, welcome to my rabbit hole
+# hi there, my name is allissa
 
-this is my web rabbit hole, site, page, den, whatever you'd like to call it. you can find all sorts of anything here if you go digging for it.
+this is my rabbit hole, website, webpage, den, or whatever you'd like to call it. you can find all sorts of anything here if you go digging for it.
 
-this web page was made using [svelte](https://svelte.dev)
+this web page was made using [svelte](https://svelte.dev), I do like working with it to build out some cool functions of this website (like the RSS & Atom feed!)
 
 <iframe title="bucket-webring" id="bucket-webring" style="width: 100%; height: 3rem; border: none;" src="https://webring.bucketfish.me/embed.html?name=allissa"></iframe>
 
