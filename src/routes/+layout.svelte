@@ -22,9 +22,9 @@
 		<a href="/projects" class:active={$page.url.pathname == '/projects/'}><i class="fa-solid fa-hammer"></i> projects</a>
 		<a href="/donate" class:active={$page.url.pathname == '/donate/'}><i class="fa-solid fa-money-bill"></i> donate</a>
 		<a href="/writeups/" class:active={$page.url.pathname == '/writeups/'}><i class="fa-solid fa-newspaper"></i> write ups</a>
-		<a href="https://cloud.itzzen.net/s/Gdk99krDRYiRc42" ><i class="fa-solid fa-folder"></i> files</a>
+		<a href="https://cloud.itzzen.net/s/mTkjfis3bx8cPar"><i class="fa-solid fa-camera"></i> camera</a>
+		<a href="https://cloud.itzzen.net/s/Gdk99krDRYiRc42"><i class="fa-solid fa-folder"></i> files</a>
 		<hr />
-
 		<img alt="kanna kamui looking kinda sad" src={picture} id="picture" />
 	</nav>
 
