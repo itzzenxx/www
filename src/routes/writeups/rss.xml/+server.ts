@@ -1,4 +1,4 @@
-import { fetchMarkdownPosts } from '$lib/utils';
+import { fetchMarkdownPosts } from '$lib/utils/blogEntries.js';
 
 export const prerender = true;
 export const GET = async () => {
