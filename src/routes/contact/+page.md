@@ -10,6 +10,7 @@ if you need to get a hold of me, I have a few options you can use
 
 ### discouraged
 
+- [<i class="fa-brands fa-telegram"></i> t.me/itzzengay](https://t.me/itzzengay) | telegram
 - [<i class="fa-brands fa-discord"></i> itzzengay](https://discord.com/) | discord
 
 \*these contact methods are more preferred if the subject matter is sensitive and requires a secure messenger
