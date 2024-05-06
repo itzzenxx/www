@@ -1,7 +1,7 @@
 <script>
 	export let data;
-	import validrss from "$lib/assets/validrss.png";
-	import validatom from "$lib/assets/validatom.png";
+	import validrss from "/assets/validrss.png";
+	import validatom from "/assets/validatom.png";
 </script>
 
 # my write ups
