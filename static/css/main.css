@@ -49,7 +49,7 @@ main {
 	font-family: sans-serif;
 }
 
-article ul li code {
+#crypto-wallets {
 	line-break: anywhere;
 }
 
