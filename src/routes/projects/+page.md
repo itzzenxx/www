@@ -2,8 +2,8 @@
 
 I have created a few projects, here they are:
 
-- [constellatory.net](https://constellatory.net) | Constellatory, internet services for the public
-- [plus.st](https://plus.st) | Plus St, a home to cool things on the internet
+- [<i class="fa-solid fa-globe"></i> constellatory.net](https://constellatory.net) | Constellatory, internet services for the public
+- [<i class="fa-solid fa-globe"></i> plus.st](https://plus.st) | Plus St, a home to cool things on the internet
 
 # development hubs
 
