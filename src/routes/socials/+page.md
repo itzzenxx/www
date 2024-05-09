@@ -10,7 +10,7 @@ I have a presence on other spaces of the internet though social network services
 
 ### and the ones I rarely use
 
-- [<i class="fa-brands fa-bluesky"></i> @itzzengay.bsky.social](https://bsky.app/profile/itzzengay.bsky.social) | bluesky
+- [<i class="fa-brands fa-bluesky"></i> @itzzen.net](https://bsky.app/profile/itzzen.net) | bluesky
 - [<i class="fa-solid fa-bandage"></i> @itzzen@void.rehab](https://void.rehab/@itzzen) | iceshrimp at void.rehab
 - [<i class="fa-solid fa-key"></i> @itzzen@minidisc.gay](https://minidisc.gay/@itzzen) | sharkey at minidisc.gay
 - [<i class="fa-brands fa-reddit-alien"></i> u/itzzengay](https://reddit.com/u/itzzengay) | reddit
