@@ -49,7 +49,7 @@ main {
 	font-family: sans-serif;
 }
 
-.crypto-wallets {
+.crypto-wallets, .hidden-service {
 	line-break: anywhere;
 	user-select: all;
 }
