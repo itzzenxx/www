@@ -47,6 +47,8 @@ this is my rabbit hole, website, webpage, den, or whatever you'd like to call it
 
 this web page was made using [svelte](https://svelte.dev), I do like working with it to build out some cool functions of this website (like the RSS & Atom feed!)
 
+you can view this website's hidden service at [itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion](http://itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion/)
+
 <iframe title="bucket-webring" id="bucket-webring" style="width: 100%; height: 3rem; border: none;" src="https://webring.bucketfish.me/embed.html?name=allissa"></iframe>
 
 <iframe title="johnvertisment" src="https://john.citrons.xyz/embed?ref=itzzen.net" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
