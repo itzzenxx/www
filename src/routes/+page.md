@@ -1,4 +1,6 @@
 <script>
+import itzzennet from "/assets/itzzennet.png";
+import itzzennetlegacy from "/assets/itzzennetlegacy.png";
 import archlinux from "/assets/archlinux.png";
 import american from "/assets/american.png";
 import anybrowser from "/assets/any-browser.gif";
@@ -14,6 +16,7 @@ import gaywomen from "/assets/gaywomen.gif";
 import gnulinux from "/assets/gnu-linux.gif";
 import googol from "/assets/googol.gif";
 import grapheneos from "/assets/grapheneos.png";
+import hddvd from "/assets/hddvd.png";
 import internetarchive from "/assets/internetarchive.gif";
 import kawaiizenbo from "/assets/kawaiizenbo.me.gif";
 import ketraline from "/assets/ketraline.gif";
@@ -53,6 +56,13 @@ you can view this website's hidden service at [itzzen3po7dxbyubkujny3qblislyyj4g
 
 <iframe title="johnvertisment" src="https://john.citrons.xyz/embed?ref=itzzen.net" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
 
+here are my buttons, feel free to download it and link it back to this page on your website.
+
+[![allissa's comfy burrow now!]({itzzennet})](https://itzzen.net)
+[![itzzen.net]({itzzennetlegacy})](https://itzzen.net)
+
+here are my other buttons I've curated:
+
 [![arch linux]({archlinux})](https://archlinux.org/)
 [![american flag]({american})](https://people.com/politics/how-flying-american-flag-upside-down-became-bipartisan-act-rebellion/)
 ![any browser you like]({anybrowser})
@@ -68,6 +78,7 @@ you can view this website's hidden service at [itzzen3po7dxbyubkujny3qblislyyj4g
 ![made on gnu linux]({gnulinux})
 [![googol]({googol})](https://youtube.com/watch?v=Zcqc8XpX8Xc)
 [![grapheneos]({grapheneos})](https://grapheneos.org)
+![hd dvd]({hddvd})
 [![internet archive]({internetarchive})](https://archive.org)
 [![kawaiizenbo.me]({kawaiizenbo})](https://kawaiizenbo.me)
 [![ketraline]({ketraline})](https://ketraline.neocities.org)
