@@ -50,6 +50,8 @@ this is my rabbit hole, website, webpage, den, or whatever you'd like to call it
 
 this web page was made using [svelte](https://svelte.dev), I do like working with it to build out some cool functions of this website (like the RSS & Atom feed!)
 
+I have a discord guild you can join using this invite link: <span classs="letter-break">[discord.gg/ktmCmJ3KkW](https://discord.gg/ktmCmJ3KkW)</span>
+
 you can view this website's hidden service at <span class="letter-break">[itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion](http://itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion/)</span>
 
 <iframe title="bucket-webring" id="bucket-webring" style="width: 100%; height: 3rem; border: none;" src="https://webring.bucketfish.me/embed.html?name=allissa"></iframe>
