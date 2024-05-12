@@ -48,7 +48,7 @@ import vscbutton from "/assets/vscbutton.gif";
 
 this is my rabbit hole, website, webpage, den, or whatever you'd like to call it. you can find all sorts of anything here if you go digging for it.
 
-I have a discord guild you can join using this invite link: <span classs="letter-break">[discord.gg/ktmCmJ3KkW](https://discord.gg/ktmCmJ3KkW)</span>
+I have a discord guild you can join using this invite link: <span class="letter-break">[discord.gg/ktmCmJ3KkW](https://discord.gg/ktmCmJ3KkW)</span>
 
 you can view this website's hidden service at <span class="letter-break">[itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion](http://itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion/)</span>
 
