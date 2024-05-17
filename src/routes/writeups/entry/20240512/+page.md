@@ -1,9 +1,9 @@
 ---
-title: "a checkin / post to test RSS/Atom feeds"
+title: 'a checkin / post to test RSS/Atom feeds'
 date: '2024-05-12'
 ---
 
-*yes, this post is filler*
+_yes, this post is filler_
 
 ## hello reader!
 
