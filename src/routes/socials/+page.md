@@ -13,10 +13,10 @@ I have a presence on other spaces of the internet though social network services
 - [<i class="fa-brands fa-tiktok"></i> @itzzengay](https://www.tiktok.com/@itzzengay) | tiktok
 - [<i class="fa-brands fa-bluesky"></i> @itzzen.net](https://bsky.app/profile/itzzen.net) | bluesky
 - [<i class="fa-brands fa-youtube"></i> @itzzengay](https://www.youtube.com/@itzzengay) | youtube
-- [<i class="fa-brands fa-reddit-alien"></i> u/itzzengay](https://reddit.com/u/itzzengay) | reddit
 
 ### and the ones I rarely use
 
 - [<i class="fa-solid fa-key"></i> @itzzen@minidisc.gay](https://minidisc.gay/@itzzen) | sharkey at minidisc.gay
+- [<i class="fa-brands fa-reddit-alien"></i> u/itzzengay](https://reddit.com/u/itzzengay) | reddit
 
 if you want to contact me, you should check out [my contact methods](/contact) instead.
