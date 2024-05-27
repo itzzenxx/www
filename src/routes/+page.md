@@ -87,7 +87,7 @@ here are my other buttons I've curated:
 [![kawaiizenbo.me]({kawaiizenbo})](https://kawaiizenbo.me)
 [![ketraline]({ketraline})](https://ketraline.neocities.org)
 ![lesbian flag]({lesbian})
-![lux aliaga]({lux})
+[![lux aliaga]({lux})](https://nixgoat.me)
 [![mozilla]({mozilla})](https://mozilla.org)
 [![nano]({nano})](https://nano.lgbt)
 [![catch-all enbyspace]({nbsp})](https://enby.space)
