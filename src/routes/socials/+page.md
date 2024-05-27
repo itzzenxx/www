@@ -10,6 +10,7 @@ I have a presence on other spaces of the internet though social network services
 - [<i class="fa-brands fa-steam-symbol"></i> itzzengay](https://steamcommunity.com/id/itzzengay) | steam
 
 ### I only really lurk on these
+
 - [<i class="fa-brands fa-tiktok"></i> @itzzengay](https://www.tiktok.com/@itzzengay) | tiktok
 - [<i class="fa-brands fa-bluesky"></i> @itzzen.net](https://bsky.app/profile/itzzen.net) | bluesky
 - [<i class="fa-brands fa-youtube"></i> @itzzengay](https://www.youtube.com/@itzzengay) | youtube
