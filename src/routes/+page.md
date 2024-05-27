@@ -2,6 +2,7 @@
 import itzzennet from "/assets/itzzennet.png";
 import itzzennetlegacy from "/assets/itzzennetlegacy.png";
 import archlinux from "/assets/archlinux.png";
+import arimelody from "/assets/ari-melody.gif";
 import american from "/assets/american.png";
 import anybrowser from "/assets/any-browser.gif";
 import chrome from "/assets/chrome.gif";
@@ -66,6 +67,7 @@ here are my buttons, feel free to download it and link it back to this page on y
 here are my other buttons I've curated:
 
 [![arch linux]({archlinux})](https://archlinux.org/)
+[![ari melody]({arimelody})](https://arimelody.me/)
 [![american flag]({american})](https://people.com/politics/how-flying-american-flag-upside-down-became-bipartisan-act-rebellion/)
 ![any browser you like]({anybrowser})
 ![same shit, different asshole]({chrome})
