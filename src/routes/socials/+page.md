@@ -5,6 +5,7 @@ I have a presence on other spaces of the internet though social network services
 ### I am active on these platforms
 
 - [<i class="fa-brands fa-mastodon"></i> @itzzen@solarpunk.moe](https://solarpunk.moe/@itzzen) | mastodon at solarpunk.moe
+- [<i class="fa-brands fa-mastodon"></i> @itzzen@girlcock.club](https://girlcock.club/@itzzen) | mastodon at girlcock.club (18+)
 - [<i class="fa-solid fa-bandage"></i> @itzzen@void.rehab](https://void.rehab/@itzzen) | iceshrimp at void.rehab
 - [<i class="fa-brands fa-lastfm"></i> itzzen](https://last.fm/user/itzzen) | last.fm
 - [<i class="fa-brands fa-steam-symbol"></i> itzzengay](https://steamcommunity.com/id/itzzengay) | steam
