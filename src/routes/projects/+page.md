@@ -13,4 +13,3 @@ you might find more stuff on my git accounts
 - [<i class="fa-solid fa-mountain"></i> itzzen](https://codeberg.org/itzzen) | codeberg
 - [<i class="fa-brands fa-github"></i> itzzengay](https://github.com/itzzengay) | github
 - [<i class="fa-brands fa-gitlab"></i> itzzen](https://gitlab.com/itzzen) | gitlab
-- [<i class="fa-brands fa-git"></i> itzzen](https://git.plus.st/itzzen) | plus st git
