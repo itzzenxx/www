@@ -89,7 +89,7 @@ here are my other buttons I've curated:
 ![hd dvd]({hddvd})
 [![internet archive]({internetarchive})](https://archive.org)
 [![kawaiizenbo.me]({kawaiizenbo})](https://kawaiizenbo.me)
-[![ketraline]({ketraline})](https://ketraline.neocities.org)
+[![ketraline]({ketraline})](https://ketraline.nekoweb.org)
 ![lesbian flag]({lesbian})
 [![lux aliaga]({lux})](https://nixgoat.me)
 [![mozilla]({mozilla})](https://mozilla.org)
