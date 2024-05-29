@@ -35,5 +35,5 @@
 </main>
 
 <footer>
-	<p><i><a href="https://codeberg.org/itzzen/www/commits/branch/main">site last modified May 27th 2024</a></i> | <i>made with</i> ❤ <i>by allissa | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i><a href="https://codeberg.org/itzzen/www/commits/branch/main">site last modified May 29th 2024</a></i> | <i>made with</i> ❤ <i>by allissa | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>
