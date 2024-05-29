@@ -5,6 +5,7 @@ import archlinux from "/assets/archlinux.png";
 import arimelody from "/assets/ari-melody.gif";
 import american from "/assets/american.png";
 import anybrowser from "/assets/any-browser.gif";
+import anythingbutwindows from "/assets/anythingbutwindows.gif";
 import chrome from "/assets/chrome.gif";
 import commenter from "/assets/commenter.png";
 import dbd from "/assets/dbd.gif";
@@ -71,6 +72,7 @@ here are my other buttons I've curated:
 [![ari melody]({arimelody})](https://arimelody.me/)
 [![american flag]({american})](https://people.com/politics/how-flying-american-flag-upside-down-became-bipartisan-act-rebellion/)
 ![any browser you like]({anybrowser})
+![anything but windows]({anythingbutwindows})
 ![same shit, different asshole]({chrome})
 [![commenter25]({commenter})](https://commenter.cc)
 [![defective by design, eliminate drm now]({dbd})](https://defectivebydesign.org)
