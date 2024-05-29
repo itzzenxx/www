@@ -13,6 +13,7 @@ import debian from "/assets/debian.gif";
 import deci from "/assets/deci.png";
 import easrng from "/assets/easrng.gif";
 import ellietime from "/assets/ellietime.png";
+import elysia from "/assets/elysia.png";
 import fckingwww from "/assets/fckingwww.gif";
 import freebsd from "/assets/freebsd.gif";
 import gaywomen from "/assets/gaywomen.gif";
@@ -80,6 +81,7 @@ here are my other buttons I've curated:
 [![deci]({deci})](https://deci.pages.gay)
 [![easrng]({easrng})](https://easrng.net/)
 [![ellie time]({ellietime})](https://idkimjustadog.neocities.org/)
+[![meow elysia]({elysia})](https://le.alphamethyl.barr0w.net/~elysia/index.html)
 ![fucking webmaster]({fckingwww})
 [![powered by freebsd]({freebsd})](https://freebsd.org)
 ![gay women]({gaywomen})
