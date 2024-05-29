@@ -9,6 +9,7 @@ import chrome from "/assets/chrome.gif";
 import commenter from "/assets/commenter.png";
 import dbd from "/assets/dbd.gif";
 import debian from "/assets/debian.gif";
+import deci from "/assets/deci.png";
 import easrng from "/assets/easrng.gif";
 import ellietime from "/assets/ellietime.png";
 import fckingwww from "/assets/fckingwww.gif";
@@ -74,6 +75,7 @@ here are my other buttons I've curated:
 [![commenter25]({commenter})](https://commenter.cc)
 [![defective by design, eliminate drm now]({dbd})](https://defectivebydesign.org)
 [![powered by debian]({debian})](https://debian.org)
+[![deci]({deci})](https://deci.pages.gay)
 [![easrng]({easrng})](https://easrng.net/)
 [![ellie time]({ellietime})](https://idkimjustadog.neocities.org/)
 ![fucking webmaster]({fckingwww})
