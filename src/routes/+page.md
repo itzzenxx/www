@@ -1,10 +1,11 @@
 <script>
 import itzzennet from "/assets/itzzennet.png";
 import itzzennetlegacy from "/assets/itzzennetlegacy.png";
-import archlinux from "/assets/archlinux.png";
-import arimelody from "/assets/ari-melody.gif";
+import ajvega from "/assets/ajvega.gif";
 import american from "/assets/american.png";
 import animegay from "/assets/animegay.png";
+import archlinux from "/assets/archlinux.png";
+import arimelody from "/assets/ari-melody.gif";
 import anybrowser from "/assets/any-browser.gif";
 import anythingbutwindows from "/assets/anythingbutwindows.gif";
 import chrome from "/assets/chrome.gif";
@@ -44,10 +45,10 @@ import vscbutton from "/assets/vscbutton.gif";
 </script>
 
 <style>
-	img {
+	img, .button {
 		height: 31px;
 		width: 88px;
-		padding-right: 6px;
+		margin-right: 6px;
 	}
 </style>
 
@@ -69,10 +70,12 @@ here is my button, feel free to download it and link it back to this page on you
 
 here are the other buttons I've curated:
 
-[![arch linux]({archlinux})](https://archlinux.org/)
-[![ari melody]({arimelody})](https://arimelody.me/)
+&#8239;<iframe class="button" src="//incr.easrng.net/badge?key=itzzennet" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
+[![a.j. vega anti-loss ep out now!]({ajvega})](https://ajvegarabbit.neocities.org/)
 [![american flag]({american})](https://people.com/politics/how-flying-american-flag-upside-down-became-bipartisan-act-rebellion/)
 ![anime is gay as hell but I approve]({animegay})
+[![arch linux]({archlinux})](https://archlinux.org/)
+[![ari melody]({arimelody})](https://arimelody.me/)
 ![any browser you like]({anybrowser})
 ![anything but windows]({anythingbutwindows})
 ![same shit, different asshole]({chrome})
