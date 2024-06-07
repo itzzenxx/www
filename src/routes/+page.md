@@ -63,12 +63,11 @@ this web page was made using [svelte](https://svelte.dev), I do like working wit
 
 <iframe title="bucket-webring" id="bucket-webring" style="width: 100%; height: 3rem; border: none;" src="https://webring.bucketfish.me/embed.html?name=allissa"></iframe>
 
-here are my buttons, feel free to download it and link it back to this page on your website.
+here is my button, feel free to download it and link it back to this page on your website.
 
 [![allissa's comfy burrow now!]({itzzennet})](https://itzzen.net)
-[![itzzen.net]({itzzennetlegacy})](https://itzzen.net)
 
-here are my other buttons I've curated:
+here are the other buttons I've curated:
 
 [![arch linux]({archlinux})](https://archlinux.org/)
 [![ari melody]({arimelody})](https://arimelody.me/)
