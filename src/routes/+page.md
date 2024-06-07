@@ -54,7 +54,7 @@ import vscbutton from "/assets/vscbutton.gif";
 
 this is my rabbit hole, website, webpage, den, or whatever you'd like to call it. you can find all sorts of anything here if you go digging for it.
 
-a friendly community that is tied to this website lives on a matrix space, you can join though this invite link: <span class="letter-break">[matrix.to/#/#allissas-comfy-burrow:constellatory.net](https://matrix.to/#/#allissas-comfy-burrow:constellatory.net)</span>. don't know what matrix is and want to get started? the [matrix.constellatory.net](https://matrix.constellatory.net) homeserver is a good place to start.
+a friendly community that is tied to this website lives on a matrix space, you can join though this invite link: <span class="letter-break">[#allissas-comfy-burrow:constellatory.net](https://matrix.to/#/#allissas-comfy-burrow:constellatory.net)</span>. don't know what matrix is and want to get started? the [matrix.constellatory.net](https://matrix.constellatory.net) homeserver is a good place to start.
 
 you can view this website's hidden service at <span class="letter-break">[itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion](http://itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion/)</span>
 
