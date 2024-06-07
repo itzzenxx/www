@@ -34,6 +34,7 @@ import nofuckingthanks from "/assets/nofuckingthanks.gif";
 import nonazi from "/assets/antinazi.gif";
 import oasis from "/assets/oasis.png";
 import palestine from "/assets/palestine.png";
+import seirdy from "/assets/seirdy.png";
 import theonion from "/assets/theonion.gif";
 import trans from "/assets/trans.png";
 import validbad from "/assets/valid-bad.gif";
@@ -102,6 +103,7 @@ here are my other buttons I've curated:
 ![no nazi, no fascism, no racism]({nonazi})
 [![oasis]({oasis})](https://oasisinet.com)
 [![palestinian flag]({palestine})](https://techforpalestine.org/learn-more/)
+[![square icon of a colon and semicolon next to the word 'Seirdy']({seirdy})](https://seirdy.one)
 [![the onion www.theonion.com]({theonion})](https://www.theonion.com)
 ![trans flag]({trans})
 ![W3C bad html markup]({validbad})
