@@ -62,8 +62,6 @@ this web page was made using [svelte](https://svelte.dev), I do like working wit
 
 <iframe title="bucket-webring" id="bucket-webring" style="width: 100%; height: 3rem; border: none;" src="https://webring.bucketfish.me/embed.html?name=allissa"></iframe>
 
-<iframe title="johnvertisment" src="https://john.citrons.xyz/embed?ref=itzzen.net" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
-
 here are my buttons, feel free to download it and link it back to this page on your website.
 
 [![allissa's comfy burrow now!]({itzzennet})](https://itzzen.net)
