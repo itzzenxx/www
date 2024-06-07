@@ -6,4 +6,4 @@ if you need to get a hold of me, I have a few options you can use
 - [<i class="fa-solid fa-message"></i> @itzzen:constellatory.net](https://matrix.to/#/@itzzen:constellatory.net) | matrix\*
 - [<i class="fa-solid fa-envelope"></i> itzzen@tutamail.com](mailto:itzzen@tutamail.com) | email
 
-*\*these contact methods are more preferred if the subject matter is sensitive and requires a secure communications protocl*
+*\*these contact methods are more preferred if the subject matter is sensitive and requires a secure communications protocol*
