@@ -4,6 +4,7 @@ import itzzennetlegacy from "/assets/itzzennetlegacy.png";
 import archlinux from "/assets/archlinux.png";
 import arimelody from "/assets/ari-melody.gif";
 import american from "/assets/american.png";
+import animegay from "/assets/animegay.png";
 import anybrowser from "/assets/any-browser.gif";
 import anythingbutwindows from "/assets/anythingbutwindows.gif";
 import chrome from "/assets/chrome.gif";
@@ -72,6 +73,7 @@ here are my other buttons I've curated:
 [![arch linux]({archlinux})](https://archlinux.org/)
 [![ari melody]({arimelody})](https://arimelody.me/)
 [![american flag]({american})](https://people.com/politics/how-flying-american-flag-upside-down-became-bipartisan-act-rebellion/)
+![anime is gay as hell but I approve]({animegay})
 ![any browser you like]({anybrowser})
 ![anything but windows]({anythingbutwindows})
 ![same shit, different asshole]({chrome})
