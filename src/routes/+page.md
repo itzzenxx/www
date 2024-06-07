@@ -26,6 +26,7 @@ import kawaiizenbo from "/assets/kawaiizenbo.me.gif";
 import ketraline from "/assets/ketraline.gif";
 import lesbian from "/assets/lesbian.png";
 import lux from "/assets/lux.png";
+import matrix from "/assets/matrix.png";
 import mozilla from "/assets/mozilla2.gif";
 import nano from "/assets/nano.png";
 import nbsp from "/assets/nbsp.png";
@@ -95,6 +96,7 @@ here are my other buttons I've curated:
 [![ketraline]({ketraline})](https://ketraline.nekoweb.org)
 ![lesbian flag]({lesbian})
 [![lux aliaga]({lux})](https://nixgoat.me)
+[![matrix]({matrix})](https://matrix.org)
 [![mozilla]({mozilla})](https://mozilla.org)
 [![nano]({nano})](https://nano.lgbt)
 [![catch-all enbyspace]({nbsp})](https://enby.space)
