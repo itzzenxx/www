@@ -9,13 +9,6 @@
 	<meta name="description" content="this is the personal website of allissa" />
 </svelte:head>
 
-<style>
-	.shrink {
-		transform: scale(.65);
-		transform-origin: top left;
-	}
-</style>
-
 <header>
 	<h1>allissa's comfy burrow</h1>
 	<p><a href="https://tube.constellatory.net/watch?v=bdT8ixdxPX4"><i>“All around the world, you've gotta spread the word!”</i></a></p>
@@ -45,3 +38,10 @@
 <footer>
 	<p><i><a href="https://codeberg.org/itzzen/www/commits/branch/main">site last modified June 24th 2024</a></i> | <i>made with</i> ❤ <i>by allissa | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>
+
+<style>
+	.shrink {
+		transform: scale(0.65);
+		transform-origin: top left;
+	}
+</style>

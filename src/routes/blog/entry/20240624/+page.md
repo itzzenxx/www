@@ -13,7 +13,7 @@ import buttons from "/assets/blog/20240624/buttons.png";
 
 ![screenshot of the revamped itzzen.net homepage]({website})
 
-I got bored so I decided to slightly redecorate my website a bit, and I'm *super* bored so I'm writing a blog post about it!
+I got bored so I decided to slightly redecorate my website a bit, and I'm _super_ bored so I'm writing a blog post about it!
 
 ### so, what's new?
 
@@ -29,15 +29,15 @@ also, any external link now displays an "<i class="shrink fa-solid fa-arrow-up-r
 
 #### writeups are now just blogs
 
-gosh, I felt so special naming the blogs something that wasn't "blog." But the special name seems quite cheesy so I just named it to what it is. A *blog* page.
+gosh, I felt so special naming the blogs something that wasn't "blog." But the special name seems quite cheesy so I just named it to what it is. A _blog_ page.
 
 #### 88x31 galore!
 
 ![a bunch of 88x31 website buttons]({buttons})
 
-regular adding and updating of my 88x31 button stash. The majority of my curated collection has been moved to the new meta page with only 3 buttons on the main page. Those being an interactive one, my website's button, and my girlfriend's button. 
+regular adding and updating of my 88x31 button stash. The majority of my curated collection has been moved to the new meta page with only 3 buttons on the main page. Those being an interactive one, my website's button, and my girlfriend's button.
 
-### ok, but, what's *not* new?
+### ok, but, what's _not_ new?
 
 #### the about me page is still not done!
 
