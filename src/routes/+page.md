@@ -1,6 +1,6 @@
 <script>
 import itzzennet from "/assets/itzzennet.png";
-import ajvega from "/assets/ajvega.gif";
+import ajvega from "/assets/ajvega.png";
 import american from "/assets/american.png";
 import animegay from "/assets/animegay.png";
 import archlinux from "/assets/archlinux.png";
