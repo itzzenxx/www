@@ -26,7 +26,7 @@ export default {
 		mdsvex({
 			extensions: ['.md'],
 			layout: {
-				'writeups/entry': 'src/routes/writeups/entry/reader.svelte'
+				'blog/entry': 'src/routes/blog/entry/reader.svelte'
 			}
 		})
 	]

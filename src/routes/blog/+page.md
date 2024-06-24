@@ -4,7 +4,7 @@
 	import validatom from "/assets/validatom.png";
 </script>
 
-## my write ups
+## my website blog
 
 very infrequently I will write a thing and post it onto this website, my entries are shown here:
 
@@ -18,8 +18,8 @@ very infrequently I will write a thing and post it onto this website, my entries
 
 I have an atom feed and a rss feed if you wish to be notified whenever I write something
 
-- [<i class="fa-solid fa-atom"></i> atom feed](/writeups/atom.xml)
-- [<i class="fa-solid fa-rss"></i> legacy rss feed](/writeups/rss.xml)
+- [<i class="fa-solid fa-atom"></i> atom feed](/blog/atom.xml)
+- [<i class="fa-solid fa-rss"></i> legacy rss feed](/blog/rss.xml)
 
 ![valid rss]({validatom})
 ![valid rss]({validrss})

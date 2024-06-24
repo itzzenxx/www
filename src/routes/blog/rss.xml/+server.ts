@@ -7,16 +7,16 @@ export const GET = async () => {
 <rss version="2.0">
 <channel>
 <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
-<title>allissa's write ups</title>
-<link>https://itzzen.net/writeups</link>
-<description>allissa's write ups</description>
+<title>allissa's blog</title>
+<link>https://itzzen.net/blog</link>
+<description>allissa's blog</description>
 ${posts
 	.map(
 		(post: { meta: { title: any; date: string | number | Date }; path: any; content: { html: any } }) => `
 <item>
 <title>${post.meta.title}</title>
 <link>https://itzzen.net${post.path}</link>
-<guid>https://itzzen.net/writeups</guid>
+<guid>https://itzzen.net/blog</guid>
 <pubDate>${new Date(post.meta.date).toUTCString()}</pubDate>
 <description>
 <![CDATA[${post.content.html}]]>

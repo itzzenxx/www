@@ -41,7 +41,7 @@ nav a {
 	height: 110px;
 }
 
-article {
+article, img {
 	max-width: 612px;
 }
 

@@ -9,7 +9,7 @@
 	export let date;
 </script>
 
-<p><a href="/writeups"><i class="fa-solid fa-arrow-left"></i> back to my writeups</a></p>
+<p><a href="/blog"><i class="fa-solid fa-arrow-left"></i> back to my blog</a></p>
 
 <h2>{title}</h2>
 <p>publish date: {date}</p>

@@ -1,53 +1,18 @@
 <script>
 import itzzennet from "/assets/itzzennet.png";
-import ajvega from "/assets/ajvega.png";
-import american from "/assets/american.png";
-import animegay from "/assets/animegay.png";
-import archlinux from "/assets/archlinux.png";
-import arimelody from "/assets/ari-melody.gif";
-import anybrowser from "/assets/any-browser.gif";
-import anythingbutwindows from "/assets/anythingbutwindows.gif";
-import chrome from "/assets/chrome.gif";
-import commenter from "/assets/commenter.png";
-import dbd from "/assets/dbd.gif";
-import debian from "/assets/debian.gif";
-import deci from "/assets/deci.png";
 import easrng from "/assets/easrng.gif";
-import ellietime from "/assets/ellietime.png";
-import elysia from "/assets/elysia.png";
-import fckingwww from "/assets/fckingwww.gif";
-import freebsd from "/assets/freebsd.gif";
-import gaywomen from "/assets/gaywomen.gif";
-import gnulinux from "/assets/gnu-linux.gif";
-import googol from "/assets/googol.gif";
-import grapheneos from "/assets/grapheneos.png";
-import hddvd from "/assets/hddvd.png";
-import internetarchive from "/assets/internetarchive.gif";
-import kawaiizenbo from "/assets/kawaiizenbo.me.gif";
-import ketraline from "/assets/ketraline.gif";
-import lesbian from "/assets/lesbian.png";
-import lux from "/assets/lux.png";
-import matrix from "/assets/matrix.png";
-import mozilla from "/assets/mozilla2.gif";
-import nano from "/assets/nano.png";
-import nbsp from "/assets/nbsp.png";
-import nocookie from "/assets/nocookie.gif";
-import nofuckingthanks from "/assets/nofuckingthanks.gif";
-import nonazi from "/assets/antinazi.gif";
-import oasis from "/assets/oasis.png";
-import palestine from "/assets/palestine.png";
-import seirdy from "/assets/seirdy.png";
-import theonion from "/assets/theonion.gif";
-import trans from "/assets/trans.png";
-import validbad from "/assets/valid-bad.gif";
-import vscbutton from "/assets/vscbutton.gif";
+import kannagif from "/assets/kanna.gif";
 </script>
 
 <style>
-	img, .button {
+	.button {
 		height: 31px;
 		width: 88px;
 		margin-right: 6px;
+	}
+
+	img {
+		height: 250px;
 	}
 </style>
 
@@ -63,51 +28,11 @@ this web page was made using [svelte](https://svelte.dev), I do like working wit
 
 <iframe title="bucket-webring" id="bucket-webring" style="width: 100%; height: 3rem; border: none;" src="https://webring.bucketfish.me/embed.html?name=allissa"></iframe>
 
-here is my button, feel free to download it and link it back to this page on your website.
+&#8239;
+<iframe class="button" src="//incr.easrng.net/badge?key=itzzennet" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
+<a href="https://itzzen.net"><img src={itzzennet} alt="allissa's comfy burrow now!" class="button"></a>
+<a href="https://easrng.net"><img src={easrng} alt="easrng" class="button"></a>
 
-[![allissa's comfy burrow now!]({itzzennet})](https://itzzen.net)
+*nudge nudge,* are you looking for the rest of my web buttons? take a look at this website's new [meta page](/meta) ;)
 
-here are the other buttons I've curated:
-
-&#8239;<iframe class="button" src="//incr.easrng.net/badge?key=itzzennet" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
-[![a.j. vega anti-loss ep out now!]({ajvega})](https://ajvegarabbit.neocities.org/)
-[![american flag]({american})](https://people.com/politics/how-flying-american-flag-upside-down-became-bipartisan-act-rebellion/)
-![anime is gay as hell but I approve]({animegay})
-[![arch linux]({archlinux})](https://archlinux.org/)
-[![ari melody]({arimelody})](https://arimelody.me/)
-![any browser you like]({anybrowser})
-![anything but windows]({anythingbutwindows})
-![same shit, different asshole]({chrome})
-[![commenter25]({commenter})](https://commenter.cc)
-[![defective by design, eliminate drm now]({dbd})](https://defectivebydesign.org)
-[![powered by debian]({debian})](https://debian.org)
-[![deci]({deci})](https://deci.pages.gay)
-[![easrng]({easrng})](https://easrng.net/)
-[![ellie time]({ellietime})](https://idkimjustadog.neocities.org/)
-[![meow elysia]({elysia})](https://le.alphamethyl.barr0w.net/~elysia/index.html)
-![fucking webmaster]({fckingwww})
-[![powered by freebsd]({freebsd})](https://freebsd.org)
-![gay women]({gaywomen})
-![made on gnu linux]({gnulinux})
-[![googol]({googol})](https://youtube.com/watch?v=Zcqc8XpX8Xc)
-[![grapheneos]({grapheneos})](https://grapheneos.org)
-![hd dvd]({hddvd})
-[![internet archive]({internetarchive})](https://archive.org)
-[![kawaiizenbo.me]({kawaiizenbo})](https://kawaiizenbo.me)
-[![ketraline]({ketraline})](https://ketraline.nekoweb.org)
-![lesbian flag]({lesbian})
-[![lux aliaga]({lux})](https://nixgoat.me)
-[![matrix]({matrix})](https://matrix.org)
-[![mozilla]({mozilla})](https://mozilla.org)
-[![nano]({nano})](https://nano.lgbt)
-[![catch-all enbyspace]({nbsp})](https://enby.space)
-![this site is certified 100% cookie free!]({nocookie})
-![no fucking thanks]({nofuckingthanks})
-![no nazi, no fascism, no racism]({nonazi})
-[![oasis]({oasis})](https://oasisinet.com)
-[![palestinian flag]({palestine})](https://techforpalestine.org/learn-more/)
-[![square icon of a colon and semicolon next to the word 'Seirdy']({seirdy})](https://seirdy.one)
-[![the onion www.theonion.com]({theonion})](https://www.theonion.com)
-![trans flag]({trans})
-![W3C bad html markup]({validbad})
-[![visual studio code]({vscbutton})](https://code.visualstudio.com/)
+![kanna kamui opening a christmas sock for there to me no present inside. She annoyingly goes back to bed. A now visible kobayashi is seen hiding against the bed to kanna doesn't spot her]({kannagif})
