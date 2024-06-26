@@ -60,7 +60,7 @@ main {
 	user-select: all;
 }
 
-li+li {
+li + li {
 	margin: 6px 0;
 }
 
