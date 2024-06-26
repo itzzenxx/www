@@ -13,6 +13,7 @@ import dbd from "/assets/dbd.gif";
 import debian from "/assets/debian.gif";
 import deci from "/assets/deci.png";
 import easrng from "/assets/easrng.gif";
+import eightyeightthirtyone from "/assets/eightyeightthirtyone.png";
 import ellietime from "/assets/ellietime.png";
 import elysia from "/assets/elysia.png";
 import ezri from "/assets/ezri.png";
@@ -110,6 +111,7 @@ these are the miscellaneous web buttons that I've collected over time, they may 
 ![same shit, different asshole]({chrome})
 [![defective by design, eliminate drm now]({dbd})](https://defectivebydesign.org)
 [![powered by debian]({debian})](https://debian.org)
+[![eightyeightthirty dot one]({eightyeightthirtyone})](https://eightyeightthirty.one)
 ![fucking webmaster]({fckingwww})
 [![powered by freebsd]({freebsd})](https://freebsd.org)
 ![gay women]({gaywomen})
