@@ -4,6 +4,13 @@
 	import validatom from "/assets/validatom.png";
 </script>
 
+<style>
+img {
+    width: 88px;
+    height: 31px;
+}
+</style>
+
 ## my website blog
 
 very infrequently I will write a thing and post it onto this website, my entries are shown here:

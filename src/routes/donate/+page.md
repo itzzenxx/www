@@ -1,3 +1,10 @@
+<style>
+img {
+    width: 88px;
+    height: 31px;
+}
+</style>
+
 ## my tip jar
 
 if you like this page, my work on my various projects, or whatever I did that has benefitted you at all, feel free to donate to me!

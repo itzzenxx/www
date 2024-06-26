@@ -41,9 +41,14 @@ nav a {
 	height: 110px;
 }
 
-article,
-img {
+article {
 	max-width: 612px;
+}
+
+img {
+	max-width: 400px;
+	width: 100%;
+	height: auto;
 }
 
 main {
@@ -55,7 +60,7 @@ main {
 	user-select: all;
 }
 
-li + li {
+li+li {
 	margin: 6px 0;
 }
 

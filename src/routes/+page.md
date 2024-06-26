@@ -10,10 +10,6 @@ import kannagif from "/assets/kanna.gif";
 		width: 88px;
 		margin-right: 6px;
 	}
-
-	img {
-		height: 250px;
-	}
 </style>
 
 ## hi there, my name is allissa
