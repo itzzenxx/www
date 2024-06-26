@@ -15,6 +15,7 @@ import deci from "/assets/deci.png";
 import easrng from "/assets/easrng.gif";
 import ellietime from "/assets/ellietime.png";
 import elysia from "/assets/elysia.png";
+import ezri from "/assets/ezri.png";
 import fckingwww from "/assets/fckingwww.gif";
 import free from "/assets/free.gif";
 import freebsd from "/assets/freebsd.gif";
@@ -83,6 +84,7 @@ I have friends!! and they have websites!! seriously though you should check them
 [![ellie time]({ellietime})](https://idkimjustadog.neocities.org/)
 [![free]({free})](https://freeplay.floof.company/)
 [![meow elysia]({elysia})](https://le.alphamethyl.barr0w.net/~elysia/index.html)
+[![ezri]({ezri})](https://ezri.pet/)
 [![Iri,s]({irisnk})](https://irisnk.me/)
 [![kawaiizenbo.me]({kawaiizenbo})](https://kawaiizenbo.me)
 [![ketraline]({ketraline})](https://ketraline.nekoweb.org)
