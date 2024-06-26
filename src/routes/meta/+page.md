@@ -132,3 +132,4 @@ these are the miscellaneous web buttons that I've collected over time, they may 
 ![trans flag]({trans})
 ![W3C bad html markup]({validbad})
 [![visual studio code]({vscbutton})](https://code.visualstudio.com/)
+![battle of wits!](https://marisakirisame.net/battle-of-wits.gif)
