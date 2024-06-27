@@ -57,6 +57,6 @@ blockquote p {
 	}
 
 	nav {
-		border-right: 1px lightgray solid !important;
+		border-right: 1px lightgray solid;
 	}
 }

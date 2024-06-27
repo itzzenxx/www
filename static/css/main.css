@@ -67,3 +67,43 @@ li + li {
 .fa-bitcoin-cash {
 	transform: rotate(-30deg);
 }
+
+@media (prefers-color-scheme: dark) {
+	nav {
+		border-right: 1px lightgray solid;
+	}
+}
+
+@media screen and (max-width: 450px) {
+	main {
+		flex-direction: column;
+	}
+	nav {
+		border: unset;
+		border-bottom: 1px black solid;
+		flex-flow: wrap;
+		min-width: unset;
+		max-width: unset;
+		justify-content: space-around;
+		position: sticky;
+		top: 0;
+		background-color: rgba(211, 211, 211, 0.8);
+	}
+	nav hr {
+		display: none;
+	}
+	nav img {
+		display: none;
+	}
+}
+
+@media screen and (prefers-color-scheme: dark) and (max-width: 450px) {
+	main {
+		flex-direction: column;
+	}
+	nav {
+		border: unset;
+		border-bottom: 1px lightgray solid;
+		background-color: rgba(0, 0, 0, 0.8);
+	}
+}
