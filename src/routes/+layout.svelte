@@ -24,9 +24,9 @@
 		<a href="/socials" class:active={$page.url.pathname == '/socials/'}><i class="fa-solid fa-thumbs-up"></i> socials</a>
 		<a href="/projects" class:active={$page.url.pathname == '/projects/'}><i class="fa-solid fa-hammer"></i> projects</a>
 		<a href="/donate" class:active={$page.url.pathname == '/donate/'}><i class="fa-solid fa-money-bill"></i> donate</a>
-		<a href="https://matrix.to/#/#allissas-comfy-burrow:constellatory.net"><i class="fa-solid fa-igloo"></i> the burrow <i class="shrink fa-solid fa-arrow-up-right-from-square"></i></a>
-		<a href="https://cloud.itzzen.net/s/mTkjfis3bx8cPar"><i class="fa-solid fa-camera"></i> camera <i class="shrink fa-solid fa-arrow-up-right-from-square"></i></a>
-		<a href="https://cloud.itzzen.net/s/Gdk99krDRYiRc42"><i class="fa-solid fa-folder"></i> files <i class="shrink fa-solid fa-arrow-up-right-from-square"></i></a>
+		<a href="https://matrix.to/#/#allissas-comfy-burrow:constellatory.net" target="_blank"><i class="fa-solid fa-igloo"></i> the burrow <i class="shrink fa-solid fa-arrow-up-right-from-square"></i></a>
+		<a href="https://cloud.itzzen.net/s/mTkjfis3bx8cPar" target="_blank"><i class="fa-solid fa-camera"></i> camera <i class="shrink fa-solid fa-arrow-up-right-from-square"></i></a>
+		<a href="https://cloud.itzzen.net/s/Gdk99krDRYiRc42" target="_blank"><i class="fa-solid fa-folder"></i> files <i class="shrink fa-solid fa-arrow-up-right-from-square"></i></a>
 		<hr />
 		<img alt="kanna kamui looking down" src={picture} id="picture" />
 	</nav>
