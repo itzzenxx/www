@@ -32,6 +32,7 @@ import ketraline from "/assets/ketraline.gif";
 import larsfrommars from "/assets/larsfrommars.png";
 import lesbian from "/assets/lesbian.png";
 import lux from "/assets/lux.gif";
+import mae from "/assets/mae.png";
 import matrix from "/assets/matrix.png";
 import mozilla from "/assets/mozilla2.gif";
 import nano from "/assets/nano.png";
@@ -77,7 +78,7 @@ this is my very own web button, take a second to admire it, or don't. feel free 
 
 I have friends!! and they have websites!! seriously though you should check them out, they're just as cool as this website!
 
-[![a.j. vega anti-loss ep out now!]({ajvega})](https://ajvegarabbit.neocities.org/)
+[![a.j. vega]({ajvega})](https://ajvegarabbit.neocities.org/)
 [![ari melody]({arimelody})](https://arimelody.me/)
 [![commenter25]({commenter})](https://commenter.cc)
 [![deci]({deci})](https://deci.pages.gay)
@@ -91,6 +92,7 @@ I have friends!! and they have websites!! seriously though you should check them
 [![ketraline]({ketraline})](https://ketraline.nekoweb.org)
 [![hi i'm lars]({larsfrommars})](https://larsfrommars.neocities.org/)
 [![lux:~$]({lux})](https://nixgoat.me)
+[![mae]({mae})](https://mae.wtf)
 [![nano]({nano})](https://nano.lgbt)
 [![catch-all enbyspace]({nbsp})](https://enby.space)
 [![square icon of a colon and semicolon next to the word 'Seirdy']({seirdy})](https://seirdy.one)
