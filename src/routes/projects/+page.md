@@ -2,9 +2,9 @@
 
 I have created a few projects, here they are:
 
-- [<i class="fa-solid fa-globe"></i> Plus St](https://plus.st) | a home for cool internet projects
 - [<i class="fa-solid fa-globe"></i> Constellatory](https://constellatory.net) | a collection of internet serivces configured to be reliable, secure, and fast
 - [<i class="fa-solid fa-cookie-bite"></i> Cookie Patchset](https://codeberg.org/itzzen/cookie-patchset) | a few minor patches for the infamous cookie clicker web game
+- [<i class="fa-solid fa-globe"></i> Plus St](https://plus.st) | a home for cool internet projects
 
 ## development hubs
 

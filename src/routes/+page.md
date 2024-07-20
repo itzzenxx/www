@@ -14,9 +14,9 @@ import kannagif from "/assets/kanna.gif";
 
 ## hi there, my name is allissa
 
-this is my rabbit hole, website, webpage, den, or whatever you'd like to call it. you can find all sorts of anything here if you go digging for it.
+this is my website, webpage, den... whatever you'd like to call it. you can find all sorts of anything here if you go digging for it.
 
-you can view this website's hidden service at <span class="letter-break">[itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion](http://itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion/)</span>
+you can view this website's hidden service by visiting <span class="letter-break">[itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion](http://itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion/)</span> in the [Tor Browser](https://torproject.org)
 
 this web page was made using [svelte](https://svelte.dev), I do like working with it to build out some cool functions of this website (like the RSS & Atom feed!)
 

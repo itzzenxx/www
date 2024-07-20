@@ -10,8 +10,10 @@ img {
 
 ## about the webmistress
 
-hello, my name is allissa, this is my about me page
+hello, my name is allissa.
 
-I am an 18 year old girl living in Connecticut, USA who has a passion of messing around with experimental technology, old things, computers, or whatever seems fun.
+I am an 18 year old living somewhere in Connecticut, USA.
+
+here is a picture of me:
 
 ![me looking at the viewer while sitting on a rock in a pretty black dress]({me})

@@ -9,7 +9,7 @@ img {
 
 if you like this page, my work on my various projects, or whatever I did that has benefitted you at all, feel free to donate to me!
 
-### donate using fiat currency
+### donate using credit/debit
 
 [![liberapay donation button](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/itzzen/donate)
 

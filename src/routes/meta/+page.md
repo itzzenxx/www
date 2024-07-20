@@ -3,7 +3,6 @@ import itzzennet from "/assets/itzzennet.png";
 import ajvega from "/assets/ajvega.png";
 import american from "/assets/american.png";
 import animegay from "/assets/animegay.png";
-import archlinux from "/assets/archlinux.png";
 import arimelody from "/assets/ari-melody.gif";
 import anybrowser from "/assets/any-browser.gif";
 import anythingbutwindows from "/assets/anythingbutwindows.gif";
@@ -15,7 +14,7 @@ import deci from "/assets/deci.png";
 import easrng from "/assets/easrng.gif";
 import eightyeightthirtyone from "/assets/eightyeightthirtyone.png";
 import ellietime from "/assets/ellietime.png";
-import elysia from "/assets/elysia.png";
+import eris from "/assets/eris.png";
 import ezri from "/assets/ezri.png";
 import fckingwww from "/assets/fckingwww.gif";
 import free from "/assets/free.gif";
@@ -36,7 +35,7 @@ import mae from "/assets/mae.png";
 import matrix from "/assets/matrix.png";
 import mozilla from "/assets/mozilla2.gif";
 import nano from "/assets/nano.png";
-import nbsp from "/assets/nbsp.png";
+import nbsp from "/assets/nbsp.gif";
 import nocookie from "/assets/nocookie.gif";
 import nofuckingthanks from "/assets/nofuckingthanks.gif";
 import nonazi from "/assets/antinazi.gif";
@@ -44,11 +43,10 @@ import oasis from "/assets/oasis.png";
 import palestine from "/assets/palestine.png";
 import seirdy from "/assets/seirdy.png";
 import shitpostalotl from "/assets/shitpostalotl.png";
-import sleepy from "/assets/sleepy.png";
-import tauon from "/assets/tauon.png";
 import theonion from "/assets/theonion.gif";
 import trans from "/assets/trans.png";
 import validbad from "/assets/valid-bad.gif";
+import voidlinux from "/assets/void.gif";
 import vscbutton from "/assets/vscbutton.gif";
 import yassie from "/assets/yassie_j.gif";
 </script>
@@ -84,22 +82,16 @@ I have friends!! and they have websites!! seriously though you should check them
 [![deci]({deci})](https://deci.pages.gay)
 [![easrng]({easrng})](https://easrng.net/)
 [![ellie time]({ellietime})](https://idkimjustadog.neocities.org/)
-[![free]({free})](https://freeplay.floof.company/)
-[![meow elysia]({elysia})](https://le.alphamethyl.barr0w.net/~elysia/index.html)
+[![eris]({eris})](https://eris.meows.gay/)
 [![ezri]({ezri})](https://ezri.pet/)
 [![Iri,s]({irisnk})](https://irisnk.me/)
 [![kawaiizenbo.me]({kawaiizenbo})](https://kawaiizenbo.me)
 [![ketraline]({ketraline})](https://ketraline.nekoweb.org)
-[![hi i'm lars]({larsfrommars})](https://larsfrommars.neocities.org/)
 [![lux:~$]({lux})](https://nixgoat.me)
 [![mae]({mae})](https://mae.wtf)
 [![nano]({nano})](https://nano.lgbt)
 [![catch-all enbyspace]({nbsp})](https://enby.space)
 [![square icon of a colon and semicolon next to the word 'Seirdy']({seirdy})](https://seirdy.one)
-[![sp]({shitpostalotl})](https://ax.derg.rest/)
-[![sleepy.ink]({sleepy})](https://sleepy.ink)
-[![lily :3]({tauon})](https://tauon.dev)
-[![yassie_j]({yassie})](https://yasyasgo.moe/)
 
 #### my collection :tm:
 
@@ -107,7 +99,6 @@ these are the miscellaneous web buttons that I've collected over time, they may 
 
 [![american flag]({american})](https://people.com/politics/how-flying-american-flag-upside-down-became-bipartisan-act-rebellion/)
 ![anime is gay as hell but I approve]({animegay})
-[![arch linux]({archlinux})](https://archlinux.org/)
 ![any browser you like]({anybrowser})
 ![anything but windows]({anythingbutwindows})
 ![same shit, different asshole]({chrome})
@@ -133,5 +124,5 @@ these are the miscellaneous web buttons that I've collected over time, they may 
 [![the onion www.theonion.com]({theonion})](https://www.theonion.com)
 ![trans flag]({trans})
 ![W3C bad html markup]({validbad})
+![enter the void]({voidlinux})
 [![visual studio code]({vscbutton})](https://code.visualstudio.com/)
-![battle of wits!](https://marisakirisame.net/battle-of-wits.gif)
