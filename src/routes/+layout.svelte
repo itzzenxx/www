@@ -1,12 +1,16 @@
 <script>
-	import { page } from '$app/stores';
 	import picture from '/assets/picture.png';
-	import '/static/css/main.css';
+	import { page } from '$app/stores';
 </script>
 
 <svelte:head>
-	<title>allissa's comfy burrow</title>
-	<meta name="description" content="this is the personal website of allissa" />
+	<title>allissa's comfy burrow | {$page.url.pathname}</title>
+	<meta name="description" content="the personal website of allissa" />
+	<meta content="#FFC0CB" data-react-helmet="true" name="theme-color" />
+	<meta property="og:title" content="allissa's comfy burrow | {$page.url.pathname}" />
+	<meta property="og:description" content="the personal website of allissa" />
+	<meta property="og:url" content="https://itzzen.net{$page.url.pathname}" />
+	<meta property="og:image" content={picture} />
 </svelte:head>
 
 <header>

@@ -1,4 +1,5 @@
 <script>
+	import picture from '/assets/picture.png';
 	/**
 	 * @type string
 	 */
@@ -8,6 +9,13 @@
 	 */
 	export let date;
 </script>
+
+<svelte:head>
+	<title>allissa's blog | {title}, {date}</title>
+	<meta name="description" content="allissa's comfy blog" />
+	<meta property="og:title" content="allissa's blog | {title}, {date}" />
+	<meta property="og:description" content="allissa's comfy blog" />
+</svelte:head>
 
 <p><a href="/blog"><i class="fa-solid fa-arrow-left"></i> back to my blog</a></p>
 
