@@ -4,7 +4,7 @@ If you like this page, my work on my various projects, or whatever I did that ha
 
 ### Donate using credit/debit
 
-*I am currently in the process of we-working and choosing a new provider for this method, so it is unavalible at the moment. Sorry!*
+<a href='https://ko-fi.com/X8X810UEWR'><img height='36' style='border:0px;height:36px;width:auto;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ### Or with crypto if that floats your boat
 
