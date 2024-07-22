@@ -6,7 +6,7 @@ export const GET = async () => {
 	const body = `<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <updated>2024-04-13T00:00:00.000Z</updated>
-<title>allissa's write ups</title>
+<title>allissa's blog</title>
 <link href="https://itzzen.net/writeups"/>
 <author>
 <name>allissa</name>
