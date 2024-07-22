@@ -1,5 +1,5 @@
 ---
-title: 'my first blog entry on the itzzen net'
+title: 'My first blog entry on the itzzen net'
 date: '2024-04-12'
 ---
 

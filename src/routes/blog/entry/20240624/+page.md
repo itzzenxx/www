@@ -1,5 +1,5 @@
 ---
-title: 'the big website overhaul and (the first) changelog!'
+title: 'The big website overhaul and (the first) changelog!'
 date: '2024-06-24'
 ---
 
