@@ -28,10 +28,6 @@
 		<a href="/presence" class:active={$page.url.pathname == '/presence/'}><i class="fa-solid fa-user"></i> presence</a>
 		<a href="/donate" class:active={$page.url.pathname == '/donate/'}><i class="fa-solid fa-piggy-bank"></i> donate</a>
 		<hr />
-		<a href="https://www.last.fm/user/itzzen"><i class="fa-brands fa-lastfm"></i> now playing</a>
-		<a href="https://matrix.to/#/#allissas-comfy-burrow:constellatory.net"><i class="fa-solid fa-igloo"></i> the burrow</a>
-		<a href="https://cloud.itzzen.net/s/mTkjfis3bx8cPar"><i class="fa-solid fa-camera"></i> my photos</a>
-		<hr />
 		<img alt="kanna kamui looking down" src={picture} id="picture" />
 	</nav>
 
@@ -41,5 +37,5 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified July 28th 2024</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified August 28th 2024</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>
