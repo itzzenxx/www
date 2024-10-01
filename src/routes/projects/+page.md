@@ -3,7 +3,7 @@
 I have created a few projects, here they are:
 
 - [<i class="fa-solid fa-globe"></i> Constellatory](https://constellatory.net) | a collection of internet serivces
-- [<i class="fa-solid fa-cookie-bite"></i> Cookie Patchset](https://codeberg.org/itzzen/cookie-patchset) | very minor patches for the infamous cookie clicker web game
+- [<i class="fa-solid fa-cookie-bite"></i> Cookie Patchset](https://codeberg.org/itzzen/cookie-patchset) | patches for the infamous cookie clicker idle game
 
 ## Development hubs
 
