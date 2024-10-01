@@ -1,10 +1,11 @@
 <script>
+	import censor from '/assets/censor.gif';
 	import picture from '/assets/picture.png';
 	import { page } from '$app/stores';
 </script>
 
 <svelte:head>
-	<title>allissa's comfy burrow | {$page.url.pathname}</title>
+	<title>{$page.url.pathname} | allissa's comfy burrow</title>
 	<meta name="description" content="the personal website of allissa" />
 	<meta content="#FFC0CB" data-react-helmet="true" name="theme-color" />
 	<meta property="og:title" content="allissa's comfy burrow | {$page.url.pathname}" />
@@ -20,15 +21,21 @@
 
 <main>
 	<nav>
-		<a href="/" class:active={$page.url.pathname == '/'}><i class="fa-solid fa-house"></i> home</a>
-		<a href="/blog/" class:active={$page.url.pathname == '/blog/'}><i class="fa-solid fa-newspaper"></i> my blog</a>
-		<a href="/about" class:active={$page.url.pathname == '/about/'}><i class="fa-solid fa-address-card"></i> about me</a>
-		<a href="/projects" class:active={$page.url.pathname == '/projects/'}><i class="fa-solid fa-code"></i> projects</a>
-		<a href="/contact" class:active={$page.url.pathname == '/contact/'}><i class="fa-solid fa-paper-plane"></i> contact</a>
-		<a href="/presence" class:active={$page.url.pathname == '/presence/'}><i class="fa-solid fa-user"></i> presence</a>
-		<a href="/donate" class:active={$page.url.pathname == '/donate/'}><i class="fa-solid fa-piggy-bank"></i> donate</a>
-		<hr />
-		<img alt="kanna kamui looking down" src={picture} id="picture" />
+		<div class="links">
+			<a href="/" class:active={$page.url.pathname == '/'}><i class="fa-solid fa-house"></i> home</a>
+			<a href="/blog/" class:active={$page.url.pathname == '/blog/'}><i class="fa-solid fa-newspaper"></i> my blog</a>
+			<a href="/about" class:active={$page.url.pathname == '/about/'}><i class="fa-solid fa-address-card"></i> about me</a>
+			<a href="/projects" class:active={$page.url.pathname == '/projects/'}><i class="fa-solid fa-code"></i> projects</a>
+			<a href="/contact" class:active={$page.url.pathname == '/contact/'}><i class="fa-solid fa-paper-plane"></i> contact</a>
+			<a href="/presence" class:active={$page.url.pathname == '/presence/'}><i class="fa-solid fa-user"></i> presence</a>
+			<a href="/donate" class:active={$page.url.pathname == '/donate/'}><i class="fa-solid fa-piggy-bank"></i> donate</a>
+		</div>
+		<div class="images">
+			<hr />
+			<img alt="kanna kamui looking down" src={picture} id="picture" />
+			<hr />
+			<a href="https://www.mabsland.com/Adoption.html" id="censor" ><img alt="website content not yet rated" src={censor} id="censor" /></a>
+		</div>
 	</nav>
 
 	<article>

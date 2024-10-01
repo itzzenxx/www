@@ -95,13 +95,30 @@ nav a {
 	text-decoration: none;
 }
 
+.images, .links {
+	display: flex;
+	flex-direction: column;
+        min-width: 132px;
+        max-width: 132px;
+	gap: 12px;
+}
+
 .active {
 	font-weight: bold;
 }
 
+
+#censor, #picture {
+	margin: 0 auto;
+	height: auto;
+}
+
+#censor {
+	width: 115px;
+}
+
 #picture {
 	width: 132px;
-	height: 132px;
 }
 
 article {
@@ -148,15 +165,33 @@ li + li {
 		min-width: unset;
 		max-width: unset;
 		justify-content: space-around;
-		position: sticky;
-		top: 0;
 		background-color: rgba(211, 211, 211, 0.8);
+		flex-direction: column-reverse;
+                position: sticky;
+                top: 0;
 	}
 	nav hr {
 		display: none;
 	}
-	nav img {
-		display: none;
+	.links {
+                border: unset;
+                border-bottom: 1px black solid;
+                flex-flow: wrap;
+                min-width: unset;
+                max-width: unset;
+                justify-content: space-around;
+	}
+
+	.images {
+		flex-flow: wrap;
+		min-width: unset;
+                max-width: unset;
+		justify-content: space-between;
+	}
+
+	#picture, #censor {
+		height: 80px;
+		width: auto;
 	}
 }
 

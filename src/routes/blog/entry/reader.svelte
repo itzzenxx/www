@@ -11,9 +11,9 @@
 </script>
 
 <svelte:head>
-	<title>allissa's blog | {title}, {date}</title>
+	<title>{title} | allissa's blog</title>
 	<meta name="description" content="allissa's comfy blog" />
-	<meta property="og:title" content="allissa's blog | {title}, {date}" />
+	<meta property="og:title" content="{title} | allissa's blog" />
 	<meta property="og:description" content="allissa's comfy blog" />
 </svelte:head>
 
