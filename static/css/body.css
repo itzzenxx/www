@@ -168,7 +168,7 @@ li + li {
 		background-color: rgba(211, 211, 211, 0.8);
 		flex-direction: column-reverse;
                 position: sticky;
-                top: 0;
+                top: -90px;
 	}
 	nav hr {
 		display: none;
