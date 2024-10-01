@@ -8,6 +8,10 @@
 	 * @type string
 	 */
 	export let date;
+        /**
+         * @type string
+         */
+        export let modified;
 </script>
 
 <svelte:head>
@@ -21,6 +25,9 @@
 
 <h2>{title}</h2>
 <p>publish date: {date}</p>
+{#if modified}
+<p>modified date: {modified}</p>
+{/if}
 <p>author: itzzen@tutamail.com</p>
 <hr />
 <slot />
