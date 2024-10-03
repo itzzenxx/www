@@ -4,6 +4,12 @@ I have profiles on other places on the internet that may or may not contain some
 
 If you want to contact me, you should check out [my direct communication methods](/contact) instead.
 
+### Developemnt
+
+- [<i class="fa-solid fa-mountain"></i> itzzen](https://codeberg.org/itzzen) | codeberg <i class="fa-solid fa-key"></i>
+- [<i class="fa-brands fa-github"></i> itzzengay](https://github.com/itzzengay) | github <i class="fa-solid fa-key"></i>
+- [<i class="fa-brands fa-gitlab"></i> itzzengay](https://gitlab.com/itzzen) | gitlab <i class="fa-solid fa-key"></i>
+
 ### Games
 
 - [<i class="fa-brands fa-steam"></i> itzzengay](https://steamcommunity.com/id/itzzengay) | Steam
@@ -17,3 +23,5 @@ If you want to contact me, you should check out [my direct communication methods
 
 - [<i class="fa-brands fa-youtube"></i> @itzzengay](https://www.youtube.com/@itzzengay) | allissa (my main channel)
 - [<i class="fa-brands fa-youtube"></i> @the-atsc](https://www.youtube.com/@the-atsc) | allissa's Trainspotting Channel
+
+**<i class="fa-solid fa-key"></i> This profile has been verified with OpenPGP.** See my Keyoxide profile at [keyoxide.org](https://keyoxide.org/hkp/56de2325c6e6082f4b9bf5a685897a7d6f7af51a) for more information.
