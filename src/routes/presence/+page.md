@@ -19,6 +19,10 @@ If you want to contact me, you should check out [my direct communication methods
 - [<i class="fa-brands fa-bandcamp"></i> itzzen](https://bandcamp.com/itzzen) | Bandcamp
 - [<i class="fa-brands fa-lastfm"></i> itzzen](https://last.fm/user/itzzen) | Last.fm
 
+### Social
+
+- [<i class="fa-brands fa-mastodon"></i> @itZzenXX@pleroma.envs.net](https://pleroma.envs.net/users/itZzenXX) | Akkoma on pleroma.envs.net <i class="fa-solid fa-key"></i>
+
 ### YouTube Channels
 
 - [<i class="fa-brands fa-youtube"></i> @itzzengay](https://www.youtube.com/@itzzengay) | allissa (my main channel)
