@@ -21,7 +21,7 @@ If you want to contact me, you should check out [my direct communication methods
 
 ### Social
 
-- [<i class="fa-brands fa-mastodon"></i> @itZzenXX@pleroma.envs.net](https://pleroma.envs.net/users/itZzenXX) | Akkoma on pleroma.envs.net <i class="fa-solid fa-key"></i>
+- [<i class="fa-brands fa-x-twitter"></i> @itzzengay](https://x.com/@itzzengay) | Twitter
 
 ### YouTube Channels
 
