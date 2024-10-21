@@ -19,6 +19,10 @@ If you want to contact me, you should check out [my direct communication methods
 - [<i class="fa-brands fa-bandcamp"></i> itzzen](https://bandcamp.com/itzzen) | Bandcamp
 - [<i class="fa-brands fa-lastfm"></i> itzzen](https://last.fm/user/itzzen) | Last.fm
 
+### Social
+
+- [<i class="fa-brands fa-bluesky"></i> @itzzen.net](https://bsky.app/profile/itzzen.net) | Bluesky
+
 ### YouTube Channels
 
 - [<i class="fa-brands fa-youtube"></i> @itzzengay](https://www.youtube.com/@itzzengay) | allissa (my main channel)
