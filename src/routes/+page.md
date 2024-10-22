@@ -1,6 +1,7 @@
 <script>
 import itzzennet from "/assets/buttons/itzzennet.png";
 import easrng from "/assets/buttons/easrng.gif";
+import june from "/assets/buttons/june.png";
 import kannagif from "/assets/kanna.gif";
 </script>
 
@@ -27,3 +28,4 @@ You can view this website's hidden service by visiting <span class="letter-break
 <iframe class="button" src="//incr.easrng.net/badge?key=itzzennet" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
 <a href="https://itzzen.net"><img src={itzzennet} alt="allissa's comfy burrow now!" class="button"></a>
 <a href="https://easrng.net"><img src={easrng} alt="easrng" class="button"></a>
+<a href="https://girlboss.ceo"><img src={june} alt="june girlboss.ceo" class="button"></a>
