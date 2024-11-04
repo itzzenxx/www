@@ -32,9 +32,9 @@
 		</div>
 		<div class="images">
 			<hr />
-			<img alt="kanna kamui looking down" src={picture} id="picture" />
+			<img src={picture} alt="kanna kamui looking up" title="me.png" id="picture" />
 			<hr />
-			<a href="https://www.mabsland.com/Adoption.html" id="censor" ><img alt="website content not yet rated" src={censor} id="censor" /></a>
+			<a href="https://www.mabsland.com/Adoption.html" id="censor"><img src={censor} alt="website content is rated G" title="This site is rated G however external links may not be rated." /></a>
 		</div>
 	</nav>
 
@@ -44,5 +44,5 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified October 22th 2024</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified November 3rd 2024</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>

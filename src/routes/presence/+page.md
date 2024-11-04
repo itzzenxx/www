@@ -6,22 +6,23 @@ If you want to contact me, you should check out [my direct communication methods
 
 ### Developemnt
 
-- [<i class="fa-solid fa-mountain"></i> itzzen](https://codeberg.org/itzzen) | codeberg <i class="fa-solid fa-key"></i>
-- [<i class="fa-brands fa-github"></i> itzzengay](https://github.com/itzzengay) | github <i class="fa-solid fa-key"></i>
-- [<i class="fa-brands fa-gitlab"></i> itzzengay](https://gitlab.com/itzzen) | gitlab <i class="fa-solid fa-key"></i>
+- [<i class="fa-solid fa-mountain"></i> itzzen](https://codeberg.org/itzzen) | Codeberg <i class="fa-solid fa-key"></i>
+- [<i class="fa-brands fa-github"></i> itzzengay](https://github.com/itzzengay) | Github <i class="fa-solid fa-key"></i>
+- [<i class="fa-brands fa-gitlab"></i> itzzengay](https://gitlab.com/itzzen) | Gitlab <i class="fa-solid fa-key"></i>
 
 ### Games
 
 - [<i class="fa-brands fa-steam"></i> itzzengay](https://steamcommunity.com/id/itzzengay) | Steam
 
-### Music        
+### Music
 
 - [<i class="fa-brands fa-bandcamp"></i> itzzen](https://bandcamp.com/itzzen) | Bandcamp
 - [<i class="fa-brands fa-lastfm"></i> itzzen](https://last.fm/user/itzzen) | Last.fm
 
 ### Social
 
-- [<i class="fa-brands fa-bluesky"></i> @itzzen.net](https://bsky.app/profile/itzzen.net) | Bluesky
+- [<i class="fa-brands fa-bluesky"></i> @itzzen.net](https://bsky.app/profile/did:plc:a3yhfwtqkdj6owntbgjlmwri) | Bluesky
+- [<i class="fa-brands fa-mastodon"></i> @itZzenXX@pleroma.envs.net](https://pleroma.envs.net/itzzenxx) | Fediverse <i class="fa-solid fa-key"></i>
 
 ### YouTube Channels
 
