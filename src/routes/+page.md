@@ -5,8 +5,7 @@ import constellatory from "/assets/buttons/constellatory.png";
 import easrng from "/assets/buttons/easrng.gif";
 import june from "/assets/buttons/june.png";
 import ajvega from "/assets/buttons/ajvega.png";
-import kawaiizenbo from "/assets/buttons/kawaiizenbo.gif";	
-import nano from "/assets/buttons/nano.png";
+import vmfunc from "/assets/buttons/vmfunc	.png";
 import linux from "/assets/buttons/linux.png"
 import freebsdpowered from "/assets/buttons/freebsdpowered.gif";
 import validhtml5 from "/assets/buttons/valid-html5.gif";
@@ -45,8 +44,7 @@ You can view this website's hidden service by visiting <span class="letter-break
 <a href="https://easrng.net"><img src={easrng} alt="easrng" title="she's my mommy gf" class="button"></a>
 <a href="https://girlboss.ceo"><img src={june} alt="june girlboss.ceo" title="she's my ouppy gf" class="button"></a>
 <a href="https://ajvegarabbit.neocities.org"><img src={ajvega} alt="a. j. vega" title="she's a cool friend and makes cool music" class="button"></a>
-<a href="https://kawaiizenbo.me"><img src={kawaiizenbo} alt="kawaiizenbo.me" title="cute little autism friend" class="button"></a>
-<a href="https://nano.lgbt"><img src={nano} alt="nano" title="pony and also cat friend" class="button"></a>
+<a href="https://vmfunc.re"><img src={vmfunc} alt="mel" title="she's also very cool" class="button"></a>
 <a href="https://kernel.org"><img src={linux} alt="made on GNU/Linux" title="i use arch btw" class="button"></a>
 <a href="https://freebsd.org"><img src={freebsdpowered} alt="Powered by FreeBSD" title="this site is hosted on FreeBSD!" class="button"></a>
 <img src="{anybrowseryoulike}" alt="any browser you like" title="any colour you like" class="button">
