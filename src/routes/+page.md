@@ -5,7 +5,7 @@ import constellatory from "/assets/buttons/constellatory.png";
 import easrng from "/assets/buttons/easrng.gif";
 import june from "/assets/buttons/june.png";
 import ajvega from "/assets/buttons/ajvega.png";
-import vmfunc from "/assets/buttons/vmfunc	.png";
+import vmfunc from "/assets/buttons/vmfunc.png";
 import linux from "/assets/buttons/linux.png"
 import freebsdpowered from "/assets/buttons/freebsdpowered.gif";
 import validhtml5 from "/assets/buttons/valid-html5.gif";
