@@ -1,5 +1,6 @@
 <script>
-import kannagif from "/assets/kanna.gif";
+import connecticut from "/assets/connecticut.webm";
+import connecticutcc from "/assets/connecticut.vtt";
 import itzzennet from "/assets/buttons/itzzennet.png";
 import constellatory from "/assets/buttons/constellatory.png";
 import easrng from "/assets/buttons/easrng.gif";
@@ -32,7 +33,12 @@ This is my website, webpage, den... whatever you'd like to call it. You can find
 
 You can view this website's hidden service by visiting <span class="letter-break">[itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion](http://itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion/)</span> in the [Tor Browser](https://torproject.org)
 
-![kanna kamui looking upset]({kannagif})
+<video controls>
+	<track default kind="captions" src="{connecticutcc}" srclang="en" />
+	<source alt="a clip from the movie Madagascar where Alex is saying to Marty 'Marty come on! What would Connecticut have to offer us?'. Melmen responds with 'Lyme disease' and Alex says 'Thank you Melman" src="{connecticut}" type="video/webm">
+</video>
+
+&#8239;
 
 <iframe title="bucket-webring" id="bucket-webring" style="width: 100%; height: 3rem; border: none;" src="https://webring.bucketfish.me/embed.html?name=allissa"></iframe>
 
