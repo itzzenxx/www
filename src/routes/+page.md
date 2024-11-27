@@ -40,10 +40,6 @@ You can view this website's hidden service by visiting <span class="letter-break
 
 &#8239;
 
-<iframe title="bucket-webring" id="bucket-webring" style="width: 100%; height: 3rem; border: none;" src="https://webring.bucketfish.me/embed.html?name=allissa"></iframe>
-
-&#8239;
-
 <iframe class="button" src="//incr.easrng.net/badge?key=itzzennet" style="background: url(//incr.easrng.net/bg.gif); border: 0" title="increment badge" width="88" height="31"></iframe>
 <a href="https://itzzen.net"><img src={itzzennet} alt="allissa's comfy burrow now!" title="that's me!" class="button"></a>
 <a href="https://constellatory.net"><img src={constellatory} alt="Constellatory's 5 stars" title="I host Constellatory!" class="button"></a>
@@ -57,7 +53,7 @@ You can view this website's hidden service by visiting <span class="letter-break
 <a href="https://eightyeightthirty.one/#itzzen.net"><img src={eightyeightthirtyone} alt="eighty eight by thirty dot one" title="very cool 88x31 button indexer site" class="button"></a>
 <img src="{transyourgender}" alt="trans your gender!" title="because I sure did!" class="button">
 <img src="{notcloudflared}" alt="This website is not cloudflared!" title="I don't use services from bigoted companies!" class="button">
-<img src={discordnoway} alt="Discord? No Way!" title="I don't use Discord and I'm proud!" class="button">
+<a href="https://cadence.moe/blog/2020-06-06-why-you-shouldnt-trust-discord"><img src={discordnoway} alt="Discord? No Way!" title="I don't use Discord and I'm proud!" class="button"></a>
 <img src={shitify} alt="Spotify, When you love music but hate artists." title="Don't use Spotify! Buy from your artists instead!" class="button">
 <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fitzzen.net"><img src={validhtml5} alt="Valid HTML5" title="this website's HTML is valid!" class="button"></a>
 <a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fitzzen.net"><img src="{validcss}" alt="Valid CSS" title="this website's CSS is valid!" class="button"></a>
