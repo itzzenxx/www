@@ -7,8 +7,6 @@ If you want to contact me, you should check out [my direct communication methods
 ### Developemnt
 
 - [<i class="fa-solid fa-mountain"></i> itzzen](https://codeberg.org/itzzen) | Codeberg <i class="fa-solid fa-key"></i>
-- [<i class="fa-brands fa-github"></i> itzzengay](https://github.com/itzzengay) | Github <i class="fa-solid fa-key"></i>
-- [<i class="fa-brands fa-gitlab"></i> itzzengay](https://gitlab.com/itzzen) | Gitlab <i class="fa-solid fa-key"></i>
 
 ### Games
 
