@@ -126,7 +126,8 @@ article {
 	max-width: 612px;
 }
 
-img, video {
+img,
+video {
 	max-width: 400px;
 	width: 100%;
 	height: auto;
