@@ -1,5 +1,7 @@
 ## About the webmistress
 
-Hello, my name is allissa.
+<div class="about-blank">
 
-I exist.
+THIS PAGE IS INTENTIONALLY LEFT BLANK.
+
+</div>
