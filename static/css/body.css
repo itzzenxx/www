@@ -210,12 +210,12 @@ li + li {
 }
 
 .about-blank {
-text-align: center;
-line-height: 600px;
-width: 612px;
-height: 600px;
+	text-align: center;
+	line-height: 600px;
+	width: 612px;
+	height: 600px;
 }
 
 .about-blank p {
-color: gray;
+	color: gray;
 }
