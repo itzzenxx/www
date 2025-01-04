@@ -14,4 +14,4 @@ If you like this page, my work on my various projects, or whatever I did that ha
 
 **<i class="fa-solid fa-warning"></i> Warning: Please do not add a high miner fee to your payment.** These transactions do not need to reach me instantly, so it's not worth spending a lot on fees.
 
-**<i class="fa-solid fa-circle-info"></i> Info: Other Cryptocurrencies may be avaliable.** Please contact me (methods are on my contact page) with your preferred coin and I will send you my wallet for it if I have it.
+**<i class="fa-solid fa-circle-info"></i> Info: Other Cryptocurrencies may be avaliable.** Please [contact me](/contact) with your preferred coin and I will send you my wallet for it.
