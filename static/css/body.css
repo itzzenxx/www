@@ -208,3 +208,14 @@ li + li {
 		background-color: rgba(0, 0, 0, 0.8);
 	}
 }
+
+.about-blank {
+text-align: center;
+line-height: 600px;
+width: 612px;
+height: 600px;
+}
+
+.about-blank p {
+color: gray;
+}
