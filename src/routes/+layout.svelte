@@ -34,7 +34,7 @@
 			<hr />
 			<img src={picture} alt="kanna kamui looking up" title="me.png" id="picture" />
 			<hr />
-			<a href="https://www.mabsland.com/Adoption.html" id="censor"><img src={censor} alt="website content is rated G" title="This site is rated G however external links may not be rated." /></a>
+			<a href="https://www.mabsland.com/Adoption.html" id="censor"><img src={censor} alt="website content is rated WEB-14" title="This site is rated WEB-14. However, external links may not be rated." /></a>
 		</div>
 	</nav>
 
@@ -44,5 +44,5 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified January 4th 2025</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified January 6th 2025</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>
