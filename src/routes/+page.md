@@ -6,8 +6,8 @@ import easrng from "/assets/buttons/easrng.gif";
 import june from "/assets/buttons/june.png";
 import ajvega from "/assets/buttons/ajvega.png";
 import biddyfox from "/assets/buttons/biddyfox.png";
-import ezri from "/assets/buttons/ezri.png";
 import kawaiizenbo from "/assets/buttons/kawaiizenbo.gif";
+import vmfunc from "/assets/buttons/vmfunc.png";
 import linux from "/assets/buttons/linux.png"
 import freebsdpowered from "/assets/buttons/freebsdpowered.gif";
 import validhtml5 from "/assets/buttons/valid-html5.gif";
@@ -47,8 +47,8 @@ You can view this website's hidden service by visiting <span class="letter-break
 <a href="https://girlboss.ceo"><img src={june} alt="june girlboss.ceo" class="button"></a>
 <a href="https://ajvegarabbit.neocities.org"><img src={ajvega} alt="a. j. vega" class="button"></a>
 <a href="https://biddyfox.net"><img src={biddyfox} alt="biddyfox" class="button"></a>
-<a href="https://ezri.pet"><img src={ezri} alt="ezri" class="button"></a>
 <a href="https://kawaiizenbo.me"><img src={kawaiizenbo} alt="kawaiizenbo.me" class="button"></a>
+<a href="https://vmfunc.re"><img src={vmfunc} alt="mel" class="button"></a>
 <a href="https://kernel.org"><img src={linux} alt="made on GNU/Linux" class="button"></a>
 <a href="https://freebsd.org"><img src={freebsdpowered} alt="Powered by FreeBSD" class="button"></a>
 <img src="{anybrowseryoulike}" alt="any browser you like" class="button">
