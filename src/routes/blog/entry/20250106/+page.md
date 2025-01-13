@@ -3,8 +3,7 @@ title: 'the ashten posts'
 date: '2025-01-06'
 ---
 
-hi. I needed a place off the fediverse to house my response posts for safe keepings. If you aren't already familiar with the drama these posts are refering to, please disregard this blog post. 
-
+hi. I needed a place off the fediverse to house my response posts for safe keepings. If you aren't already familiar with the drama these posts are refering to, please disregard this blog post.
 
 ## Post 1:
 
