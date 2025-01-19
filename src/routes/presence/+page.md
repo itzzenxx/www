@@ -11,6 +11,7 @@ If you want to contact me, you should check out [my direct communication methods
 ### Games
 
 - [<i class="fa-brands fa-steam"></i> itzzengay](https://steamcommunity.com/id/itzzengay) | Steam
+- [<i class="fa-solid fa-gamepad"></i> itzzen](https://ch.tetr.io/u/itzzen) | TETR.IO
 
 ### Music
 
@@ -24,6 +25,5 @@ If you want to contact me, you should check out [my direct communication methods
 ### YouTube Channels
 
 - [<i class="fa-brands fa-youtube"></i> @itzzengay](https://www.youtube.com/@itzzengay) | allissa (my main channel)
-- [<i class="fa-brands fa-youtube"></i> @the-atsc](https://www.youtube.com/@the-atsc) | allissa's Trainspotting Channel
 
 **<i class="fa-solid fa-key"></i> This profile has been verified with OpenPGP.** See my Keyoxide profile at [keyoxide.org](https://keyoxide.org/hkp/1c03da082e5712790cecbb93cb07374974d8be1e) for more information.

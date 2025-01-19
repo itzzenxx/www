@@ -10,7 +10,6 @@ If you like this page, my work on my various projects, or whatever I did that ha
 
 - <i class="fa-brands fa-monero"></i> <code>XMR: <span class="letter-break">84uzBxURYwqXk9Y66XA2V7EMpGggnwAioUkjiiwsF4G8YUiNQMRJMBbVD2tQBiweKiJfPMjG6BsUXZvnrTD95k41Uj915Tb</code>
 - <i class="fa-brands fa-bitcoin"></i> <code>BTC: <span class="letter-break">bc1qp8pgl7gzxp427unv5hr69cdz5u3w4zytz2tuf5</code>
-- <i class="fa-brands fa-bitcoin fa-bitcoin-cash"></i> <code>BCH: <span class="letter-break">qzktsjucu7ty3cn4wzc0r8hzwudha40fr5lkqsuqkd</code>
 
 **<i class="fa-solid fa-warning"></i> Warning: Please do not add a high miner fee to your payment.** These transactions do not need to reach me instantly, so it's not worth spending a lot on fees.
 

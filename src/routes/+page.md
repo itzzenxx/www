@@ -1,6 +1,6 @@
 <script>
-import connecticut from "/assets/connecticut.webm";
-import connecticutcc from "/assets/connecticut.vtt";
+import frontpagevideo from "/assets/frontpagevideo.webm";
+import frontpagevideocc from "/assets/frontpagevideo.vtt";
 import itzzennet from "/assets/buttons/itzzennet.png";
 import easrng from "/assets/buttons/easrng.gif";
 import ajvega from "/assets/buttons/ajvega.png";
@@ -34,8 +34,8 @@ This is my website, webpage, den... whatever you'd like to call it. You can find
 You can view this website's hidden service by visiting <span class="letter-break">[itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion](http://itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion/)</span> in the [Tor Browser](https://torproject.org)
 
 <video controls>
-	<track default kind="captions" src="{connecticutcc}" srclang="en" />
-	<source alt="a clip from the movie Madagascar where Alex is saying to Marty 'Marty come on! What would Connecticut have to offer us?'. Melmen responds with 'Lyme disease' and Alex says 'Thank you Melman" src="{connecticut}" type="video/webm">
+	<track default kind="captions" src="{frontpagevideocc}" srclang="en" />
+	<source alt="a clip from the movie Madagascar where Alex is saying to Marty 'Marty come on! What would Connecticut have to offer us?'. Melmen responds with 'Lyme disease' and Alex says 'Thank you Melman" src="{frontpagevideo}" type="video/webm">
 </video>
 
 &#8239;
@@ -46,7 +46,7 @@ You can view this website's hidden service by visiting <span class="letter-break
 <a href="https://ajvegarabbit.neocities.org"><img src={ajvega} alt="a. j. vega" class="button"></a>
 <a href="https://biddyfox.net"><img src={biddyfox} alt="biddyfox" class="button"></a>
 <a href="https://kawaiizenbo.me"><img src={kawaiizenbo} alt="kawaiizenbo.me" class="button"></a>
-<a href="https://vmfunc.re"><img src={vmfunc} alt="mel" class="button"></a>
+<a href="https://vmfunc.gg"><img src={vmfunc} alt="mel" class="button"></a>
 <a href="https://kernel.org"><img src={linux} alt="made on GNU/Linux" class="button"></a>
 <a href="https://freebsd.org"><img src={freebsdpowered} alt="Powered by FreeBSD" class="button"></a>
 <img src="{anybrowseryoulike}" alt="any browser you like" class="button">
