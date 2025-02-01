@@ -20,10 +20,12 @@ If you want to contact me, you should check out [my direct communication methods
 
 ### Social
 
+- <i class="fa-brands fa-discord"></i> @itzzenxx | Discord <i class="fa-solid fa-key"></i>
 - <i class="fa-solid fa-hashtag"></i> itzzenxx | IRC (Libera.Chat) <i class="fa-solid fa-key"></i>
+- [<i class="fa-brands fa-x-twitter"></i> @itzzenxx](https://x.com/@itzzengay) | X <i class="fa-solid fa-key"></i>
 
 ### YouTube Channels
 
-- [<i class="fa-brands fa-youtube"></i> @itzzengay](https://www.youtube.com/@itzzengay) | allissa (my main channel)
+- [<i class="fa-brands fa-youtube"></i> @itzzengay](https://www.youtube.com/@itzzengay) | allissa 
 
 **<i class="fa-solid fa-key"></i> This profile has been verified with OpenPGP.** See my Keyoxide profile at [keyoxide.org](https://keyoxide.org/hkp/1c03da082e5712790cecbb93cb07374974d8be1e) for more information.

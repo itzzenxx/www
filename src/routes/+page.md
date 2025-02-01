@@ -14,7 +14,6 @@ import validcss from "/assets/buttons/validcss.png";
 import eightyeightthirtyone from "/assets/buttons/eightyeightthirtyone.png";
 import anybrowseryoulike from "/assets/buttons/anybrowseryoulike.png";
 import transyourgender from "/assets/buttons/transyourgender.gif";
-import discordnoway from "/assets/buttons/discord-no-way.gif";
 import shitify from "/assets/buttons/shitify.gif";
 import notcloudflared from "/assets/buttons/notcloudflared.png";
 </script>
@@ -53,7 +52,6 @@ You can view this website's hidden service by visiting <span class="letter-break
 <a href="https://eightyeightthirty.one/#itzzen.net"><img src={eightyeightthirtyone} alt="eighty eight by thirty dot one" class="button"></a>
 <img src="{transyourgender}" alt="trans your gender!" class="button">
 <img src="{notcloudflared}" alt="This website is not cloudflared!" class="button">
-<a href="https://cadence.moe/blog/2020-06-06-why-you-shouldnt-trust-discord"><img src={discordnoway} alt="Discord? No Way!" class="button"></a>
 <img src={shitify} alt="Spotify, When you love music but hate artists." class="button">
 <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fitzzen.net"><img src={validhtml5} alt="Valid HTML5" class="button"></a>
 <a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fitzzen.net"><img src="{validcss}" alt="Valid CSS" class="button"></a>
