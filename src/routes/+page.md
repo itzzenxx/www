@@ -2,7 +2,6 @@
 import frontpagevideo from "/assets/frontpagevideo.webm";
 import frontpagevideocc from "/assets/frontpagevideo.vtt";
 import itzzennet from "/assets/buttons/itzzennet.png";
-import easrng from "/assets/buttons/easrng.gif";
 import ajvega from "/assets/buttons/ajvega.png";
 import biddyfox from "/assets/buttons/biddyfox.png";
 import kawaiizenbo from "/assets/buttons/kawaiizenbo.gif";
@@ -39,9 +38,7 @@ You can view this website's hidden service by visiting <span class="letter-break
 
 &#8239;
 
-<iframe class="button" src="//incr.easrng.net/badge?key=itzzennet" style="background: url(//incr.easrng.net/bg.gif); border: 0" width="88" height="31" title="increment button"></iframe>
 <a href="https://itzzen.net"><img src={itzzennet} alt="allissa's comfy burrow now!" class="button"></a>
-<a href="https://easrng.net"><img src={easrng} alt="easrng" class="button"></a>
 <a href="https://ajvegarabbit.neocities.org"><img src={ajvega} alt="a. j. vega" class="button"></a>
 <a href="https://biddyfox.net"><img src={biddyfox} alt="biddyfox" class="button"></a>
 <a href="https://kawaiizenbo.me"><img src={kawaiizenbo} alt="kawaiizenbo.me" class="button"></a>
