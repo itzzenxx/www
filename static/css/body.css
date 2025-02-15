@@ -124,6 +124,7 @@ nav a {
 
 article {
 	max-width: 612px;
+	width: 100%;
 }
 
 img,
@@ -210,10 +211,10 @@ li + li {
 }
 
 .about-blank {
-	text-align: center;
-	line-height: 600px;
-	width: 612px;
 	height: 600px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .about-blank p {

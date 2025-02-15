@@ -16,7 +16,7 @@
 
 <header>
 	<h1>allissa's comfy burrow</h1>
-	<p><a href="https://en.wikipedia.org/wiki/Live_Forever_(Oasis_song)"><i>“You and I are gonna live forever”</i></a></p>
+	<p><a href="https://en.wikipedia.org/wiki/Don%27t_Look_Back_in_Anger"><i>“But don't back in anger, I heard you say.”</i></a></p>
 </header>
 
 <main>
@@ -44,5 +44,5 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified Feburary 13th 2025</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified Feburary 14th 2025</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>
