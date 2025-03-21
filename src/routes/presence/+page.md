@@ -22,6 +22,7 @@ If you want to contact me, you should check out [my direct communication methods
 
 - [<i class="fa-brands fa-bluesky"></i> @itzzen.net](https://bsky.app/profile/did:plc:jzdv5iis4nn5vvtqghtwzjc2) | Bluesky <i class="fa-solid fa-key"></i>
 - <i class="fa-brands fa-discord"></i> @itzzenxx | Discord <i class="fa-solid fa-key"></i>
+- [<i class="fa-brands fa-mastodon"></i> @itzzen@translunar.academy](https://social.translunar.academy/itzzen) | Fediverse (translunar.academy) <i class="fa-solid fa-key"></i>
 - <i class="fa-solid fa-hashtag"></i> itzzenxx | IRC (Libera.Chat) <i class="fa-solid fa-key"></i>
 - [<i class="fa-brands fa-x-twitter"></i> @itzzenxx](https://x.com/@itzzengay) | X <i class="fa-solid fa-key"></i>
 

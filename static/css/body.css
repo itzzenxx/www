@@ -1,19 +1,106 @@
+:root {
+	--textColor: black;
+	--backgroundColor: lightgrey;
+	--linkColor: darkblue;
+	--quoteColor: black;
+	--tableColor: black;
+	--tableOddBackgroundColor: rgba(0, 0, 0, 0.25);
+	--tableEvenBackgroundColor: rgba(0, 0, 0, 0.1);
+	--navBackgroundColor: rgba(211, 211, 211, 0.8);
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--textColor: lightgrey;
+		--backgroundColor: black;
+		--linkColor: lightblue;
+		--quoteColor: white;
+		--tableColor: darkgrey;
+		--tableOddBackgroundColor: rgba(255, 255, 255, 0.25);
+		--tableEvenBackgroundColor: rgba(255, 255, 255, 0.1);
+		--navBackgroundColor: rgba(0, 0, 0, 0.8);
+	}
+}
+
 body {
-	background-color: lightgrey;
+	background-color: var(--backgroundColor);
 }
 
 body a {
-	color: darkblue;
+	color: var(--linkColor);
+}
+
+body h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+li,
+hr,
+code,
+table {
+	color: var(--textColor);
 }
 
 blockquote {
+	border-left: 2px solid var(--quoteColor);
 	margin-left: 0px;
-	border-left: 2px solid black;
 }
 
 blockquote p {
 	padding-left: 20px;
 	font-style: italic;
+}
+
+table {
+	border-collapse: collapse;
+	padding: 5px;
+	width: 100%;
+	max-width: 612px;
+}
+
+table th {
+	border: 2px solid var(--tableColor);
+}
+
+table tr td {
+	font-family: monospace;
+	padding: 5px;
+	border: 2px solid var(--tableColor);
+}
+
+table tr:nth-child(odd) td {
+	background-color: var(--tableOddBackgroundColor);
+}
+
+table tr:nth-child(even) td {
+	background-color: var(--tableEvenBackgroundColor);
+}
+
+code {
+	font-family: monospace;
+}
+
+nav {
+	border-right: 1px var(--textColor) solid;
+	background-color: var(--navBackgroundColor);
+	padding: 10px;
+	gap: 12px;
+	min-width: 132px;
+	max-width: 132px;
+	display: flex;
+	flex-direction: column;
+}
+
+nav hr {
+	width: 100%;
+}
+
+nav a {
+	text-decoration: none;
 }
 
 #pride {
@@ -22,46 +109,8 @@ blockquote p {
 	right: 0;
 }
 
-@media screen and (max-width: 810px) {
-	#pride {
-		top: -30px;
-		right: -30px;
-		transform: scale(0.5);
-	}
-}
-
-@media (prefers-color-scheme: dark) {
-	body {
-		background-color: black;
-	}
-
-	body a {
-		color: lightblue;
-	}
-
-	body h1,
-	h2,
-	h3,
-	h4,
-	h5,
-	h6,
-	p,
-	ul,
-	li,
-	hr {
-		color: lightgray;
-	}
-
-	blockquote {
-		border-left: 2px solid white;
-	}
-
-	nav {
-		border-right: 1px lightgray solid;
-	}
-}
-
 main {
+	font-family: sans-serif;
 	display: flex;
 	flex-direction: row;
 	gap: 20px;
@@ -75,24 +124,6 @@ header {
 
 header p {
 	font-family: sans-serif;
-}
-
-nav {
-	padding: 10px;
-	gap: 12px;
-	border-right: 1px black solid;
-	min-width: 132px;
-	max-width: 132px;
-	display: flex;
-	flex-direction: column;
-}
-
-nav hr {
-	width: 100%;
-}
-
-nav a {
-	text-decoration: none;
 }
 
 .images,
@@ -134,10 +165,6 @@ video {
 	height: auto;
 }
 
-main {
-	font-family: sans-serif;
-}
-
 .letter-break {
 	line-break: anywhere;
 	user-select: all;
@@ -147,13 +174,22 @@ li + li {
 	margin: 6px 0;
 }
 
-.fa-bitcoin-cash {
-	transform: rotate(-30deg);
+.about-blank {
+	height: 600px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
-@media (prefers-color-scheme: dark) {
-	nav {
-		border-right: 1px lightgray solid;
+.about-blank p {
+	color: gray;
+}
+
+@media screen and (max-width: 810px) {
+	#pride {
+		top: -30px;
+		right: -30px;
+		transform: scale(0.5);
 	}
 }
 
@@ -163,12 +199,11 @@ li + li {
 	}
 	nav {
 		border: unset;
-		border-bottom: 1px black solid;
+		border-bottom: 1px var(--textColor) solid;
 		flex-flow: wrap;
 		min-width: unset;
 		max-width: unset;
 		justify-content: space-around;
-		background-color: rgba(211, 211, 211, 0.8);
 		flex-direction: column-reverse;
 		position: sticky;
 		top: -90px;
@@ -178,7 +213,6 @@ li + li {
 	}
 	.links {
 		border: unset;
-		border-bottom: 1px black solid;
 		flex-flow: wrap;
 		min-width: unset;
 		max-width: unset;
@@ -197,26 +231,4 @@ li + li {
 		height: 80px;
 		width: auto;
 	}
-}
-
-@media screen and (prefers-color-scheme: dark) and (max-width: 450px) {
-	main {
-		flex-direction: column;
-	}
-	nav {
-		border: unset;
-		border-bottom: 1px lightgray solid;
-		background-color: rgba(0, 0, 0, 0.8);
-	}
-}
-
-.about-blank {
-	height: 600px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-
-.about-blank p {
-	color: gray;
 }

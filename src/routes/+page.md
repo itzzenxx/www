@@ -5,10 +5,13 @@ import itzzennet from "/assets/buttons/itzzennet.png";
 import ajvega from "/assets/buttons/ajvega.png";
 import arimelody from "/assets/buttons/arimelody.gif";
 import biddyfox from "/assets/buttons/biddyfox.png";
+import byte from "/assets/buttons/byte.png";
 import kawaiizenbo from "/assets/buttons/kawaiizenbo.gif";
 import onzecki from "/assets/buttons/onzecki.avif";
 import seirdy from "/assets/buttons/seirdy.png";
 import slonk from "/assets/buttons/slonk.png";
+import tauon from "/assets/buttons/tauon.png";
+import translunar from "/assets/buttons/translunar.png";
 import vmfunc from "/assets/buttons/vmfunc.png";
 import zvava from "/assets/buttons/zvava.png";
 import linux from "/assets/buttons/linux.png"
@@ -46,25 +49,31 @@ You can view this website's hidden service by visiting <span class="letter-break
 
 &#8239;
 
-<a href="https://itzzen.net"><img src={itzzennet} alt="allissa's comfy burrow now!" title="that's me!" class="button"></a>
-<a href="https://onz.ee"><img src={onzecki} alt="onzecki" title="girlfriend" class="button"></a>
-<a href="https://ajvegarabbit.neocities.org"><img src={ajvega} alt="a. j. vega" title="good friend who makes good music!" class="button"></a>
-<a href="https://arimelody.me"><img src={arimelody} alt="arimelody.me" title="glorious shitposter" class="button"></a>
-<a href="https://biddyfox.net"><img src={biddyfox} alt="biddyfox" title="shares my love for trains" class="button"></a>
-<a href="https://kawaiizenbo.me"><img src={kawaiizenbo} alt="kawaiizenbo.me" title="has autism" class="button"></a>
-<a href="https://seirdy.one"><img src={seirdy} alt="seirdy" title="super smart fella and has good takes about everything" class="button"></a>
-<a href="https://slonk.ing"><img src={slonk} alt="slonk.ing" title="a fish I think" class="button"></a>
-<a href="https://vmfunc.gg"><img src={vmfunc} alt="mel" title="lives the life of an epic" class="button"></a>
-<a href="https://zvava.org"><img src={zvava} alt="zvava.org" title="cute" class="button"></a>
-<a href="https://kernel.org"><img src={linux} alt="made on GNU/Linux" title="loud and proud!" class="button"></a>
-<a href="https://freebsd.org"><img src={freebsdpowered} alt="Powered by FreeBSD" title="loud and proud about this one too!" class="button"></a>
-<img src={freespeech} alt="free speech now! 1996" title="free speech now!!!" class="button">
-<img src="{anybrowseryoulike}" alt="any browser you like" title="feel free to complain when something breaks!" class="button">
-<a href="https://eightyeightthirty.one/#itzzen.net"><img src={eightyeightthirtyone} alt="eighty eight by thirty dot one" title="see websites that (used to) have my button!" class="button"></a>
-<img src="{transyourgender}" alt="trans your gender!" title="like I did!" class="button">
-<img src="{notcloudflared}" alt="This website is not cloudflared!" title="never!" class="button">
-<a href="https://youtu.be/Y7WtkdLQ6PM?si=JPbeN3h3dvRDQMkJ"><img src="{msidiot}" alt="microsoft idiot explorer!" title="idiot!" class="button"></a>
-<img src="{piracy}" alt="piracy now!" title="LOL LIMEWIRE!" class="button">
-<img src={shitify} alt="Spotify, When you love music but hate artists." title="buy CDs instead!" class="button">
-<a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fitzzen.net"><img src={validhtml5} alt="Valid HTML5" title="I'm good at writing html!" class="button"></a>
-<a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fitzzen.net"><img src="{validcss}" alt="Valid CSS" title="I'm good at writing css!" class="button"></a>
+<h4>me</h4>
+<a href="https://itzzen.net"><img src={itzzennet} alt="allissa's comfy burrow now!" class="button"></a>
+<h4>friends</h4>
+<a href="https://ajvegarabbit.neocities.org"><img src={ajvega} alt="a. j. vega" class="button"></a>
+<a href="https://arimelody.me"><img src={arimelody} alt="arimelody.me" class="button"></a>
+<a href="https://biddyfox.net"><img src={biddyfox} alt="biddyfox" class="button"></a>
+<a href="https://fluoritebyte.neocities.org"><img src={byte} alt="byte" class="button"></a>
+<a href="https://kawaiizenbo.me"><img src={kawaiizenbo} alt="kawaiizenbo.me" class="button"></a>
+<a href="https://onz.ee"><img src={onzecki} alt="onzecki" class="button"></a>
+<a href="https://seirdy.one"><img src={seirdy} alt="seirdy" class="button"></a>
+<a href="https://slonk.ing"><img src={slonk} alt="slonk.ing" class="button"></a>
+<a href="https://tauon.dev"><img src={tauon} alt="lily :3" class="button"></a>
+<a href="https://translunar.academy"><img src={translunar} alt="translunar academy" class="button"></a>
+<a href="https://vmfunc.gg"><img src={vmfunc} alt="mel" class="button"></a>
+<a href="https://zvava.org"><img src={zvava} alt="zvava.org" class="button"></a>
+<h4>misc</h4>
+<a href="https://kernel.org"><img src={linux} alt="made on GNU/Linux" class="button"></a>
+<a href="https://freebsd.org"><img src={freebsdpowered} alt="Powered by FreeBSD" class="button"></a>
+<img src={freespeech} alt="free speech now! 1996" class="button">
+<img src="{anybrowseryoulike}" alt="any browser you like" class="button">
+<a href="https://eightyeightthirty.one/#itzzen.net"><img src={eightyeightthirtyone} alt="eighty eight by thirty dot one" class="button"></a>
+<img src="{transyourgender}" alt="trans your gender!" class="button">
+<img src="{notcloudflared}" alt="This website is not cloudflared!" class="button">
+<a href="https://youtu.be/Y7WtkdLQ6PM?si=JPbeN3h3dvRDQMkJ"><img src="{msidiot}" alt="microsoft idiot explorer!" class="button"></a>
+<img src="{piracy}" alt="piracy now!" class="button">
+<img src={shitify} alt="Spotify, When you love music but hate artists." class="button">
+<a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fitzzen.net"><img src={validhtml5} alt="Valid HTML5" class="button"></a>
+<a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fitzzen.net"><img src="{validcss}" alt="Valid CSS" class="button"></a>
