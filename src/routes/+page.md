@@ -49,8 +49,9 @@ You can view this website's hidden service by visiting <span class="letter-break
 
 &#8239;
 
-<h4>me</h4>
+<h4>me & wifey</h4>
 <a href="https://itzzen.net"><img src={itzzennet} alt="allissa's comfy burrow now!" class="button"></a>
+<a href="https://translunar.academy"><img src={translunar} alt="translunar academy" class="button"></a>
 <h4>friends</h4>
 <a href="https://ajvegarabbit.neocities.org"><img src={ajvega} alt="a. j. vega" class="button"></a>
 <a href="https://arimelody.me"><img src={arimelody} alt="arimelody.me" class="button"></a>
@@ -61,7 +62,6 @@ You can view this website's hidden service by visiting <span class="letter-break
 <a href="https://seirdy.one"><img src={seirdy} alt="seirdy" class="button"></a>
 <a href="https://slonk.ing"><img src={slonk} alt="slonk.ing" class="button"></a>
 <a href="https://tauon.dev"><img src={tauon} alt="lily :3" class="button"></a>
-<a href="https://translunar.academy"><img src={translunar} alt="translunar academy" class="button"></a>
 <a href="https://vmfunc.gg"><img src={vmfunc} alt="mel" class="button"></a>
 <a href="https://zvava.org"><img src={zvava} alt="zvava.org" class="button"></a>
 <h4>misc</h4>

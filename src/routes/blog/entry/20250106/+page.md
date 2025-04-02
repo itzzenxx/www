@@ -1,6 +1,7 @@
 ---
 title: 'the ashten posts'
 date: '2025-01-06'
+modified: '2025-04-02'
 ---
 
 hi. I needed a place off the fediverse to house my response posts for safe keepings. If you aren't already familiar with the drama these posts are refering to, please disregard this blog post.
@@ -41,4 +42,4 @@ I hope you, the reader, will keep these in good hands. Thank you.
 
 \- allissa
 
-[<i class="fa-solid fa-download"></i> Direct Messages - allissa 1152061415532802120.html](https://archive.is/o/5ds3P/https://cdn.transfem.social/files/033f31f4-c76e-421a-afae-960ca39521b5)
+[<i class="fa-solid fa-download"></i> Direct Messages - allissa 1152061415532802120.html](https://itzzen.net/blog/entry/20250106/Direct%20Messages%20-%20allissa%20[1152061415532802120].html)

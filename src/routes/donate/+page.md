@@ -1,10 +1,14 @@
+<script>
+import kofibutton from "/assets/donate/kofi-button.png";
+</script>
+
 ## My tip jar
 
 If you like this page, my work on my various projects, or whatever I did that has benefitted you at all, feel free to donate to me! Any amount given to me is appreciated.
 
 ### Donate using credit/debit
 
-<a href='https://ko-fi.com/X8X810UEWR'><img height='36' style='border:0px;height:36px;width:auto;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/X8X810UEWR'><img class="kofi-button" src="{kofibutton}" alt="Buy Me a Coffee at ko-fi.com"/></a>
 
 ### Or with crypto if that floats your boat
 
