@@ -42,4 +42,4 @@ I hope you, the reader, will keep these in good hands. Thank you.
 
 \- allissa
 
-[<i class="fa-solid fa-download"></i> Direct Messages - allissa 1152061415532802120.html](https://itzzen.net/blog/entry/20250106/Direct%20Messages%20-%20allissa%20[1152061415532802120].html)
+[<i class="fa-solid fa-download"></i> Direct Messages - allissa 1152061415532802120.html](/blog/entry/20250106/Direct%20Messages%20-%20allissa%20[1152061415532802120].html)
