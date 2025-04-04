@@ -64,8 +64,8 @@ You can view this website's hidden service by visiting <span class="letter-break
 <a href="https://slonk.ing"><img src={slonk} alt="slonk.ing" class="button"></a>
 <a href="https://tauon.dev"><img src={tauon} alt="lily :3" class="button"></a>
 <a href="https://vmfunc.gg"><img src={vmfunc} alt="mel" class="button"></a>
-<a href="https://zvava.org"><img src={zvava} alt="zvava.org" class="button"></a>
 <a href="https://winter.entities.org.uk"><img src={winter} alt="winter :3 mew!" class="button"></a>
+<a href="https://zvava.org"><img src={zvava} alt="zvava.org" class="button"></a>
 <h4>misc</h4>
 <a href="https://kernel.org"><img src={linux} alt="made on GNU/Linux" class="button"></a>
 <a href="https://freebsd.org"><img src={freebsdpowered} alt="Powered by FreeBSD" class="button"></a>
