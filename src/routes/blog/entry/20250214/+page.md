@@ -19,6 +19,7 @@ I will not go into much detail about _what_ happened, but I did not feel that gr
 Despite everything I've experienced, and lost... I write this blog post with a smile. I feel that I'll be okay. I have restarted a lot of friendships that ended up cold and I'm trying to improve myself bit by bit. My grades have never been higher, I've joined a band with a very close friend of mine, and overall things are just looking brighter for me. I end this short vent of blog post with a positive note. Because I will get better, and I will be here to experience the rest of the new year. Thank you for those who have supported me, and given me care thoughought all of this turmoil. Love you all. Good Night.
 
 <video controls>
+    <track default kind="captions" src="" srclang="en" />
 	<source alt="a train speeding past the station" src="{train}" type="video/mp4">
 </video>
 

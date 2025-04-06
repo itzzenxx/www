@@ -2,7 +2,8 @@
 
 I have created a few projects, here they are:
 
-- [<i class="fa-solid fa-cookie-bite"></i> Cookie Patchset](https://codeberg.org/itzzen/cookie-patchset) | patches for the infamous cookie clicker idle game
+- [<i class="fa-brands fa-python"></i> FediForgetMe](https://codeberg.org/itzzen/fediforgetme) | a python script that mass-deletes user content from a fediverse profile.
+- [<i class="fa-brands fa-js"></i> Cookie Patchset](https://codeberg.org/itzzen/cookie-patchset) | patches for the infamous cookie clicker idle game
 
 ## Discontinued projects
 

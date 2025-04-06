@@ -1,5 +1,5 @@
 <script>
-import frontpagevideo from "/assets/frontpagevideo.webm";
+import frontpagevideo from "/assets/frontpagevideo.mp4";
 import frontpagevideocc from "/assets/frontpagevideo.vtt";
 import itzzennet from "/assets/buttons/itzzennet.png";
 import ajvega from "/assets/buttons/ajvega.png";
@@ -45,7 +45,7 @@ You can view this website's hidden service by visiting <span class="letter-break
 
 <video controls>
 	<track default kind="captions" src="{frontpagevideocc}" srclang="en" />
-	<source alt="mental outlaw finding a monero node that's named 'irsgov' and laughs about its trustworthyness" src="{frontpagevideo}" type="video/webm">
+	<source alt="mental outlaw finding a monero node that's named 'irsgov' and laughs about its trustworthyness" src="{frontpagevideo}" type="video/mp4">
 </video>
 
 &#8239;
