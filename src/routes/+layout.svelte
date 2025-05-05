@@ -16,7 +16,7 @@
 
 <header>
 	<h1>allissa's comfy burrow</h1>
-	<p><a href="https://en.wikipedia.org/wiki/Don%27t_Look_Back_in_Anger"><i>“But don't back in anger, I heard you say.”</i></a></p>
+	<p>winter is my favourite season</p>
 </header>
 
 <main>
@@ -45,5 +45,5 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified April 6th 2025</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified 2025/05/05</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>

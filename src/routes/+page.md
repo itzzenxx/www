@@ -25,7 +25,7 @@ import anybrowseryoulike from "/assets/buttons/anybrowseryoulike.png";
 import transyourgender from "/assets/buttons/transyourgender.gif";
 import notcloudflared from "/assets/buttons/notcloudflared.png";
 import msidiot from "/assets/buttons/msidiot.gif";
-import piracy from "/assets/buttons/piracy.avif";
+import piracy from "/assets/buttons/piracy.gif";
 import shitify from "/assets/buttons/shitify.gif";
 </script>
 

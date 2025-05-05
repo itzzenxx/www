@@ -174,17 +174,6 @@ li + li {
 	margin: 6px 0;
 }
 
-.about-blank {
-	height: 600px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-
-.about-blank p {
-	color: gray;
-}
-
 .kofi-button {
 	height: 36px;
 	width: 143px;
