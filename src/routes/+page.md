@@ -6,9 +6,10 @@ import ajvega from "/assets/buttons/ajvega.png";
 import arimelody from "/assets/buttons/arimelody.gif";
 import biddyfox from "/assets/buttons/biddyfox.png";
 import byte from "/assets/buttons/byte.png";
+import increment from "/assets/buttons/increment.gif";
+import increment_dark from "/assets/buttons/increment_dark.gif";
 import kawaiizenbo from "/assets/buttons/kawaiizenbo.gif";
 import onzecki from "/assets/buttons/onzecki.avif";
-import seirdy from "/assets/buttons/seirdy.png";
 import slonk from "/assets/buttons/slonk.png";
 import tauon from "/assets/buttons/tauon.png";
 import translunar from "/assets/buttons/translunar.png";
@@ -35,6 +36,14 @@ import shitify from "/assets/buttons/shitify.gif";
 		width: 88px;
 		margin-right: 6px;
 	}
+    .increment {
+        background: url(/assets/buttons/increment.gif);
+    }
+    @media (prefers-color-scheme: dark) {
+        .increment {
+            background: url(/assets/buttons/increment_dark.gif);
+        }
+    }
 </style>
 
 ## Hi there, my name is allissa
@@ -60,13 +69,13 @@ You can view this website's hidden service by visiting <span class="letter-break
 <a href="https://fluoritebyte.neocities.org"><img src={byte} alt="byte" class="button"></a>
 <a href="https://kawaiizenbo.me"><img src={kawaiizenbo} alt="kawaiizenbo.me" class="button"></a>
 <a href="https://onz.ee"><img src={onzecki} alt="onzecki" class="button"></a>
-<a href="https://seirdy.one"><img src={seirdy} alt="seirdy" class="button"></a>
 <a href="https://slonk.ing"><img src={slonk} alt="slonk.ing" class="button"></a>
 <a href="https://tauon.dev"><img src={tauon} alt="lily :3" class="button"></a>
 <a href="https://vmfunc.gg"><img src={vmfunc} alt="mel" class="button"></a>
 <a href="https://winter.entities.org.uk"><img src={winter} alt="winter :3 mew!" class="button"></a>
 <a href="https://zvava.org"><img src={zvava} alt="zvava.org" class="button"></a>
 <h4>misc</h4>
+<iframe class="button increment" src="https://incr.easrng.net/badge?key=itzzennet&bg=)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
 <a href="https://kernel.org"><img src={linux} alt="made on GNU/Linux" class="button"></a>
 <a href="https://freebsd.org"><img src={freebsdpowered} alt="Powered by FreeBSD" class="button"></a>
 <img src={freespeech} alt="free speech now! 1996" class="button">

@@ -31,6 +31,8 @@
 			<a href="/contact" class:active={$page.url.pathname == '/contact/'}><i class="fa-solid fa-paper-plane"></i> contact</a>
 			<a href="/presence" class:active={$page.url.pathname == '/presence/'}><i class="fa-solid fa-user"></i> presence</a>
 			<a href="/donate" class:active={$page.url.pathname == '/donate/'}><i class="fa-solid fa-piggy-bank"></i> donate</a>
+		<hr />
+			<a href="https://itzzen.net/projects/cookie" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i> cookie patchset</a>
 		</div>
 		<div class="images">
 			<hr />
@@ -46,5 +48,5 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified 2025/05/07</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified 2025/05/17</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>
