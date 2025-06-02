@@ -2,7 +2,6 @@
 	--textColor: black;
 	--backgroundColor: lightgrey;
 	--linkColor: darkblue;
-	--linkColorVisited: #ffccd5;
 	--quoteColor: black;
 	--tableColor: black;
 	--tableOddBackgroundColor: rgba(0, 0, 0, 0.25);
@@ -14,8 +13,7 @@
 	:root {
 		--textColor: lightgrey;
 		--backgroundColor: black;
-		--linkColor: #ffccd5;
-		--linkColorVisited: #ff99aa;
+		--linkColor: lightblue;
 		--quoteColor: white;
 		--tableColor: darkgrey;
 		--tableOddBackgroundColor: rgba(255, 255, 255, 0.25);
@@ -24,16 +22,13 @@
 	}
 }
 
+
 body {
 	background-color: var(--backgroundColor);
 }
 
 body a {
 	color: var(--linkColor);
-}
-
-body a:visited {
-        color: var(--linkColorVisited);
 }
 
 body h1,

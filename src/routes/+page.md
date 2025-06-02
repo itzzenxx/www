@@ -7,9 +7,9 @@ import arimelody from "/assets/buttons/arimelody.gif";
 import biddyfox from "/assets/buttons/biddyfox.png";
 import byte from "/assets/buttons/byte.png";
 import increment from "/assets/buttons/increment.gif";
-import increment_dark from "/assets/buttons/increment_dark.gif";
 import kawaiizenbo from "/assets/buttons/kawaiizenbo.gif";
 import onzecki from "/assets/buttons/onzecki.avif";
+import shitpostalotl from "/assets/buttons/shitpostalotl.png";
 import slonk from "/assets/buttons/slonk.png";
 import tauon from "/assets/buttons/tauon.png";
 import translunar from "/assets/buttons/translunar.png";
@@ -39,11 +39,6 @@ import shitify from "/assets/buttons/shitify.gif";
     .increment {
         background: url(/assets/buttons/increment.gif);
     }
-    @media (prefers-color-scheme: dark) {
-        .increment {
-            background: url(/assets/buttons/increment_dark.gif);
-        }
-    }
 </style>
 
 ## Hi there, my name is allissa
@@ -63,12 +58,13 @@ You can view this website's hidden service by visiting <span class="letter-break
 <a href="https://itzzen.net"><img src={itzzennet} alt="allissa's comfy burrow now!" class="button"></a>
 <a href="https://translunar.academy"><img src={translunar} alt="translunar academy" class="button"></a>
 <h4>friends</h4>
-<a href="https://ajvegarabbit.neocities.org"><img src={ajvega} alt="a. j. vega" class="button"></a>
+<a href="https://ajvega.net"><img src={ajvega} alt="a. j. vega" class="button"></a>
 <a href="https://arimelody.me"><img src={arimelody} alt="arimelody.me" class="button"></a>
 <a href="https://biddyfox.net"><img src={biddyfox} alt="biddyfox" class="button"></a>
 <a href="https://fluoritebyte.neocities.org"><img src={byte} alt="byte" class="button"></a>
 <a href="https://kawaiizenbo.me"><img src={kawaiizenbo} alt="kawaiizenbo.me" class="button"></a>
 <a href="https://onz.ee"><img src={onzecki} alt="onzecki" class="button"></a>
+<a href="https://www.unix.dog/~shitpostalotl/"><img src={shitpostalotl} alt="SP" class="button"></a>
 <a href="https://slonk.ing"><img src={slonk} alt="slonk.ing" class="button"></a>
 <a href="https://tauon.dev"><img src={tauon} alt="lily :3" class="button"></a>
 <a href="https://vmfunc.gg"><img src={vmfunc} alt="mel" class="button"></a>

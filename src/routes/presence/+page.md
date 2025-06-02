@@ -4,7 +4,7 @@ I have profiles on other places on the internet that may or may not contain some
 
 A lot of these I rarely check-in on. If you want to contact me, you should check out [my direct communication methods](/contact) instead.
 
-### Developemnt
+### Development
 
 - [<i class="fa-solid fa-mountain"></i> itzzen](https://codeberg.org/itzzen) | Codeberg <i class="fa-solid fa-key"></i>
 

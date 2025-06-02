@@ -1,12 +1,8 @@
 ## My Public Services
 
-I am soon to run a few public services once my m.2 adapters come in the mail xP. Come back in a few days.
-
-<!---
 I run a few public facing services for the public to freely use. More are to come in the future.
 
 ### <i class="fa-brands fa-monero"></i> Monero Node
-
 
 A public node for the [Monero cryptocurrency](https://getmonero.org).
 
@@ -17,8 +13,8 @@ Commonly used by monero wallets.
 |type|domain|port|
 |-|-|-|
 |clearnet|<span class="letter-break">itzzen.net</span>|<span class="letter-break">18089</span>|
-|tor|<span class="letter-break">dingus7i3uv44n6na46udans3yssotizvbxllozzkxung6ydadhawwyd.onion</span>|<span class="letter-break">18089</span>|
-|i2p|<span class="letter-break">5cac24hsarf27zcyydtfdqrnrhn4lg5zjjljabqmiittlns4e6ha.b32.i2p</span>|<span class="letter-break">18089</span>|
+|tor|<span class="letter-break">dingusx4dlz2v6libuqv5lmixqinrmcnsqfqukj6bwwbi567mnd47cid.onion</span>|<span class="letter-break">18089</span>|
+|i2p|<span class="letter-break">ciu77ds3whrvyr52frun5fnhrwlvjximtxwoqvybirpfbp3n5bea.b32.i2p</span>|<span class="letter-break">18089</span>|
 
 #### Connecting (ZMQ)
 
@@ -35,6 +31,5 @@ Commonly used by other monero nodes.
 |type|domain|port|
 |-|-|-|
 |clearnet|<span class="letter-break">itzzen.net</span>|<span class="letter-break">18080</span>|
-|tor|<span class="letter-break">dingus7i3uv44n6na46udans3yssotizvbxllozzkxung6ydadhawwyd.onion</span>|<span class="letter-break">18084</span>|
-|i2p|<span class="letter-break">5cac24hsarf27zcyydtfdqrnrhn4lg5zjjljabqmiittlns4e6ha.b32.i2p</span>|<span class="letter-break">18085</span>|
--->
+|tor|<span class="letter-break">dingusx4dlz2v6libuqv5lmixqinrmcnsqfqukj6bwwbi567mnd47cid.onion</span>|<span class="letter-break">18084</span>|
+|i2p|<span class="letter-break">ciu77ds3whrvyr52frun5fnhrwlvjximtxwoqvybirpfbp3n5bea.b32.i2p</span>|<span class="letter-break">18085</span>|

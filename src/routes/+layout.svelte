@@ -48,5 +48,5 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified 2025/05/17</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified 2025/06/02</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>
