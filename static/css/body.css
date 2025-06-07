@@ -141,7 +141,7 @@ header p {
 }
 
 #censor,
-#picture {
+#avatar {
 	margin: 0 auto;
 	height: auto;
 }
@@ -150,7 +150,7 @@ header p {
 	width: 115px;
 }
 
-#picture {
+#avatar {
 	width: 138px;
 	height: 138px;
 }

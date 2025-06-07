@@ -13,8 +13,8 @@ Commonly used by monero wallets.
 |type|domain|port|
 |-|-|-|
 |clearnet|<span class="letter-break">itzzen.net</span>|<span class="letter-break">18089</span>|
-|tor|<span class="letter-break">dingusx4dlz2v6libuqv5lmixqinrmcnsqfqukj6bwwbi567mnd47cid.onion</span>|<span class="letter-break">18089</span>|
-|i2p|<span class="letter-break">ciu77ds3whrvyr52frun5fnhrwlvjximtxwoqvybirpfbp3n5bea.b32.i2p</span>|<span class="letter-break">18089</span>|
+|tor|<span class="letter-break">itzzenjpkueqa4xzdl6zderwyljkao5cgbpa2knfrfnxlouxvby7hbid.onion</span>|<span class="letter-break">18089</span>|
+|i2p|<span class="letter-break">jhggfuzlagcrdd7xhkfvmu5e33hvprsby6zasl4inr6nq5hadvrq.b32.i2p</span>|<span class="letter-break">18089</span>|
 
 #### Connecting (ZMQ)
 
@@ -31,5 +31,5 @@ Commonly used by other monero nodes.
 |type|domain|port|
 |-|-|-|
 |clearnet|<span class="letter-break">itzzen.net</span>|<span class="letter-break">18080</span>|
-|tor|<span class="letter-break">dingusx4dlz2v6libuqv5lmixqinrmcnsqfqukj6bwwbi567mnd47cid.onion</span>|<span class="letter-break">18084</span>|
-|i2p|<span class="letter-break">ciu77ds3whrvyr52frun5fnhrwlvjximtxwoqvybirpfbp3n5bea.b32.i2p</span>|<span class="letter-break">18085</span>|
+|tor|<span class="letter-break">itzzenjpkueqa4xzdl6zderwyljkao5cgbpa2knfrfnxlouxvby7hbid.onion</span>|<span class="letter-break">18084</span>|
+|i2p|<span class="letter-break">jhggfuzlagcrdd7xhkfvmu5e33hvprsby6zasl4inr6nq5hadvrq.b32.i2p</span>|<span class="letter-break">18085</span>|
