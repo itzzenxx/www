@@ -6,17 +6,19 @@ import ajvega from "/assets/buttons/ajvega.png";
 import arimelody from "/assets/buttons/arimelody.gif";
 import biddyfox from "/assets/buttons/biddyfox.png";
 import byte from "/assets/buttons/byte.png";
-import increment from "/assets/buttons/increment.gif";
+import elysia from "/assets/buttons/elysia.png";
 import kawaiizenbo from "/assets/buttons/kawaiizenbo.gif";
 import onzecki from "/assets/buttons/onzecki.avif";
 import shitpostalotl from "/assets/buttons/shitpostalotl.png";
 import slonk from "/assets/buttons/slonk.png";
+import sylvie from "/assets/buttons/sylvie.gif";
 import tauon from "/assets/buttons/tauon.png";
 import translunar from "/assets/buttons/translunar.png";
 import vmfunc from "/assets/buttons/vmfunc.png";
 import winter from "/assets/buttons/winter.png";
 import zvava from "/assets/buttons/zvava.png";
 import linux from "/assets/buttons/linux.png"
+import firefox from "/assets/buttons/firefox.gif";
 import freebsdpowered from "/assets/buttons/freebsdpowered.gif";
 import freespeech from "/assets/buttons/fspeech96.gif";
 import validhtml5 from "/assets/buttons/valid-html5.gif";
@@ -28,6 +30,7 @@ import notcloudflared from "/assets/buttons/notcloudflared.png";
 import msidiot from "/assets/buttons/msidiot.gif";
 import piracy from "/assets/buttons/piracy.gif";
 import shitify from "/assets/buttons/shitify.gif";
+import increment from "/assets/buttons/increment.gif";
 </script>
 
 <style>
@@ -62,10 +65,12 @@ You can view this website's hidden service by visiting <span class="letter-break
 <a href="https://arimelody.me"><img src={arimelody} alt="arimelody.me" class="button"></a>
 <a href="https://biddyfox.net"><img src={biddyfox} alt="biddyfox" class="button"></a>
 <a href="https://fluoritebyte.neocities.org"><img src={byte} alt="byte" class="button"></a>
+<a href="https://le.alphamethyl.barr0w.net/~elysia/index.html"><img src={elysia} alt="elysia" class="button"></a>
 <a href="https://kawaiizenbo.me"><img src={kawaiizenbo} alt="kawaiizenbo.me" class="button"></a>
 <a href="https://onz.ee"><img src={onzecki} alt="onzecki" class="button"></a>
 <a href="https://www.unix.dog/~shitpostalotl/"><img src={shitpostalotl} alt="SP" class="button"></a>
 <a href="https://slonk.ing"><img src={slonk} alt="slonk.ing" class="button"></a>
+<a href="https://sylvie.loveh.art"><img src={sylvie} alt="luna" class="button"></a>
 <a href="https://tauon.dev"><img src={tauon} alt="lily :3" class="button"></a>
 <a href="https://vmfunc.gg"><img src={vmfunc} alt="mel" class="button"></a>
 <a href="https://winter.entities.org.uk"><img src={winter} alt="winter :3 mew!" class="button"></a>
@@ -73,6 +78,7 @@ You can view this website's hidden service by visiting <span class="letter-break
 <h4>misc</h4>
 <iframe class="button increment" src="https://incr.easrng.net/badge?key=itzzennet&bg=)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
 <a href="https://kernel.org"><img src={linux} alt="made on GNU/Linux" class="button"></a>
+<a href="https://www.mozilla.org/en-US/firefox/new/"><img src={firefox} alt="firefox" class="button"></a>
 <a href="https://freebsd.org"><img src={freebsdpowered} alt="Powered by FreeBSD" class="button"></a>
 <img src={freespeech} alt="free speech now! 1996" class="button">
 <img src="{anybrowseryoulike}" alt="any browser you like" class="button">

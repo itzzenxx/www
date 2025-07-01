@@ -23,7 +23,6 @@ A lot of these I rarely check-in on. If you want to contact me, you should check
 ### Media            
 
 - [<i class="fa-brands fa-pinterest"></i> itzzenxx](https://www.pinterest.com/itzzenxx) | Pinterest
-- [<i class="fa-brands fa-tiktok"></i> @itzzenxx](https://www.tiktok.com/@itzzenxx) | TikTok
 - [<i class="fa-brands fa-twitch"></i> @itzzengay](https://twitch.tv/itzzengay) | Twitch
 - [<i class="fa-brands fa-youtube"></i> @itzzenxx](https://www.youtube.com/@itzzenxx) | YouTube
 
@@ -34,6 +33,7 @@ A lot of these I rarely check-in on. If you want to contact me, you should check
 
 ### Social
 
+- [<i class="fa-brands fa-bluesky"></i> @did:plc:s2f6fewdyocwgbvjs5awhszf](https://bsky.app/profile/did:plc:s2f6fewdyocwgbvjs5awhszf) | Bluesky <i class="fa-solid fa-key"></i>
 - <i class="fa-brands fa-discord"></i> @itzzenxx | Discord <i class="fa-solid fa-key"></i>
 - [<i class="fa-brands fa-mastodon"></i> @itzzen@translunar.academy](https://social.translunar.academy/itzzen) | Fediverse (translunar.academy) <i class="fa-solid fa-key"></i>
 - <i class="fa-solid fa-hashtag"></i> itzzenxx | IRC (Libera.Chat) <i class="fa-solid fa-key"></i>
