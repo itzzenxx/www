@@ -2,6 +2,7 @@
 	import censor from '/assets/censor.gif';
 	import avatar from '/assets/avatar.png';
 	import { page } from '$app/stores';
+	import '@fortawesome/fontawesome-free/css/all.min.css';
 </script>
 
 <svelte:head>
