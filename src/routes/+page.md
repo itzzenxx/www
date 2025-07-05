@@ -57,6 +57,13 @@ You can view this website's hidden service by visiting <span class="letter-break
 
 &#8239;
 
+<h3>webrings</h3>
+<!-- UD2 webring -->
+<a href="https://ud2.rip/api/webring?member=allissa&amp;dir=prev">⟵ prev</a>
+<a href="https://ud2.rip/webring">ud2 webring</a>
+<a href="https://ud2.rip/api/webring?member=allissa&amp;dir=next">next ⟶</a>
+
+<h3>buttons</h3>
 <h4>me & wifey</h4>
 <a href="https://itzzen.net"><img src={itzzennet} alt="allissa's comfy burrow now!" class="button"></a>
 <a href="https://translunar.academy"><img src={translunar} alt="translunar academy" class="button"></a>
