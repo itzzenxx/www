@@ -7,6 +7,7 @@ import arimelody from "/assets/buttons/arimelody.gif";
 import biddyfox from "/assets/buttons/biddyfox.png";
 import byte from "/assets/buttons/byte.png";
 import elysia from "/assets/buttons/elysia.png";
+import june from "/assets/buttons/june.png";
 import kawaiizenbo from "/assets/buttons/kawaiizenbo.gif";
 import onzecki from "/assets/buttons/onzecki.avif";
 import shitpostalotl from "/assets/buttons/shitpostalotl.png";
@@ -14,7 +15,6 @@ import slonk from "/assets/buttons/slonk.png";
 import sylvie from "/assets/buttons/sylvie.gif";
 import tauon from "/assets/buttons/tauon.png";
 import translunar from "/assets/buttons/translunar.png";
-import vmfunc from "/assets/buttons/vmfunc.png";
 import winter from "/assets/buttons/winter.png";
 import zvava from "/assets/buttons/zvava.png";
 import linux from "/assets/buttons/linux.png"
@@ -57,12 +57,6 @@ You can view this website's hidden service by visiting <span class="letter-break
 
 &#8239;
 
-<h3>webrings</h3>
-<!-- UD2 webring -->
-<a href="https://ud2.rip/api/webring?member=allissa&amp;dir=prev">⟵ prev</a>
-<a href="https://ud2.rip/webring">ud2 webring</a>
-<a href="https://ud2.rip/api/webring?member=allissa&amp;dir=next">next ⟶</a>
-
 <h3>buttons</h3>
 <h4>me & wifey</h4>
 <a href="https://itzzen.net"><img src={itzzennet} alt="allissa's comfy burrow now!" class="button"></a>
@@ -73,13 +67,13 @@ You can view this website's hidden service by visiting <span class="letter-break
 <a href="https://biddyfox.net"><img src={biddyfox} alt="biddyfox" class="button"></a>
 <a href="https://fluoritebyte.neocities.org"><img src={byte} alt="byte" class="button"></a>
 <a href="https://le.alphamethyl.barr0w.net/~elysia/index.html"><img src={elysia} alt="elysia" class="button"></a>
+<a href="https://f.dog"><img src={june} alt="june girlboss.ceo" class="button"></a>
 <a href="https://kawaiizenbo.me"><img src={kawaiizenbo} alt="kawaiizenbo.me" class="button"></a>
 <a href="https://onz.ee"><img src={onzecki} alt="onzecki" class="button"></a>
 <a href="https://www.unix.dog/~shitpostalotl/"><img src={shitpostalotl} alt="SP" class="button"></a>
 <a href="https://slonk.ing"><img src={slonk} alt="slonk.ing" class="button"></a>
 <a href="https://sylvie.loveh.art"><img src={sylvie} alt="luna" class="button"></a>
 <a href="https://tauon.dev"><img src={tauon} alt="lily :3" class="button"></a>
-<a href="https://vmfunc.gg"><img src={vmfunc} alt="mel" class="button"></a>
 <a href="https://winter.entities.org.uk"><img src={winter} alt="winter :3 mew!" class="button"></a>
 <a href="https://zvava.org"><img src={zvava} alt="zvava.org" class="button"></a>
 <h4>misc</h4>
