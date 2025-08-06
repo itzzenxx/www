@@ -1,6 +1,5 @@
 <script>
-import frontpagevideo from "/assets/frontpagevideo.mp4";
-import frontpagevideocc from "/assets/frontpagevideo.vtt";
+import frontpagegif from "/assets/frontpage.gif";
 import itzzennet from "/assets/buttons/itzzennet.png";
 import ajvega from "/assets/buttons/ajvega.png";
 import arimelody from "/assets/buttons/arimelody.gif";
@@ -16,7 +15,6 @@ import sylvie from "/assets/buttons/sylvie.gif";
 import tauon from "/assets/buttons/tauon.png";
 import translunar from "/assets/buttons/translunar.png";
 import winter from "/assets/buttons/winter.png";
-import zvava from "/assets/buttons/zvava.png";
 import linux from "/assets/buttons/linux.png"
 import firefox from "/assets/buttons/firefox.gif";
 import freebsdpowered from "/assets/buttons/freebsdpowered.gif";
@@ -30,6 +28,8 @@ import notcloudflared from "/assets/buttons/notcloudflared.png";
 import msidiot from "/assets/buttons/msidiot.gif";
 import piracy from "/assets/buttons/piracy.gif";
 import shitify from "/assets/buttons/shitify.gif";
+import internetprivacynow from "/assets/buttons/internetprivacynow.gif";
+import sameshitdiffass from "/assets/buttons/sameshitdiffass.gif";
 import increment from "/assets/buttons/increment.gif";
 </script>
 
@@ -50,10 +50,7 @@ This is my website, webpage, den... whatever you'd like to call it. You can find
 
 You can view this website's hidden service by visiting <span class="letter-break">[itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion](http://itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion/)</span> in the [Tor Browser](https://torproject.org)
 
-<video controls>
-	<track default kind="captions" src="{frontpagevideocc}" srclang="en" />
-	<source alt="mental outlaw finding a monero node that's named 'irsgov' and laughs about its trustworthyness" src="{frontpagevideo}" type="video/mp4">
-</video>
+<img alt="a model Metro-North M8 train barraling down the tracks at the Southport Connecticut Metro-North train station" src="{frontpagegif}"/>
 
 &#8239;
 
@@ -75,7 +72,6 @@ You can view this website's hidden service by visiting <span class="letter-break
 <a href="https://sylvie.loveh.art"><img src={sylvie} alt="luna" class="button"></a>
 <a href="https://tauon.dev"><img src={tauon} alt="lily :3" class="button"></a>
 <a href="https://winter.entities.org.uk"><img src={winter} alt="winter :3 mew!" class="button"></a>
-<a href="https://zvava.org"><img src={zvava} alt="zvava.org" class="button"></a>
 <h4>misc</h4>
 <iframe class="button increment" src="https://incr.easrng.net/badge?key=itzzennet&bg=)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
 <a href="https://kernel.org"><img src={linux} alt="made on GNU/Linux" class="button"></a>
@@ -86,8 +82,10 @@ You can view this website's hidden service by visiting <span class="letter-break
 <a href="https://eightyeightthirty.one/#itzzen.net"><img src={eightyeightthirtyone} alt="eighty eight by thirty dot one" class="button"></a>
 <img src="{transyourgender}" alt="trans your gender!" class="button">
 <img src="{notcloudflared}" alt="This website is not cloudflared!" class="button">
+<img src="{internetprivacynow}" alt="Internet privacy now!" class="button">
 <a href="https://youtu.be/Y7WtkdLQ6PM?si=JPbeN3h3dvRDQMkJ"><img src="{msidiot}" alt="microsoft idiot explorer!" class="button"></a>
 <img src="{piracy}" alt="piracy now!" class="button">
-<img src={shitify} alt="Spotify, When you love music but hate artists." class="button">
+<img src="{shitify}" alt="Spotify, When you love music but hate artists." class="button">
+<img src="{sameshitdiffass}" alt="Same shit different asshole." class="button">
 <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fitzzen.net"><img src={validhtml5} alt="Valid HTML5" class="button"></a>
 <a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fitzzen.net"><img src="{validcss}" alt="Valid CSS" class="button"></a>

@@ -17,7 +17,7 @@
 
 <header>
 	<h1>allissa's comfy burrow</h1>
-	<p>winter is my favourite season</p>
+	<p>absolute mental illness</p>
 </header>
 
 <main>
@@ -47,5 +47,5 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified 2025/07/31</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified 2025/08/06</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>

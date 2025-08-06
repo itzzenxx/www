@@ -18,10 +18,12 @@ If you like this page, my work on my various projects, or whatever I did that ha
 
 **<i class="fa-solid fa-warning"></i> Warning: Please do not add a high miner fee to your payment.** These transactions do not need to reach me instantly, so it's not worth spending a lot on fees.
 
-**<i class="fa-solid fa-circle-info"></i> Info: Other Cryptocurrencies may be avaliable.** Please [contact me](/contact) with your preferred coin and I will send you my wallet for it.
+**<i class="fa-solid fa-circle-info"></i> Info: Other cryptocurrencies may be avaliable.** Please [contact me](/contact) with your preferred coin and I will send you my wallet for it.
 
 ### Referral Links
 
-- [<i class="fa-solid fa-link"></i> Uber Referral](https://referrals.uber.com/refer?id=ej5d2sqjj4mu) | Get your first and second uber ride for 50% off (up to $10) and I will get my next two uber rides for 50% off (up to $10).
+- [<i class="fa-solid fa-link"></i> Incogni Referral](https://incogni.cello.so/Zz4o6zQst5G) | Get 58% off Incogni annual plans and I get a 40% commision on your purchase if you stay for 1 month
+- [<i class="fa-solid fa-link"></i> Kraken Referral](https://invite.kraken.com/JDNW/aogokzu1) | Get $50 dollars extra when you trade $200 in Kraken and I get $50 dollars
 - [<i class="fa-solid fa-link"></i> Ledger Referral](https://shop.ledger.com/pages/referral-program?referral_code=1D3V43VCEYFQP) | Order a Ledger crypto wallet and I will get $20 in Bitcoin.
+- [<i class="fa-solid fa-link"></i> Uber Referral](https://referrals.uber.com/refer?id=ej5d2sqjj4mu) | Get your first and second uber ride for 50% off (up to $10) and I will get my next two uber rides for 50% off (up to $10).
 - ~~[<i class="fa-solid fa-link"></i> Mint Mobile Referral](http://fbuy.me/uGSLy) | Switch to Mint Mobile and you get $15 dollars in renewal credit. I will get $45 dollars in renewal credit.~~ (Referalls will open again January 1st 2026)

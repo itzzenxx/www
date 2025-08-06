@@ -27,6 +27,6 @@
 {#if modified}
 	<p>modified date: {modified}</p>
 {/if}
-<p>author: itzzen@tutamail.com</p>
+<p>author: itzzen@itzzen.net</p>
 <hr />
 <slot />
