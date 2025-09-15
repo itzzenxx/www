@@ -2,16 +2,15 @@
 import frontpagegif from "/assets/frontpage.gif";
 import itzzennet from "/assets/buttons/itzzennet.png";
 import ajvega from "/assets/buttons/ajvega.png";
-import arimelody from "/assets/buttons/arimelody.gif";
 import biddyfox from "/assets/buttons/biddyfox.png";
-import byte from "/assets/buttons/byte.png";
+import cobra from "/assets/buttons/cobra.png";
+import easrng from "/assets/buttons/easrng.gif";
 import elysia from "/assets/buttons/elysia.png";
+import ezri from "/assets/buttons/ezri.png";
 import june from "/assets/buttons/june.png";
-import kawaiizenbo from "/assets/buttons/kawaiizenbo.gif";
 import onzecki from "/assets/buttons/onzecki.avif";
 import shitpostalotl from "/assets/buttons/shitpostalotl.png";
 import slonk from "/assets/buttons/slonk.png";
-import sylvie from "/assets/buttons/sylvie.gif";
 import tauon from "/assets/buttons/tauon.png";
 import translunar from "/assets/buttons/translunar.png";
 import winter from "/assets/buttons/winter.png";
@@ -19,7 +18,7 @@ import linux from "/assets/buttons/linux.png"
 import firefox from "/assets/buttons/firefox.gif";
 import freebsdpowered from "/assets/buttons/freebsdpowered.gif";
 import freespeech from "/assets/buttons/fspeech96.gif";
-import validhtml5 from "/assets/buttons/valid-html5.gif";
+import validhtml5 from "/assets/buttons/validhtml5.gif";
 import validcss from "/assets/buttons/validcss.png";
 import eightyeightthirtyone from "/assets/buttons/eightyeightthirtyone.png";
 import anybrowseryoulike from "/assets/buttons/anybrowseryoulike.png";
@@ -41,6 +40,7 @@ import increment from "/assets/buttons/increment.gif";
 	}
     .increment {
         background: url(/assets/buttons/increment.gif);
+		border: 0;
     }
 </style>
 
@@ -50,9 +50,7 @@ This is my website, webpage, den... whatever you'd like to call it. You can find
 
 You can view this website's hidden service by visiting <span class="letter-break">[itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion](http://itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion/)</span> in the [Tor Browser](https://torproject.org)
 
-<img alt="a model Metro-North M8 train barraling down the tracks at the Southport Connecticut Metro-North train station" src="{frontpagegif}"/>
-
-&#8239;
+<img alt="a train flying past the camera, then another coming right after in the other direction" src="{frontpagegif}"/>
 
 <h3>buttons</h3>
 <h4>me & wifey</h4>
@@ -60,20 +58,18 @@ You can view this website's hidden service by visiting <span class="letter-break
 <a href="https://translunar.academy"><img src={translunar} alt="translunar academy" class="button"></a>
 <h4>friends</h4>
 <a href="https://ajvega.net"><img src={ajvega} alt="a. j. vega" class="button"></a>
-<a href="https://arimelody.me"><img src={arimelody} alt="arimelody.me" class="button"></a>
 <a href="https://biddyfox.net"><img src={biddyfox} alt="biddyfox" class="button"></a>
-<a href="https://fluoritebyte.neocities.org"><img src={byte} alt="byte" class="button"></a>
+<a href="https://cobra.vern.cc"><img src={cobra} alt="cobra" class="button"></a>
+<a href="https://easrng.net"><img src={easrng} alt="easrng" class="button"></a>
 <a href="https://le.alphamethyl.barr0w.net/~elysia/index.html"><img src={elysia} alt="elysia" class="button"></a>
+<a href="https://ezri.pet"><img src={ezri} alt="ezri" class="button"></a>
 <a href="https://f.dog"><img src={june} alt="june girlboss.ceo" class="button"></a>
-<a href="https://kawaiizenbo.me"><img src={kawaiizenbo} alt="kawaiizenbo.me" class="button"></a>
 <a href="https://onz.ee"><img src={onzecki} alt="onzecki" class="button"></a>
 <a href="https://www.unix.dog/~shitpostalotl/"><img src={shitpostalotl} alt="SP" class="button"></a>
-<a href="https://slonk.ing"><img src={slonk} alt="slonk.ing" class="button"></a>
-<a href="https://sylvie.loveh.art"><img src={sylvie} alt="luna" class="button"></a>
 <a href="https://tauon.dev"><img src={tauon} alt="lily :3" class="button"></a>
 <a href="https://winter.entities.org.uk"><img src={winter} alt="winter :3 mew!" class="button"></a>
 <h4>misc</h4>
-<iframe class="button increment" src="https://incr.easrng.net/badge?key=itzzennet&bg=)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
+<iframe class="button increment" src="https://incr.easrng.net/badge?key=itzzennet&bg=)" title="increment badge"></iframe>
 <a href="https://kernel.org"><img src={linux} alt="made on GNU/Linux" class="button"></a>
 <a href="https://www.mozilla.org/en-US/firefox/new/"><img src={firefox} alt="firefox" class="button"></a>
 <a href="https://freebsd.org"><img src={freebsdpowered} alt="Powered by FreeBSD" class="button"></a>

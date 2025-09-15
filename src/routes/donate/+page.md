@@ -1,24 +1,23 @@
-<script>
-import kofibutton from "/assets/donate/kofi-button.png";
-</script>
-
 ## My tip jar
 
 If you like this page, my work on my various projects, or whatever I did that has benefitted you at all, feel free to donate to me! Any amount given to me is appreciated.
 
 ### Donate using credit/debit
 
-<a href='https://ko-fi.com/X8X810UEWR'><img class="kofi-button" src="{kofibutton}" alt="Buy Me a Coffee at ko-fi.com"/></a>
+**<i class="fa-solid fa-warning"></i> Warning: Ko-Fi takes 5% from all donations.** 
+
+- [<i class="fa-solid fa-coffee"></i> itzzen](https://ko-fi.com/X8X810UEWR) | Ko-Fi
+- <i class="fa-solid fa-dollar"></i> itzzen@itzzen.net | Zelle
 
 ### Or with crypto if that floats your boat
+
+**<i class="fa-solid fa-warning"></i> Warning: Do not add a high miner fee to your payment.** These transactions do not need to reach me instantly; it's pointless spending too much on fees.
 
 - <i class="fa-brands fa-bitcoin"></i> <code>BTC: <span class="letter-break">bc1qp8pgl7gzxp427unv5hr69cdz5u3w4zytz2tuf5</code>
 - <i class="fa-brands fa-ethereum"></i> <code>ETH: <span class="letter-break">0xa9c5E1063C22f897Ba0976428938C9</code>
 - <i class="fa-brands fa-monero"></i> <code>XMR: <span class="letter-break">84uzBxURYwqXk9Y66XA2V7EMpGggnwAioUkjiiwsF4G8YUiNQMRJMBbVD2tQBiweKiJfPMjG6BsUXZvnrTD95k41Uj915Tb</code>
 
-**<i class="fa-solid fa-warning"></i> Warning: Please do not add a high miner fee to your payment.** These transactions do not need to reach me instantly, so it's not worth spending a lot on fees.
-
-**<i class="fa-solid fa-circle-info"></i> Info: Other cryptocurrencies may be avaliable.** Please [contact me](/contact) with your preferred coin and I will send you my wallet for it.
+**<i class="fa-solid fa-circle-info"></i> Info: Other cryptocurrencies are avaliable.** Please [contact me](/contact) with your preferred coin and I will send you my wallet for it.
 
 ### Referral Links
 

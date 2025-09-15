@@ -22,7 +22,6 @@
 	}
 }
 
-
 body {
 	background-color: var(--backgroundColor);
 }
@@ -127,7 +126,6 @@ header p {
 	font-family: sans-serif;
 }
 
-.images,
 .links {
 	display: flex;
 	flex-direction: column;
@@ -140,17 +138,9 @@ header p {
 	font-weight: bold;
 }
 
-#censor,
-#avatar {
+.avatar {
 	margin: 0 auto;
 	height: auto;
-}
-
-#censor {
-	width: 115px;
-}
-
-#avatar {
 	width: 138px;
 	height: 138px;
 }
@@ -174,11 +164,6 @@ video {
 
 li + li {
 	margin: 6px 0;
-}
-
-.kofi-button {
-	height: 36px;
-	width: 143px;
 }
 
 @media screen and (max-width: 810px) {
@@ -215,15 +200,7 @@ li + li {
 		justify-content: space-around;
 	}
 
-	.images {
-		flex-flow: wrap;
-		min-width: unset;
-		max-width: unset;
-		justify-content: space-between;
-	}
-
-	#avatar,
-	#censor {
+	.avatar {
 		height: 80px;
 		width: auto;
 	}

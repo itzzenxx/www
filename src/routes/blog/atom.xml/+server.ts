@@ -15,7 +15,7 @@ export const GET = async () => {
 <id>urn:uuid:7b459989-5361-486c-9d6d-e337b3510bf1</id>
 ${posts
 	.map(
-		(post: { meta: { title: any; date: string | number | Date }; path: any; content: { html: any } }) => `
+		(post: { meta: { title: string; date: string | number | Date }; path: string; content: { html: string } }) => `
 <entry>
 <title>${post.meta.title}</title>
 <link href="https://itzzen.net${post.path}"/>

@@ -2,7 +2,7 @@
 
 I have profiles on other places on the internet that may or may not contain some fun things.
 
-A lot of these I rarely check-in on. If you want to contact me, you should check out [my direct communication methods](/contact) instead.
+A lot of these I barely check-in on, if at all. If you wish to contact me, go to [my direct communication methods](/contact) page.
 
 ### Development
 
@@ -17,11 +17,9 @@ A lot of these I rarely check-in on. If you want to contact me, you should check
 ### Games
 
 - [<i class="fa-solid fa-gamepad"></i> itzzengay](https://namemc.com/profile/itzzengay) | Minecraft
-- [<i class="fa-solid fa-gamepad"></i> @itzzentrans](https://www.roblox.com/users/5663401902/profile) | Roblox
 - [<i class="fa-brands fa-steam"></i> itzzenxx](https://steamcommunity.com/id/itzzenxx) | Steam
-- [<i class="fa-solid fa-gamepad"></i> itzzen](https://ch.tetr.io/u/itzzen) | TETR.IO
 
-### Media            
+### Media
 
 - [<i class="fa-brands fa-twitch"></i> @itzzengay](https://twitch.tv/itzzengay) | Twitch
 - [<i class="fa-brands fa-youtube"></i> @itzzenxx](https://www.youtube.com/@itzzenxx) | YouTube

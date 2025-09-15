@@ -13,7 +13,7 @@ export const GET = async () => {
 <description>allissa's blog</description>
 ${posts
 	.map(
-		(post: { meta: { title: any; date: string | number | Date }; path: any; content: { html: any } }) => `
+		(post: { meta: { title: string; date: string | number | Date }; path: string; content: { html: string } }) => `
 <item>
 <title>${post.meta.title}</title>
 <link>https://itzzen.net${post.path}</link>

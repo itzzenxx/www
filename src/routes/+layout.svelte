@@ -1,5 +1,4 @@
 <script>
-	import censor from '/assets/censor.gif';
 	import avatar from '/assets/avatar.png';
 	import { page } from '$app/stores';
 	import '@fortawesome/fontawesome-free/css/all.min.css';
@@ -7,12 +6,13 @@
 
 <svelte:head>
 	<title>{$page.url.pathname} | allissa's comfy burrow</title>
-	<meta name="description" content="the personal website of allissa" />
-	<meta content="#FFC0CB" data-react-helmet="true" name="theme-color" />
-	<meta property="og:title" content="allissa's comfy burrow | {$page.url.pathname}" />
-	<meta property="og:description" content="the personal website of allissa" />
-	<meta property="og:url" content="https://itzzen.net{$page.url.pathname}" />
-	<meta property="og:image" content={avatar} />
+	<meta name="description" content="the personal website of allissa">
+	<meta content="#d3d3d3" data-react-helmet="true" name="theme-color">
+	<meta property="og:title" content="allissa's comfy burrow | {$page.url.pathname}">
+	<meta property="og:description" content="the personal website of allissa">
+	<meta property="og:url" content="https://itzzen.net{$page.url.pathname}">
+	<meta property="og:image" content={avatar}>
+	<link href="https://social.itzzen.net/@itzzen" rel="me">
 </svelte:head>
 
 <header>
@@ -33,12 +33,8 @@
 			<a href="/presence" class:active={$page.url.pathname == '/presence/'}><i class="fa-solid fa-user"></i> presence</a>
 			<a href="/donate" class:active={$page.url.pathname == '/donate/'}><i class="fa-solid fa-piggy-bank"></i> donate</a>
 		</div>
-		<div class="images">
-			<hr />
-			<img src={avatar} alt="kanna kamui looking up" title="me.png" id="avatar" />
-			<hr />
-			<a href="https://www.mabsland.com/Adoption.html" id="censor"><img src={censor} alt="website content is rated WEB-14" title="This site is rated WEB-14. However, external links may not be rated." /></a>
-		</div>
+		<hr />
+		<img src={avatar} alt="kanna kamui looking up" title="me.png" class="avatar" />
 	</nav>
 
 	<article>
@@ -47,5 +43,5 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified 2025/08/06</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified 2025/09/15</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>
