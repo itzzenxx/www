@@ -10,7 +10,6 @@ import ezri from "/assets/buttons/ezri.png";
 import june from "/assets/buttons/june.png";
 import onzecki from "/assets/buttons/onzecki.avif";
 import shitpostalotl from "/assets/buttons/shitpostalotl.png";
-import slonk from "/assets/buttons/slonk.png";
 import tauon from "/assets/buttons/tauon.png";
 import translunar from "/assets/buttons/translunar.png";
 import winter from "/assets/buttons/winter.png";

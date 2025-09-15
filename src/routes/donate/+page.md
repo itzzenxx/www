@@ -4,7 +4,7 @@ If you like this page, my work on my various projects, or whatever I did that ha
 
 ### Donate using credit/debit
 
-**<i class="fa-solid fa-warning"></i> Warning: Ko-Fi takes 5% from all donations.** 
+**<i class="fa-solid fa-warning"></i> Warning: Ko-Fi takes 5% from all donations.**
 
 - [<i class="fa-solid fa-coffee"></i> itzzen](https://ko-fi.com/X8X810UEWR) | Ko-Fi
 - <i class="fa-solid fa-dollar"></i> itzzen@itzzen.net | Zelle

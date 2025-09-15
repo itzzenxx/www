@@ -6,13 +6,13 @@
 
 <svelte:head>
 	<title>{$page.url.pathname} | allissa's comfy burrow</title>
-	<meta name="description" content="the personal website of allissa">
-	<meta content="#d3d3d3" data-react-helmet="true" name="theme-color">
-	<meta property="og:title" content="allissa's comfy burrow | {$page.url.pathname}">
-	<meta property="og:description" content="the personal website of allissa">
-	<meta property="og:url" content="https://itzzen.net{$page.url.pathname}">
-	<meta property="og:image" content={avatar}>
-	<link href="https://social.itzzen.net/@itzzen" rel="me">
+	<meta name="description" content="the personal website of allissa" />
+	<meta content="#d3d3d3" data-react-helmet="true" name="theme-color" />
+	<meta property="og:title" content="allissa's comfy burrow | {$page.url.pathname}" />
+	<meta property="og:description" content="the personal website of allissa" />
+	<meta property="og:url" content="https://itzzen.net{$page.url.pathname}" />
+	<meta property="og:image" content={avatar} />
+	<link href="https://social.itzzen.net/@itzzen" rel="me" />
 </svelte:head>
 
 <header>
