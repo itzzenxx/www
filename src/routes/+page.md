@@ -13,6 +13,9 @@ import shitpostalotl from "/assets/buttons/shitpostalotl.png";
 import tauon from "/assets/buttons/tauon.png";
 import translunar from "/assets/buttons/translunar.png";
 import winter from "/assets/buttons/winter.png";
+import trans from "/assets/buttons/trans.png"
+import lesbian from "/assets/buttons/lesbian.png"
+import plural from "/assets/buttons/plural.png"
 import linux from "/assets/buttons/linux.png"
 import firefox from "/assets/buttons/firefox.gif";
 import freebsdpowered from "/assets/buttons/freebsdpowered.gif";
@@ -69,6 +72,9 @@ You can view this website's hidden service by visiting <span class="letter-break
 <a href="https://winter.entities.org.uk"><img src={winter} alt="winter :3 mew!" class="button"></a>
 <h4>misc</h4>
 <iframe class="button increment" src="https://incr.easrng.net/badge?key=itzzennet&bg=)" title="increment badge"></iframe>
+<img src={trans} alt="trans pride flag" class="button">
+<img src={lesbian} alt="lesbian pride flag" class="button">
+<img src={plural} alt="plural pride flag" class="button">
 <a href="https://kernel.org"><img src={linux} alt="made on GNU/Linux" class="button"></a>
 <a href="https://www.mozilla.org/en-US/firefox/new/"><img src={firefox} alt="firefox" class="button"></a>
 <a href="https://freebsd.org"><img src={freebsdpowered} alt="Powered by FreeBSD" class="button"></a>

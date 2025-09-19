@@ -1,5 +1,5 @@
 <script>
-	import avatar from '/assets/avatar.png';
+	import avatar from '/assets/avatar.gif';
 	import { page } from '$app/stores';
 	import '@fortawesome/fontawesome-free/css/all.min.css';
 </script>
@@ -25,7 +25,7 @@
 		<div class="links">
 			<a href="/" class:active={$page.url.pathname == '/'}><i class="fa-solid fa-house"></i> home</a>
 			<a href="/blog/" class:active={$page.url.pathname == '/blog/'}><i class="fa-solid fa-newspaper"></i> my blog</a>
-			<a href="/about" class:active={$page.url.pathname == '/about/'}><i class="fa-solid fa-address-card"></i> about me</a>
+			<a href="/about" class:active={$page.url.pathname == '/about/'}><i class="fa-solid fa-address-card"></i> about us</a>
 			<a href="/projects" class:active={$page.url.pathname == '/projects/'}><i class="fa-solid fa-code"></i> projects</a>
 			<a href="/services" class:active={$page.url.pathname == '/services/'}><i class="fa-solid fa-server"></i> services</a>
 			<a href="/resources" class:active={$page.url.pathname == '/resources/'}><i class="fa-solid fa-folder"></i> resources</a>
@@ -34,7 +34,7 @@
 			<a href="/donate" class:active={$page.url.pathname == '/donate/'}><i class="fa-solid fa-piggy-bank"></i> donate</a>
 		</div>
 		<hr />
-		<img src={avatar} alt="kanna kamui looking up" title="me.png" class="avatar" />
+		<img src={avatar} alt="a puppygirl gets a hand put on her face and then gets shaken around violently. After she frees herself, she smiles and ends up liking it." title="me.png" class="avatar" />
 	</nav>
 
 	<article>
@@ -43,5 +43,5 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified 2025/09/15</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified 2025/09/19</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>
