@@ -1,6 +1,7 @@
 ---
 title: 'Updating my preferred donation method to Ko-Fi'
 date: '2024-07-22'
+author: 'allissa'
 ---
 
 tl;dr: I'm switching my credit/debit donation platform to Ko-Fi, you can donate to me via my page at [ko-fi.com/itzzen](https://ko-fi.com/itzzen).

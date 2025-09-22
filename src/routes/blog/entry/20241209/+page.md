@@ -1,6 +1,7 @@
 ---
 title: 'My experience taking public transit to Mohegan Sun'
 date: '2024-12-09'
+author: 'allissa'
 ---
 
 <script>

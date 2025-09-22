@@ -11,13 +11,13 @@ img {
 }
 </style>
 
-## My blog
+## Our blog
 
-Very infrequently I will write a thing and post it onto this website, my entries are shown here:
+Sometimes we will write a thing and put it on this blog. Here is the list of things we have written:
 
 <ul>
 {#each data.posts as post}
-<li><a href="{post.path}">{post.meta.title}</a> | {post.meta.date}</li>
+<li><a href="{post.path}">{post.meta.title}</a> | {post.meta.author} | {post.meta.date}</li>
 {/each}
 </ul>
 

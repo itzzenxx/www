@@ -1,6 +1,7 @@
 ---
 title: 'The big website overhaul and (the first) changelog!'
 date: '2024-06-24'
+author: 'allissa'
 ---
 
 <script>

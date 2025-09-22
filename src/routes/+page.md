@@ -5,14 +5,9 @@ import ajvega from "/assets/buttons/ajvega.png";
 import biddyfox from "/assets/buttons/biddyfox.png";
 import cobra from "/assets/buttons/cobra.png";
 import easrng from "/assets/buttons/easrng.gif";
-import elysia from "/assets/buttons/elysia.png";
 import ezri from "/assets/buttons/ezri.png";
 import june from "/assets/buttons/june.png";
-import onzecki from "/assets/buttons/onzecki.avif";
-import shitpostalotl from "/assets/buttons/shitpostalotl.png";
-import tauon from "/assets/buttons/tauon.png";
 import translunar from "/assets/buttons/translunar.png";
-import winter from "/assets/buttons/winter.png";
 import trans from "/assets/buttons/trans.png"
 import lesbian from "/assets/buttons/lesbian.png"
 import plural from "/assets/buttons/plural.png"
@@ -63,13 +58,8 @@ You can view this website's hidden service by visiting <span class="letter-break
 <a href="https://biddyfox.net"><img src={biddyfox} alt="biddyfox" class="button"></a>
 <a href="https://cobra.vern.cc"><img src={cobra} alt="cobra" class="button"></a>
 <a href="https://easrng.net"><img src={easrng} alt="easrng" class="button"></a>
-<a href="https://le.alphamethyl.barr0w.net/~elysia/index.html"><img src={elysia} alt="elysia" class="button"></a>
 <a href="https://ezri.pet"><img src={ezri} alt="ezri" class="button"></a>
 <a href="https://f.dog"><img src={june} alt="june girlboss.ceo" class="button"></a>
-<a href="https://onz.ee"><img src={onzecki} alt="onzecki" class="button"></a>
-<a href="https://www.unix.dog/~shitpostalotl/"><img src={shitpostalotl} alt="SP" class="button"></a>
-<a href="https://tauon.dev"><img src={tauon} alt="lily :3" class="button"></a>
-<a href="https://winter.entities.org.uk"><img src={winter} alt="winter :3 mew!" class="button"></a>
 <h4>misc</h4>
 <iframe class="button increment" src="https://incr.easrng.net/badge?key=itzzennet&bg=)" title="increment badge"></iframe>
 <img src={trans} alt="trans pride flag" class="button">

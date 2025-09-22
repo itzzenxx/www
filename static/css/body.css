@@ -51,7 +51,7 @@ blockquote {
 }
 
 blockquote p {
-	padding-left: 20px;
+	padding-left: 10px;
 	font-style: italic;
 }
 
@@ -85,35 +85,30 @@ code {
 }
 
 nav {
-	border-right: 1px var(--textColor) solid;
 	background-color: var(--navBackgroundColor);
-	padding: 10px;
-	gap: 12px;
 	min-width: 138px;
 	max-width: 138px;
 	display: flex;
 	flex-direction: column;
+	top: 10px;
+	position: sticky;
+	align-self: flex-start;
+	margin: 10px;
 }
 
 nav hr {
 	width: 100%;
+	margin: 10px 0 10px 0;
+	border: 0.5px solid var(--textColor);
 }
 
 nav a {
 	text-decoration: none;
 }
 
-#pride {
-	position: fixed;
-	top: 0;
-	right: 0;
-}
-
 main {
 	font-family: sans-serif;
 	display: flex;
-	flex-direction: row;
-	gap: 20px;
 }
 
 header {
@@ -148,6 +143,8 @@ header p {
 article {
 	max-width: 612px;
 	width: 100%;
+	border-left: 1px var(--textColor) solid;
+	padding-left: 10px;
 }
 
 img,
@@ -166,20 +163,11 @@ li + li {
 	margin: 6px 0;
 }
 
-@media screen and (max-width: 810px) {
-	#pride {
-		top: -30px;
-		right: -30px;
-		transform: scale(0.5);
-	}
-}
-
 @media screen and (max-width: 450px) {
 	main {
 		flex-direction: column;
 	}
 	nav {
-		border: unset;
 		border-bottom: 1px var(--textColor) solid;
 		flex-flow: wrap;
 		min-width: unset;
@@ -188,9 +176,16 @@ li + li {
 		flex-direction: column-reverse;
 		position: sticky;
 		top: -90px;
+		margin: unset;
+		padding-bottom: 10px;
+	}
+	article {
+		border: unset;
+		border-bottom: 1px var(--textColor) solid;
+		padding: unset;
 	}
 	nav hr {
-		display: none;
+		border: none;
 	}
 	.links {
 		border: unset;

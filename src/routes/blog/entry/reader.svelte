@@ -10,6 +10,10 @@
 	/**
 	 * @type string
 	 */
+	export let author;
+	/**
+	 * @type string
+	 */
 	export let modified;
 </script>
 
@@ -27,6 +31,6 @@
 {#if modified}
 	<p>modified date: {modified}</p>
 {/if}
-<p>author: itzzen@itzzen.net</p>
+<p>author: {author} (<a href="mailto:itzzen@itzzen.net">itzzen@itzzen.net</a>)</p>
 <hr />
 <slot />

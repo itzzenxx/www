@@ -24,7 +24,7 @@
 	<nav>
 		<div class="links">
 			<a href="/" class:active={$page.url.pathname == '/'}><i class="fa-solid fa-house"></i> home</a>
-			<a href="/blog/" class:active={$page.url.pathname == '/blog/'}><i class="fa-solid fa-newspaper"></i> my blog</a>
+			<a href="/blog/" class:active={$page.url.pathname == '/blog/'}><i class="fa-solid fa-newspaper"></i> our blog</a>
 			<a href="/about" class:active={$page.url.pathname == '/about/'}><i class="fa-solid fa-address-card"></i> about us</a>
 			<a href="/projects" class:active={$page.url.pathname == '/projects/'}><i class="fa-solid fa-code"></i> projects</a>
 			<a href="/services" class:active={$page.url.pathname == '/services/'}><i class="fa-solid fa-server"></i> services</a>
@@ -43,5 +43,5 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified 2025/09/19</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified 2025/09/22</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>

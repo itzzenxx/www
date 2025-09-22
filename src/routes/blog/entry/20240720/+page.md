@@ -1,6 +1,7 @@
 ---
 title: 'As of July 20th, I am no longer on the fediverse'
 date: '2024-07-20'
+author: 'allissa'
 ---
 
 # the title says it all really

@@ -2,6 +2,7 @@
 title: "I'll be okay"
 date: '2025-02-14'
 modified: '2025-04-02'
+author: 'allissa'
 ---
 
 <script>
