@@ -14,15 +14,12 @@
 	/**
 	 * @type string
 	 */
+	export let category;
+	/**
+	 * @type string
+	 */
 	export let modified;
 </script>
-
-<svelte:head>
-	<title>{title} | allissa's blog</title>
-	<meta name="description" content="allissa's comfy blog" />
-	<meta property="og:title" content="{title} | allissa's blog" />
-	<meta property="og:description" content="allissa's comfy blog" />
-</svelte:head>
 
 <p><a href="https://itzzen.net/blog"><i class="fa-solid fa-arrow-left"></i> back to my blog</a></p>
 
@@ -32,5 +29,6 @@
 	<p>modified date: {modified}</p>
 {/if}
 <p>author: {author} (<a href="mailto:itzzen@itzzen.net">itzzen@itzzen.net</a>)</p>
+<p>category: {category}</p>
 <hr />
 <slot />

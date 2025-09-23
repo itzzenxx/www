@@ -4,29 +4,26 @@
 	import validatom from "/assets/buttons/validatom.png";
 </script>
 
-<style>
-img {
-    width: 88px;
-    height: 31px;
-}
-</style>
-
 ## Our blog
 
 Sometimes we will write a thing and put it on this blog. Here is the list of things we have written:
 
-<ul>
+<table>
+<th>title</th>
+<th>category</th>
+<th>author</th>
+<th>published</th>
 {#each data.posts as post}
-<li><a href="{post.path}">{post.meta.title}</a> | {post.meta.author} | {post.meta.date}</li>
+<tr><td><a href="{post.path}">{post.meta.title}</a></td><td>{post.meta.category}</td><td>{post.meta.author}</td><td>{post.meta.date}</td></tr>
 {/each}
-</ul>
+</table>
 
 ## Get notified
 
-I have an Atom feed and an RSS feed if you wish to be notified whenever I update my blog
+We have both an Atom feed and an RSS feed you can subscribe to if you want notifications on when we add an entry to our blog. 
 
 - [<i class="fa-solid fa-atom"></i> atom feed](/blog/atom.xml)
 - [<i class="fa-solid fa-rss"></i> legacy rss feed](/blog/rss.xml)
 
-[![valid atom]({validatom})](https://validator.w3.org/feed/check.cgi?url=https%3A//itzzen.net/blog/atom.xml)
-[![valid rss]({validrss})](https://validator.w3.org/feed/check.cgi?url=https%3A//itzzen.net/blog/rss.xml)
+<a href="https://validator.w3.org/feed/check.cgi?url=https%3A//itzzen.net/blog/atom.xml"><img src="{validatom}" alt="valid atom" class="button"></a>
+<a href="https://validator.w3.org/feed/check.cgi?url=https%3A//itzzen.net/blog/rss.xml"><img src="{validrss}" alt="valid rss" class="button"></a>

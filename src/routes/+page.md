@@ -30,11 +30,6 @@ import increment from "/assets/buttons/increment.gif";
 </script>
 
 <style>
-	.button {
-		height: 31px;
-		width: 88px;
-		margin-right: 6px;
-	}
     .increment {
         background: url(/assets/buttons/increment.gif);
 		border: 0;

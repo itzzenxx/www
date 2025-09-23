@@ -6,7 +6,7 @@ A lot of these I barely check-in on, if at all. If you wish to contact me, go to
 
 ### Development
 
-- [<i class="fa-solid fa-mountain"></i> itzzen](https://codeberg.org/itzzen) | Codeberg <i class="fa-solid fa-key"></i>
+- [<i class="fa-solid fa-mountain"></i> itzzen](https://codeberg.org/itzzen) | Codeberg
 
 ### Forums
 
@@ -31,8 +31,6 @@ A lot of these I barely check-in on, if at all. If you wish to contact me, go to
 
 ### Social
 
-- <i class="fa-brands fa-discord"></i> @itzzenxx | Discord <i class="fa-solid fa-key"></i>
-- [<i class="fa-solid fa-circle-nodes"></i> @itzzen@itzzen.net](https://social.itzzen.net/@itzzen) | Fediverse <i class="fa-solid fa-key"></i>
-- <i class="fa-solid fa-hashtag"></i> itzzenxx | IRC (Libera.Chat) <i class="fa-solid fa-key"></i>
-
-**<i class="fa-solid fa-key"></i> This profile has been verified with OpenPGP.** See my Keyoxide profile at [keyoxide.org](https://keyoxide.org/hkp/804cd90c8a4cf212efa5c87d8860512a612d35cc) for more information.
+- <i class="fa-brands fa-discord"></i> @itzzenxx | Discord
+- [<i class="fa-solid fa-circle-nodes"></i> @itzzen@itzzen.net](https://social.itzzen.net/@itzzen) | Fediverse
+- <i class="fa-solid fa-hashtag"></i> itzzenxx | IRC (Libera.Chat)

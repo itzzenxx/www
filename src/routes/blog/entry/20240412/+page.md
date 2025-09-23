@@ -3,6 +3,7 @@ title: 'My first blog entry on the itzzen net'
 date: '2024-04-12'
 modified: '2024-10-1'
 author: 'allissa'
+category: 'meta'
 ---
 
 hi there reader, I'm just
