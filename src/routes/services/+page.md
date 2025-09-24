@@ -4,7 +4,7 @@ I run a few public facing services for the public to freely use. More are to com
 
 ### Monero Node
 
-A [public node](https://blog.monerica.com/articles/what-is-a-monero-node) for the [Monero cryptocurrency](https://getmonero.org) which serves various functions, e.g., synchronization, verification, storing, and relaying of new blocks and the entire blockchain.  
+A [public node](https://blog.monerica.com/articles/what-is-a-monero-node) for the [Monero cryptocurrency](https://getmonero.org) which serves various functions, e.g., synchronization, verification, storing, and relaying of new blocks and the entire blockchain.
 
 #### Connecting (RPC)
 
