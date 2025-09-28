@@ -1,5 +1,5 @@
 <script>
-	import avatar from '/assets/avatar.gif';
+	import avatar from '/assets/avatar.png';
 	import { page } from '$app/state';
 	import '@fortawesome/fontawesome-free/css/all.min.css';
 </script>
@@ -34,7 +34,7 @@
 			<a href="/donate" class:active={page.url.pathname == '/donate/'}><i class="fa-solid fa-piggy-bank"></i> donate</a>
 		</div>
 		<hr />
-		<img src={avatar} alt="a puppygirl gets a hand put on her face and then gets shaken around violently. After she frees herself, she smiles and ends up liking it." title="me.png" class="avatar" />
+		<img src={avatar} alt="five stars in a row with the trans, lesbian, & plural flags" title="me.png" class="avatar" />
 	</nav>
 
 	<article>
@@ -43,5 +43,5 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified 2025-09-24</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified 2025-09-28</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>
