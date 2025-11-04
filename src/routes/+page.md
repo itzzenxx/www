@@ -37,9 +37,9 @@ import increment from "/assets/buttons/increment.gif";
     }
 </style>
 
-## Hi there, my name is allissa
+## Hi there, we are the allissa system
 
-This is my website, webpage, den... whatever you'd like to call it. You can find all sorts of things here if you go digging for it. Enjoy your stay!
+This is our website, webpage, den... whatever you'd like to call it. You can find all sorts of things here if you go digging for it. Enjoy your stay!
 
 You can view this website's hidden service by visiting <span class="letter-break">[itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion](http://itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion/)</span> in the [Tor Browser](https://torproject.org)
 

@@ -12,7 +12,6 @@
 	<meta property="og:description" content="the personal website of allissa" />
 	<meta property="og:url" content="https://itzzen.net{page.url.pathname}" />
 	<meta property="og:image" content={avatar} />
-	<link href="https://social.itzzen.net/@itzzen" rel="me" />
 </svelte:head>
 
 <header>
@@ -30,7 +29,6 @@
 			<a href="/services" class:active={page.url.pathname == '/services/'}><i class="fa-solid fa-server"></i> services</a>
 			<a href="/resources" class:active={page.url.pathname == '/resources/'}><i class="fa-solid fa-folder"></i> resources</a>
 			<a href="/contact" class:active={page.url.pathname == '/contact/'}><i class="fa-solid fa-paper-plane"></i> contact</a>
-			<a href="/presence" class:active={page.url.pathname == '/presence/'}><i class="fa-solid fa-user"></i> presence</a>
 			<a href="/donate" class:active={page.url.pathname == '/donate/'}><i class="fa-solid fa-piggy-bank"></i> donate</a>
 		</div>
 		<hr />
@@ -43,5 +41,5 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by allissa | <i>site last modified 2025-09-28</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by allissa system | <i>site last modified 2025-11-04</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>
