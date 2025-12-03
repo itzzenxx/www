@@ -3,11 +3,9 @@ import frontpagegif from "/assets/frontpage.gif";
 import itzzennet from "/assets/buttons/itzzennet.png";
 import ajvega from "/assets/buttons/ajvega.png";
 import biddyfox from "/assets/buttons/biddyfox.png";
-import cobra from "/assets/buttons/cobra.png";
 import easrng from "/assets/buttons/easrng.gif";
 import elysia from "/assets/buttons/elysia.png";
-import ezri from "/assets/buttons/ezri.png";
-import june from "/assets/buttons/june.png";
+import kawaiizenbo from "/assets/buttons/kawaiizenbo.gif";
 import translunar from "/assets/buttons/translunar.png";
 import trans from "/assets/buttons/trans.png"
 import lesbian from "/assets/buttons/lesbian.png"
@@ -28,6 +26,7 @@ import shitify from "/assets/buttons/shitify.gif";
 import internetprivacynow from "/assets/buttons/internetprivacynow.gif";
 import sameshitdiffass from "/assets/buttons/sameshitdiffass.gif";
 import increment from "/assets/buttons/increment.gif";
+import newengland from "/assets/buttons/newengland.png";
 </script>
 
 <style>
@@ -52,16 +51,15 @@ You can view this website's hidden service by visiting <span class="letter-break
 <h4>friends</h4>
 <a href="https://ajvega.net"><img src={ajvega} alt="a. j. vega" class="button"></a>
 <a href="https://biddyfox.net"><img src={biddyfox} alt="biddyfox" class="button"></a>
-<a href="https://cobra.vern.cc"><img src={cobra} alt="cobra" class="button"></a>
 <a href="https://easrng.net"><img src={easrng} alt="easrng" class="button"></a>
 <a href="https://ely.pub.moe"><img src={elysia} alt="elysia" class="button"></a>
-<a href="https://ezri.pet"><img src={ezri} alt="ezri" class="button"></a>
-<a href="https://f.dog"><img src={june} alt="june girlboss.ceo" class="button"></a>
+<a href="https://kawaiizenbo.me"><img src={kawaiizenbo} alt="kawaiizenbo.me" class="button"></a>
 <h4>misc</h4>
 <iframe class="button increment" src="https://incr.easrng.net/badge?key=itzzennet&bg=)" title="increment badge"></iframe>
 <img src={trans} alt="trans pride flag" class="button">
 <img src={lesbian} alt="lesbian pride flag" class="button">
 <img src={plural} alt="plural pride flag" class="button">
+<img src={newengland} alt="flag of new england" class="button">
 <a href="https://kernel.org"><img src={linux} alt="made on GNU/Linux" class="button"></a>
 <a href="https://www.mozilla.org/en-US/firefox/new/"><img src={firefox} alt="firefox" class="button"></a>
 <a href="https://freebsd.org"><img src={freebsdpowered} alt="Powered by FreeBSD" class="button"></a>

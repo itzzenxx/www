@@ -1,15 +1,17 @@
-## My tip jar
+## Our tip jar
 
-If you like this page, my work on my various projects, or whatever I did that has benefitted you at all, feel free to donate to me! Any amount given to me is appreciated.
+If you like our website, our work on my various projects, or anything we've done that has benefitted you at all, feel free to donate to us! Anything given is greately appreciated.
 
 ### Fiat Currency
 
 | service | link/username                                    | currency | fee |
 | ------- | ------------------------------------------------ | -------- | --- |
-| Ko-Fi   | [ko-fi.com/itzzen](https://ko-fi.com/X8X810UEWR) | all\*    | 5%  |
+| Ko-Fi   | [ko-fi.com/itzzen](https://ko-fi.com/X8X810UEWR) | all\*    | 5%\*\*  |
 | Zelle   | [itzzen@itzzen.net](mailto:itzzen@itzzen.net)    | USD      | 0%  |
 
 \*Ko-Fi uses Stripe for payment processing, see their full list of currencies [here](https://docs.stripe.com/currencies).
+
+\*\*This fee is from Stripe, not Ko-Fi. See the breakdown of their fees [here](https://help.ko-fi.com/hc/en-us/articles/360002506494-Does-Ko-fi-take-a-fee).
 
 ### Crypto Currency
 

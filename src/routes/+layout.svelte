@@ -16,7 +16,7 @@
 
 <header>
 	<h1>allissa's comfy burrow</h1>
-	<p>absolute mental illness</p>
+	<p>exhausted</p>
 </header>
 
 <main>
@@ -32,7 +32,7 @@
 			<a href="/donate" class:active={page.url.pathname == '/donate/'}><i class="fa-solid fa-piggy-bank"></i> donate</a>
 		</div>
 		<hr />
-		<img src={avatar} alt="five stars in a row with the trans, lesbian, & plural flags" title="me.png" class="avatar" />
+		<img src={avatar} alt="a tired kobayashi" title="me.png" class="avatar" />
 	</nav>
 
 	<article>
@@ -41,5 +41,5 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by allissa system | <i>site last modified 2025-11-04</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by allissa system | <i>site last modified 2025-12-02</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>

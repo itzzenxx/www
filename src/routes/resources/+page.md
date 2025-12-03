@@ -1,6 +1,6 @@
-## Resources and other junk
+## Resources and other things
 
-Welcome to the resource page for all files related to us and our website
+Welcome to the resource page for all files related to us or our website
 
 | file name   | description            | link                                             |
 | ----------- | ---------------------- | ------------------------------------------------ |
