@@ -16,7 +16,7 @@
 
 <header>
 	<h1>allissa's comfy burrow</h1>
-	<p>exhausted</p>
+	<div class="imood-holder"><p><i>is feeling</i></p><a href="https://www.imood.com/users/itzzen"><img class="imood"></a></div>
 </header>
 
 <main>
