@@ -4,10 +4,10 @@ If you like our website, our work on my various projects, or anything we've done
 
 ### Fiat Currency
 
-| service | link/username                                    | currency | fee |
-| ------- | ------------------------------------------------ | -------- | --- |
-| Ko-Fi   | [ko-fi.com/itzzen](https://ko-fi.com/X8X810UEWR) | all\*    | 5%\*\*  |
-| Zelle   | [itzzen@itzzen.net](mailto:itzzen@itzzen.net)    | USD      | 0%  |
+| service | link/username                                    | currency | fee    |
+| ------- | ------------------------------------------------ | -------- | ------ |
+| Ko-Fi   | [ko-fi.com/itzzen](https://ko-fi.com/X8X810UEWR) | all\*    | 5%\*\* |
+| Zelle   | [itzzen@itzzen.net](mailto:itzzen@itzzen.net)    | USD      | 0%     |
 
 \*Ko-Fi uses Stripe for payment processing, see their full list of currencies [here](https://docs.stripe.com/currencies).
 

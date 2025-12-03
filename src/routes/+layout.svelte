@@ -16,7 +16,7 @@
 
 <header>
 	<h1>allissa's comfy burrow</h1>
-	<div class="imood-holder"><p><i>is feeling</i></p><a href="https://www.imood.com/users/itzzen"><img class="imood"></a></div>
+	<div class="imood-holder"><p><i>is feeling</i></p><a href="https://www.imood.com/users/itzzen"><img class="imood" alt="The current mood of itzzen at www.imood.com" /></a></div>
 </header>
 
 <main>
@@ -41,5 +41,5 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by allissa system | <i>site last modified 2025-12-02</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by allissa system | <i>site last modified 2025-12-03</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>
