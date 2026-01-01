@@ -36,7 +36,7 @@ import newengland from "/assets/buttons/newengland.png";
     }
 </style>
 
-## Hi there, we are the allissa system
+## Hi there, we're zen
 
 This is our website, webpage, den... whatever you'd like to call it. You can find all sorts of things here if you go digging for it. Enjoy your stay!
 

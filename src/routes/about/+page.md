@@ -1,6 +1,6 @@
 ## About the webmistress
 
-Hi! We are the allissa system. We're a bunch of girls living somewhere in New England. We love to travel, trainspot, and do weird things with our computers.
+Hi! We're zen. We're a bunch of girls living somewhere in New England. We love to travel, trainspot, and do weird things with our computers.
 
 ### Our system
 
