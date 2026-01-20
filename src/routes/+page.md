@@ -4,6 +4,7 @@ import itzzennet from "/assets/buttons/itzzennet.png";
 import ajvega from "/assets/buttons/ajvega.png";
 import biddyfox from "/assets/buttons/biddyfox.png";
 import easrng from "/assets/buttons/easrng.gif";
+import ezri from "/assets/buttons/ezri.png";
 import elysia from "/assets/buttons/elysia.png";
 import kawaiizenbo from "/assets/buttons/kawaiizenbo.gif";
 import translunar from "/assets/buttons/translunar.png";
@@ -26,7 +27,6 @@ import shitify from "/assets/buttons/shitify.gif";
 import internetprivacynow from "/assets/buttons/internetprivacynow.gif";
 import sameshitdiffass from "/assets/buttons/sameshitdiffass.gif";
 import increment from "/assets/buttons/increment.gif";
-import newengland from "/assets/buttons/newengland.png";
 </script>
 
 <style>
@@ -40,8 +40,6 @@ import newengland from "/assets/buttons/newengland.png";
 
 This is our website, webpage, den... whatever you'd like to call it. You can find all sorts of things here if you go digging for it. Enjoy your stay!
 
-You can view this website's hidden service by visiting <span class="letter-break">[itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion](http://itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion/)</span> in the [Tor Browser](https://torproject.org)
-
 <img alt="a train flying past the camera, then another coming right after in the other direction" src="{frontpagegif}"/>
 
 <h3>buttons</h3>
@@ -52,6 +50,7 @@ You can view this website's hidden service by visiting <span class="letter-break
 <a href="https://ajvega.net"><img src={ajvega} alt="a. j. vega" class="button"></a>
 <a href="https://biddyfox.net"><img src={biddyfox} alt="biddyfox" class="button"></a>
 <a href="https://easrng.net"><img src={easrng} alt="easrng" class="button"></a>
+<a href="https://ezri.pet"><img src={ezri} alt="ezri" class="button"></a>
 <a href="https://ely.pub.moe"><img src={elysia} alt="elysia" class="button"></a>
 <a href="https://kawaiizenbo.me"><img src={kawaiizenbo} alt="kawaiizenbo.me" class="button"></a>
 <h4>misc</h4>
@@ -59,7 +58,6 @@ You can view this website's hidden service by visiting <span class="letter-break
 <img src={trans} alt="trans pride flag" class="button">
 <img src={lesbian} alt="lesbian pride flag" class="button">
 <img src={plural} alt="plural pride flag" class="button">
-<img src={newengland} alt="flag of new england" class="button">
 <a href="https://kernel.org"><img src={linux} alt="made on GNU/Linux" class="button"></a>
 <a href="https://www.mozilla.org/en-US/firefox/new/"><img src={firefox} alt="firefox" class="button"></a>
 <a href="https://freebsd.org"><img src={freebsdpowered} alt="Powered by FreeBSD" class="button"></a>
