@@ -6,8 +6,6 @@
 
 ## Our blog
 
-Sometimes we will write a thing and put it on this blog. Here is the list of things we have written:
-
 <table>
 <th>title</th>
 <th>category</th>
@@ -19,8 +17,6 @@ Sometimes we will write a thing and put it on this blog. Here is the list of thi
 </table>
 
 ## Get notified
-
-We have both an Atom feed and an RSS feed you can subscribe to if you want notifications on when we add an entry to our blog.
 
 - [<i class="fa-solid fa-atom"></i> atom feed](/blog/atom.xml)
 - [<i class="fa-solid fa-rss"></i> legacy rss feed](/blog/rss.xml)

@@ -1,7 +1,5 @@
 ## Our tip jar
 
-If you like our website, our work on my various projects, or anything we've done that has benefitted you at all, feel free to donate to us! Anything given is greately appreciated.
-
 ### Fiat
 
 | service | link/username                                 | currency | fee |
@@ -10,10 +8,7 @@ If you like our website, our work on my various projects, or anything we've done
 
 ### Crypto
 
-| coin         | symbol | wallet address                                                                                                                    |
-| ------------ | ------ | --------------------------------------------------------------------------------------------------------------------------------- |
-| Bitcoin      | BTC    | <span class="letter-break">bc1qp8pgl7gzxp427unv5hr69cdz5u3w4zytz2tuf5</span>                                                      |
-| Bitcoin Cash | BCH    | <span class="letter-break">qzktsjucu7ty3cn4wzc0r8hzwudha40fr5lkqsuqkd</span>                                                      |
-| Ethereum     | ETH    | <span class="letter-break">0xa9c5E1063C22f897Ba0976428938C9</span>                                                                |
-| Monero       | XMR    | <span class="letter-break">84uzBxURYwqXk9Y66XA2V7EMpGggnwAioUkjiiwsF4G8YUiNQMRJMBbVD2tQBiweKiJfPMjG6BsUXZvnrTD95k41Uj915Tb</span> |
-| Solana       | SOL    | <span class="letter-break">8h1ENfDFgy3SeLsxBRmgGMq3hYw5y9gQ9GguyohZTbLM</span>                                                    |
+| coin    | symbol | wallet address                                                                                                                    |
+| ------- | ------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| Bitcoin | BTC    | <span class="letter-break">bc1qp8pgl7gzxp427unv5hr69cdz5u3w4zytz2tuf5</span>                                                      |
+| Monero  | XMR    | <span class="letter-break">84uzBxURYwqXk9Y66XA2V7EMpGggnwAioUkjiiwsF4G8YUiNQMRJMBbVD2tQBiweKiJfPMjG6BsUXZvnrTD95k41Uj915Tb</span> |

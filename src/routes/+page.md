@@ -38,23 +38,20 @@ import increment from "/assets/buttons/increment.gif";
 
 ## Hi there, we're zen
 
-This is our website, webpage, den... whatever you'd like to call it. You can find all sorts of things here if you go digging for it. Enjoy your stay!
+This is our personal website.
 
 <img alt="a train flying past the camera, then another coming right after in the other direction" src="{frontpagegif}"/>
 
-<h3>buttons</h3>
-<h4>me & wifey</h4>
+<hr>
+<iframe class="button increment" src="https://incr.easrng.net/badge?key=itzzennet&bg=)" title="increment badge"></iframe>
 <a href="https://itzzen.net"><img src={itzzennet} alt="allissa's comfy burrow now!" class="button"></a>
 <a href="https://translunar.academy"><img src={translunar} alt="translunar academy" class="button"></a>
-<h4>friends</h4>
 <a href="https://ajvega.net"><img src={ajvega} alt="a. j. vega" class="button"></a>
 <a href="https://biddyfox.net"><img src={biddyfox} alt="biddyfox" class="button"></a>
 <a href="https://easrng.net"><img src={easrng} alt="easrng" class="button"></a>
 <a href="https://ezri.pet"><img src={ezri} alt="ezri" class="button"></a>
 <a href="https://ely.pub.moe"><img src={elysia} alt="elysia" class="button"></a>
 <a href="https://kawaiizenbo.me"><img src={kawaiizenbo} alt="kawaiizenbo.me" class="button"></a>
-<h4>misc</h4>
-<iframe class="button increment" src="https://incr.easrng.net/badge?key=itzzennet&bg=)" title="increment badge"></iframe>
 <img src={trans} alt="trans pride flag" class="button">
 <img src={lesbian} alt="lesbian pride flag" class="button">
 <img src={plural} alt="plural pride flag" class="button">

@@ -1,7 +1,5 @@
 ## Getting ahold of the webmistresses
 
-If you need to contact us, we have a few options you can use.
-
 - [<i class="fa-solid fa-envelope"></i> itzzen@itzzen.net](mailto:itzzen@itzzen.net) | Email
 - [<i class="fa-brands fa-signal-messenger"></i> itzzen.01](https://signal.me/#eu/xNzVregsVr30rcb4eXgSDq2HL-gCXqlPQEGAvq0Kb0u9AnWVeE1KUZ0OfQVKk-bG) | Signal
 
@@ -9,9 +7,10 @@ If you need to contact us, we have a few options you can use.
 
 It is best practice to encrypt all emails using OpenPGP. This ensures only the sender and recipient have access to the contents of the encrypted email.
 
-When sending me your encrypting email, you will need my OpenPGP public key. You can obtain it from the following sources:
+When sending us your encrypting email, you will need our OpenPGP public key. If your mail client doesn't automatically find our public key, you may download it from [itzzen.net (this very website!)](/resources/2FE99534BAD033691B798BCCADC3FDBE0F817816.asc) or [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/2FE99534BAD033691B798BCCADC3FDBE0F817816).
 
-- [<i class="fa-solid fa-link"></i> /resources/allissa.gpg](https://itzzen.net/resources/allissa.gpg)
-- [<i class="fa-solid fa-link"></i> keys.openpgp.org](https://keys.openpgp.org/pks/lookup?op=get&options=mr&search=0x804cd90c8a4cf212efa5c87d8860512a612d35cc)
+If you wish for further details on OpenPGP and how to use it, [this is a pretty good guide](https://help.riseup.net/en/security/message-security/openpgp).
 
-If you want further details on how to use OpenPGP, [this is a pretty good guide](https://help.riseup.net/en/security/message-security/openpgp) that goes into much further detail.
+### Keyoxide
+
+When supported, I use Keyxoide with OpenPGP to verify that the profiles listed here are owned by me. You may see my [Keyoxide profile](https://keyoxide.org/hkp/2FE99534BAD033691B798BCCADC3FDBE0F817816) for more information.

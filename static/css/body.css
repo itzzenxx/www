@@ -20,24 +20,6 @@
 		--tableEvenBackgroundColor: rgba(255, 255, 255, 0.1);
 		--navBackgroundColor: rgba(0, 0, 0, 0.8);
 	}
-
-	.imood {
-		content: url('https://moods.imood.com/display/uname-itzzen/fg-ffffff/trans-1/imood.gif') !important;
-	}
-}
-
-.imood {
-	width: auto;
-	height: auto;
-	margin: 0 0 0 5px;
-	padding: 0;
-	border: 0;
-	content: url('https://moods.imood.com/display/uname-itzzen/trans-1/imood.gif');
-}
-
-.imood-holder {
-	display: flex;
-	align-items: center;
 }
 
 body {
@@ -186,6 +168,15 @@ li + li {
 	width: 88px;
 }
 
+.pictures {
+	display: flex;
+	gap: 10px;
+}
+
+.pictures .photo {
+	max-width: 300px;
+}
+
 @media screen and (max-width: 450px) {
 	main {
 		flex-direction: column;
@@ -221,17 +212,5 @@ li + li {
 	.avatar {
 		height: 80px;
 		width: auto;
-	}
-
-	.imood-holder {
-		flex-direction: column;
-	}
-
-	.imood-holder p {
-		margin: 0;
-	}
-
-	.imood {
-		margin: 0;
 	}
 }
