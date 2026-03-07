@@ -1,11 +1,10 @@
-## My presence on other websites
+## Presence
 
-- [<i class="fa-solid fa-mountain"></i> itzzen](https://codeberg.org/itzzen) | Codeberg
-- <i class="fa-brands fa-discord"></i> @itzzenxx | Discord
-- [<i class="fa-solid fa-circle-nodes"></i> @itzzen@translunar.academy](https://social.translunar.academy/itzzen) | Fediverse
-- [<i class="fa-brands fa-github"></i> itzzenxx](https://github.com/itzzenxx) | GitHub
-- <i class="fa-solid fa-hashtag"></i> itzzenxx | IRC (Libera.Chat)
+We are sorta active on the platforms below. They aren't treated as reliable communication methods though. You should see my [contact](/contact) page if your intent is to reach out to us.
 
-### Keyoxide
+- [<i class="icons codeberg"></i> itzzen](https://codeberg.org/itzzen) | Codeberg <a href="https://keyoxide.org/hkp/2FE99534BAD033691B798BCCADC3FDBE0F817816"><i class="icons verified"></i></a>
+- <i class="icons fluxer"></i> <span class="letter-break">itzzen#9277</span> | Fluxer
+- [<i class="icons github"></i> itzzenxx](https://github.com/itzzenxx) | GitHub <a href="https://keyoxide.org/hkp/2FE99534BAD033691B798BCCADC3FDBE0F817816"><i class="icons verified"></i></a>
+- <i class="icons hashtag"></i> <span class="letter-break">itzzenxx</span> | IRC (Libera.Chat) <a href="https://keyoxide.org/hkp/2FE99534BAD033691B798BCCADC3FDBE0F817816"><i class="icons verified"></i></a>
 
-When supported, I use Keyxoide with OpenPGP to verify that the profiles listed here are owned by me. You may see my [Keyoxide profile](https://keyoxide.org/hkp/2FE99534BAD033691B798BCCADC3FDBE0F817816) for more information.
+You will never find us on microblogging or social networking website. We find them to an absolute waste time. If you see someone pretending to be us on this type of website, they are not us and should be ignored.

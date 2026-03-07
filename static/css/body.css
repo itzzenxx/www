@@ -96,7 +96,7 @@ nav {
 	margin: 10px;
 }
 
-nav hr {
+hr {
 	width: 100%;
 	margin: 10px 0 10px 0;
 	border: 0.5px solid var(--textColor);
@@ -104,6 +104,10 @@ nav hr {
 
 nav a {
 	text-decoration: none;
+}
+
+.emoji {
+	text-shadow: 1px 1px black;
 }
 
 main {
@@ -159,6 +163,10 @@ video {
 	user-select: all;
 }
 
+.line-break {
+	white-space: nowrap;
+}
+
 li + li {
 	margin: 6px 0;
 }
@@ -166,6 +174,7 @@ li + li {
 .button {
 	height: 31px;
 	width: 88px;
+	border: 0;
 }
 
 .pictures {
@@ -175,6 +184,17 @@ li + li {
 
 .pictures .photo {
 	max-width: 300px;
+}
+
+.la-brands {
+	display: inline-block;
+	width: 1.25rem;
+	height: 1rem;
+	position: relative;
+	vertical-align: -2px;
+	background-color: var(--textColor);
+	mask-repeat: no-repeat;
+	mask-position: center;
 }
 
 @media screen and (max-width: 450px) {

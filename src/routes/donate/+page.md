@@ -1,4 +1,4 @@
-## Our tip jar
+## Donate
 
 ### Fiat
 

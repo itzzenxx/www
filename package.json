@@ -36,7 +36,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@fortawesome/fontawesome-free": "^7.0.0",
 		"prettier": "^3.3.3"
 	}
 }

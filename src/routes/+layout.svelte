@@ -1,7 +1,6 @@
 <script>
-	import avatar from '/assets/avatar.png';
+	import avatar from '/assets/avatar.webp';
 	import { page } from '$app/state';
-	import '@fortawesome/fontawesome-free/css/all.min.css';
 </script>
 
 <svelte:head>
@@ -16,22 +15,23 @@
 
 <header>
 	<a href="/"><h1>zen's comfy burrow</h1></a>
-	<p><i>"You do it to yourself, you do."</i></p>
+	<p><span class="emoji">🌺 🦋 ⚡ 🪻 💻 🌼 ❄️ 🌙</span></p>
 </header>
 
 <main>
 	<nav>
 		<div class="links">
-			<a href="/" class:active={page.url.pathname == '/'}><i class="fa-solid fa-house"></i> home</a>
-			<a href="/about" class:active={page.url.pathname == '/about/'}><i class="fa-solid fa-address-card"></i> about us</a>
-			<a href="/blog" class:active={page.url.pathname == '/blog/'}><i class="fa-solid fa-newspaper"></i> our blog</a>
-			<a href="/contact" class:active={page.url.pathname == '/contact/'}><i class="fa-solid fa-paper-plane"></i> contact</a>
-			<a href="/donate" class:active={page.url.pathname == '/donate/'}><i class="fa-solid fa-piggy-bank"></i> donate</a>
-			<a href="/presence" class:active={page.url.pathname == '/presence/'}><i class="fa-solid fa-share-nodes"></i> presence</a>
-			<a href="/projects" class:active={page.url.pathname == '/projects/'}><i class="fa-solid fa-code"></i> projects</a>
+			<a href="/" class:active={page.url.pathname == '/'}><i class="icons house"></i> home</a>
+			<a href="/about" class:active={page.url.pathname == '/about/'}><i class="icons address-card"></i> about us</a>
+			<a href="/blog" class:active={page.url.pathname == '/blog/'}><i class="icons newspaper"></i> our blog</a>
+			<a href="/contact" class:active={page.url.pathname == '/contact/'}><i class="icons paper-plane"></i> contact</a>
+			<a href="/donate" class:active={page.url.pathname == '/donate/'}><i class="icons coins"></i> donate</a>
+			<a href="/links" class:active={page.url.pathname == '/links/'}><i class="icons earth"></i> links</a>
+			<a href="/presence" class:active={page.url.pathname == '/presence/'}><i class="icons share-nodes"></i> presence</a>
+			<a href="/projects" class:active={page.url.pathname == '/projects/'}><i class="icons terminal"></i> projects</a>
 		</div>
 		<hr />
-		<img src={avatar} alt="a waxing crescent moon" title="me.png" class="avatar" />
+		<img src={avatar} alt="a waxing crescent moon" title="me.webp" class="avatar" />
 	</nav>
 
 	<article>
@@ -40,5 +40,5 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by zen | <i>site last modified 2026-02-20</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by zen | <i>site last modified 2026-03-07</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>
