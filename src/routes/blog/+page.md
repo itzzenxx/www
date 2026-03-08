@@ -7,10 +7,15 @@
 ## Our blog
 
 <table>
+<thead>
+<tr>
 <th>title</th>
 <th>category</th>
 <th>author</th>
 <th>published</th>
+</tr>
+</thead>
+<tbody>
 {#each data.posts as post}
 <tr><td><a href="{post.path}">{post.meta.title}</a></td><td>{post.meta.category}</td><td>{post.meta.author}</td><td>{post.meta.date}</td></tr>
 {/each}

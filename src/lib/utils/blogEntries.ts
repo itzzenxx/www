@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 export const fetchMarkdownPosts = async () => {
 	const iterablePostFiles = Object.entries(import.meta.glob('/src/routes/blog/entry/*/+page.md'));
 

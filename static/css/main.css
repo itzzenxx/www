@@ -77,6 +77,7 @@ table tr td {
 	font-family: monospace;
 	padding: 5px;
 	border: 2px solid var(--tableColor);
+	user-select: all;
 }
 
 table tr:nth-child(odd) td {
@@ -89,6 +90,7 @@ table tr:nth-child(even) td {
 
 code {
 	font-family: monospace;
+	overflow-wrap: anywhere;
 }
 
 header {
@@ -130,7 +132,9 @@ aside nav .active {
 
 aside .avatar {
 	margin: 0 auto;
-	height: auto;
+}
+
+aside .avatar img {
 	width: 138px;
 	height: 138px;
 }
@@ -153,15 +157,11 @@ article .button {
 	height: 31px;
 	width: 88px;
 	border: 0;
+	image-rendering: pixelated;
 }
 
 article li + li {
 	margin: 6px 0;
-}
-
-article .letter-break {
-	line-break: anywhere;
-	user-select: all;
 }
 
 .icons {
@@ -274,9 +274,9 @@ a .icons {
 		max-width: unset;
 		justify-content: space-around;
 	}
-	aside .avatar {
+	aside .avatar img {
 		height: 80px;
-		width: auto;
+		width: 80px;
 	}
 	article {
 		border: unset;

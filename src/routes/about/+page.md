@@ -14,7 +14,7 @@ After years of multiple banging our head against the wall we think we have an ok
 
 Here's what hardware we actively use:
 
-| hostname | device type               | operating system |
+| hostname | device                    | operating system |
 | -------- | ------------------------- | ---------------- |
 | lulu     | Custom Built Desktop      | Void GNU/linux   |
 | lavender | ThinkPad X1 Carbon Gen 12 | Void GNU/Linux   |
