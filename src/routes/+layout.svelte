@@ -15,12 +15,12 @@
 
 <header>
 	<a href="/"><h1>zen's comfy burrow</h1></a>
-	<p><span class="emoji">🌺 🦋 ⚡ 🪻 💻 🌼 ❄️ 🌙</span></p>
+	<p>🌺 🦋 ⚡ 🪻 💻 🌼 ❄️ 🌙</p>
 </header>
 
 <main>
-	<nav>
-		<div class="links">
+	<aside>
+		<nav>
 			<a href="/" class:active={page.url.pathname == '/'}><i class="icons house"></i> home</a>
 			<a href="/about" class:active={page.url.pathname == '/about/'}><i class="icons address-card"></i> about us</a>
 			<a href="/blog" class:active={page.url.pathname == '/blog/'}><i class="icons newspaper"></i> our blog</a>
@@ -29,10 +29,10 @@
 			<a href="/links" class:active={page.url.pathname == '/links/'}><i class="icons earth"></i> links</a>
 			<a href="/presence" class:active={page.url.pathname == '/presence/'}><i class="icons share-nodes"></i> presence</a>
 			<a href="/projects" class:active={page.url.pathname == '/projects/'}><i class="icons terminal"></i> projects</a>
-		</div>
+		</nav>
 		<hr />
 		<img src={avatar} alt="a waxing crescent moon" title="me.webp" class="avatar" />
-	</nav>
+	</aside>
 
 	<article>
 		<slot />
@@ -40,5 +40,5 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by zen | <i>site last modified 2026-03-07</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by zen | <i>site last modified 2026-03-08</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>

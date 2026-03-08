@@ -31,13 +31,16 @@ import sameshitdiffass from "/assets/buttons/sameshitdiffass.webp";
 import webmaster from "/assets/buttons/webmaster.webp";
 import drm from "/assets/buttons/drm.webp";
 import antinazi from "/assets/buttons/antinazi.webp";
+import mobilefriendly from "/assets/buttons/mobilefriendly.webp";
 </script>
 
 ## itzzen.net
 
-Welcome to our personal website, a fortress tall, take some time to show you around, impossible to break these walls, computer banks to rule the world. Having unfettered internet access was a mistake, but knowing how to host a website is nice.
+Welcome to our personal website, a fortress tall, take some time to show you around, impossible to break these walls, for you see the steel is much too strong, computer banks to rule the world.
 
 <!--You can view this website on the dark web by visiting <span class="letter-break">[itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion](http://itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion/)</span> in the [Tor Browser](https://torproject.org).-->
+
+This website is and always will be under construction.
 
 Proudly online since 2021-02-28. Happy 5th birthday itzzen.net!
 
@@ -60,12 +63,13 @@ Proudly online since 2021-02-28. Happy 5th birthday itzzen.net!
 <a href="https://www.defectivebydesign.org/"><img src={drm} alt="eliminate DRM now!" class="button"></a>
 <img src={discord} alt="Discord? No Way!" class="button">
 <a href="https://kernel.org"><img src={linux} alt="made on GNU/Linux" class="button"></a>
-<a href="https://www.mozilla.org/en-US/firefox/new/"><img src={firefox} alt="firefox" class="button"></a>
+<a href="https://www.firefox.com/en-US/"><img src={firefox} alt="firefox" class="button"></a>
 <a href="https://freebsd.org"><img src={freebsdpowered} alt="Powered by FreeBSD" class="button"></a>
 <img src={freespeech} alt="free speech now! 1996" class="button">
 <img src="{anybrowseryoulike}" alt="any browser you like" class="button">
 <a href="https://eightyeightthirty.one/#itzzen.net"><img src={eightyeightthirtyone} alt="eighty eight by thirty dot one" class="button"></a>
 <img src="{transyourgender}" alt="trans your gender!" class="button">
+<img src="{mobilefriendly}" alt="mobile friendly!" class="button">
 <img src="{notcloudflared}" alt="This website is not cloudflared!" class="button">
 <img src={antinazi} alt="no nazi, no fascism, no racism" class="button">
 <img src="{internetprivacynow}" alt="Internet privacy now!" class="button">
@@ -73,6 +77,6 @@ Proudly online since 2021-02-28. Happy 5th birthday itzzen.net!
 <img src="{piracy}" alt="piracy now!" class="button">
 <img src="{shitify}" alt="Spotify, When you love music but hate artists." class="button">
 <img src="{sameshitdiffass}" alt="Same shit different asshole." class="button">
-<img src="{webmaster}" alt="fucking webmaster." class="button">
+<a href="https://justinjackson.ca/webmaster/"><img src="{webmaster}" alt="fucking webmaster." class="button"></a>
 <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fitzzen.net"><img src={validhtml5} alt="Valid HTML5" class="button"></a>
 <a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fitzzen.net"><img src="{validcss}" alt="Valid CSS" class="button"></a>
