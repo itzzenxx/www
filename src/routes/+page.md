@@ -27,15 +27,15 @@ import shitify from "/assets/buttons/shitify.gif";
 import internetprivacynow from "/assets/buttons/internetprivacynow.gif";
 import sameshitdiffass from "/assets/buttons/sameshitdiffass.gif";
 import webmaster from "/assets/buttons/webmaster.webp";
-import drm from "/assets/buttons/drm.webp";
 import antinazi from "/assets/buttons/antinazi.webp";
 import mobilefriendly from "/assets/buttons/mobilefriendly.webp";
 import voidlinux from "/assets/buttons/voidlinux.webp";
+import greenteam from "/assets/buttons/green-team.gif";
 </script>
 
 ## itzzen.net
 
-Welcome to our personal website, a fortress tall, take some time to show you around, impossible to break these walls, for you see the steel is much too strong, computer banks to rule the world.
+Welcome to our personal website, a fortress tall, take some time to show you around, impossible to break these walls, for you see the steel is much too strong.
 
 <!--You can view this website on the dark web by visiting <span class="letter-break">[itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion](http://itzzen3po7dxbyubkujny3qblislyyj4gppzlnlsdjl6awha7ajouqid.onion/)</span> in the [Tor Browser](https://torproject.org).-->
 
@@ -46,7 +46,7 @@ Proudly online since 2021-02-28. Happy 5th birthday itzzen.net!
 <a href="{desk}"><img src={desk400} alt="our desk setup" fetchpriority="high" srcset="{desk400} 400w, {desk800} 800w, {desk} 4000w" sizes="400px"></a>
 
 <hr>
-<iframe class="button" src="https://incr.easrng.net/badge?key=itzzennet" title="increment badge"></iframe>
+<iframe class="button" src="https://incr.itzzen.net/badge?key=itzzennet" title="increment badge"></iframe>
 <a href="https://itzzen.net"><img src={itzzennet} alt="allissa's comfy burrow now!" class="button"></a>
 <a href="https://translunar.academy"><img src={translunar} alt="translunar academy" class="button"></a>
 <a href="https://ajvega.net"><img src={ajvega} alt="a. j. vega" class="button"></a>
@@ -56,7 +56,6 @@ Proudly online since 2021-02-28. Happy 5th birthday itzzen.net!
 <img src={trans} alt="trans pride flag" class="button">
 <img src={lesbian} alt="lesbian pride flag" class="button">
 <img src={plural} alt="plural pride flag" class="button">
-<a href="https://www.defectivebydesign.org/"><img src={drm} alt="eliminate DRM now!" class="button"></a>
 <img src={discord} alt="Discord? No Way!" class="button">
 <a href="https://kernel.org"><img src={linux} alt="made on GNU/Linux" class="button"></a>
 <a href="https://www.firefox.com/en-US/"><img src={firefox} alt="firefox" class="button"></a>
@@ -74,5 +73,6 @@ Proudly online since 2021-02-28. Happy 5th birthday itzzen.net!
 <img src="{sameshitdiffass}" alt="Same shit different asshole." class="button">
 <a href="https://voidlinux.org/"><img src="{voidlinux}" alt="enter the void" class="button"></a>
 <a href="https://justinjackson.ca/webmaster/"><img src="{webmaster}" alt="fucking webmaster." class="button"></a>
+<a href="https://512kb.club/"><img src="{greenteam}" alt="512kb club green team" class="button"></a>
 <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fitzzen.net"><img src={validhtml5} alt="Valid HTML5" class="button"></a>
 <a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fitzzen.net"><img src="{validcss}" alt="Valid CSS" class="button"></a>
