@@ -1,8 +1,13 @@
-<script>
+<script lang="ts">
 	import avatar138 from '/assets/avatar-138px.webp';
 	import avatar276 from '/assets/avatar-276px.webp';
 	import avatar from '/assets/avatar.webp';
 	import { page } from '$app/state';
+	interface Props {
+		children?: import('svelte').Snippet;
+	}
+
+	let { children }: Props = $props();
 </script>
 
 <svelte:head>
@@ -37,7 +42,7 @@
 	</aside>
 
 	<article>
-		<slot />
+		{@render children?.()}
 	</article>
 </main>
 
