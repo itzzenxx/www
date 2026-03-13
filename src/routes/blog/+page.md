@@ -1,7 +1,8 @@
 <script>
-	export let data;
 	import validrss from "/assets/buttons/validrss.webp";
 	import validatom from "/assets/buttons/validatom.webp";
+    import { fetchMarkdownPosts } from '$lib/utils/blogEntries.ts';
+    export const posts = await fetchMarkdownPosts();
 </script>
 
 ## Our blog
@@ -16,9 +17,10 @@
 </tr>
 </thead>
 <tbody>
-{#each data.posts as post}
+{#each posts as post}
 <tr><td><a href="{post.path}">{post.meta.title}</a></td><td>{post.meta.category}</td><td>{post.meta.author}</td><td>{post.meta.date}</td></tr>
 {/each}
+</tbody>
 </table>
 
 ## Get notified

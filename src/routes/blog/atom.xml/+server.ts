@@ -23,7 +23,7 @@ ${posts
 <id>tag:itzzen.net,${post.meta.date}:${post.path}</id>
 <summary>${post.meta.title}</summary>
 <content type="html">
-<![CDATA[${post.content.html}]]>
+<![CDATA[${post.content}]]>
 </content>
 </entry>`
 	)

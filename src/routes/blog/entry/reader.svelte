@@ -1,25 +1,10 @@
 <script lang="ts">
 	interface Props {
-		/**
-		 * @type string
-		 */
-		title: any;
-		/**
-		 * @type string
-		 */
-		date: any;
-		/**
-		 * @type string
-		 */
-		author: any;
-		/**
-		 * @type string
-		 */
-		category: any;
-		/**
-		 * @type string
-		 */
-		modified: any;
+		title: string;
+		date: string;
+		author: string;
+		category: string;
+		modified: string;
 		children?: import('svelte').Snippet;
 	}
 

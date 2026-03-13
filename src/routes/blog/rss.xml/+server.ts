@@ -20,7 +20,7 @@ ${posts
 <guid>https://itzzen.net${post.path}</guid>
 <pubDate>${new Date(post.meta.date).toUTCString()}</pubDate>
 <description>
-<![CDATA[${post.content.html}]]>
+<![CDATA[${post.content}]]>
 </description>
 </item>`
 	)
