@@ -11,7 +11,7 @@
 	let { title, date, author, category, modified, children }: Props = $props();
 </script>
 
-<p><a href="https://itzzen.net/blog"><i class="fa-solid fa-arrow-left"></i> back to my blog</a></p>
+<p><a href="https://itzzen.net/blog"><i class="icons arrow-left"></i> back to my blog</a></p>
 
 <h2>{title}</h2>
 <p>publish date: {date}</p>
@@ -22,3 +22,28 @@
 <p>category: {category}</p>
 <hr />
 {@render children?.()}
+
+<style>
+	.arrow-left {
+		mask-image: url(/assets/icons/arrow-left.svg);
+	}
+	:global {
+		blockquote {
+			border-left: 2px solid var(--quoteColor);
+			margin-left: 0px;
+		}
+		blockquote p {
+			padding-left: 10px;
+			font-style: italic;
+		}
+		img,
+		video {
+			max-width: 400px;
+			width: 100%;
+			height: auto;
+		}
+		code {
+			overflow-wrap: anywhere;
+		}
+	}
+</style>

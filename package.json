@@ -36,6 +36,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"html-minifier": "^4.0.0",
 		"prettier": "^3.3.3"
 	}
 }
