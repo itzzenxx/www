@@ -1,6 +1,6 @@
 <script>
-	import validrss from '/assets/buttons/validrss.webp';
-	import validatom from '/assets/buttons/validatom.webp';
+	import validrss from '$lib/assets/buttons/validrss.webp';
+	import validatom from '$lib/assets/buttons/validatom.webp';
 	import { fetchMarkdownPosts } from '$lib/utils/blogEntries.ts';
 	export const posts = await fetchMarkdownPosts();
 </script>
@@ -30,22 +30,29 @@
 	<li><a href="/blog/rss.xml" title="download our blog page rss feed"><i class="icons rss"></i> legacy rss feed</a></li>
 </ul>
 
-<a href="https://validator.w3.org/feed/check.cgi?url=https%3A//itzzen.net/blog/atom.xml"><img src={validatom} alt="valid atom" class="button" /></a>
-<a href="https://validator.w3.org/feed/check.cgi?url=https%3A//itzzen.net/blog/rss.xml"><img src={validrss} alt="valid rss" class="button" /></a>
+<div class="buttons">
+	<a href="https://validator.w3.org/feed/check.cgi?url=https%3A//itzzen.net/blog/atom.xml"><img src={validatom} alt="valid atom" /></a>
+	<a href="https://validator.w3.org/feed/check.cgi?url=https%3A//itzzen.net/blog/rss.xml"><img src={validrss} alt="valid rss" /></a>
+</div>
 
 <style>
-	.button {
+	.buttons {
+		display: flex;
+		flex-flow: wrap;
+		gap: 0 0.32em;
+	}
+	.buttons img {
 		height: 31px;
 		width: 88px;
 		border: 0;
 		image-rendering: pixelated;
 	}
 	.atom {
-		mask-image: url(/assets/icons/atom.svg);
+		mask-image: url($lib/assets/icons/atom.svg);
 	}
 
 	.rss {
-		mask-image: url(/assets/icons/rss.svg);
+		mask-image: url($lib/assets/icons/rss.svg);
 	}
 	table {
 		border-collapse: collapse;
@@ -65,7 +72,6 @@
 		padding: 5px;
 		border: 2px solid var(--tableColor);
 		user-select: all;
-		text-align: center;
 	}
 
 	table tr:nth-child(odd) td {
@@ -74,10 +80,6 @@
 
 	table tr:nth-child(even) td {
 		background-color: var(--tableEvenBackgroundColor);
-	}
-
-	table td:nth-child(1) {
-		text-align: left;
 	}
 	li {
 		color: var(--textColor);

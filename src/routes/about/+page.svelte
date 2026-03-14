@@ -49,7 +49,7 @@
 
 <p>Whenever we communicate, we use emojis as a shorthand to identify ourselves. We've created this table with names, pronouns, and other interesting information as a convenient reference so you know who you're talking to.</p>
 
-<table>
+<table class="plural-table">
 	<thead>
 		<tr>
 			<th>emoji</th>
@@ -138,7 +138,6 @@
 		padding: 5px;
 		border: 2px solid var(--tableColor);
 		user-select: all;
-		text-align: center;
 	}
 
 	table tr:nth-child(odd) td {
@@ -147,5 +146,9 @@
 
 	table tr:nth-child(even) td {
 		background-color: var(--tableEvenBackgroundColor);
+	}
+
+	.plural-table td:nth-child(1) {
+		text-align: center;
 	}
 </style>

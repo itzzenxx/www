@@ -23,7 +23,7 @@
 
 <h3>Crypto</h3>
 
-<table id="crypto">
+<table>
 	<thead>
 		<tr>
 			<th>coin</th>
@@ -64,7 +64,6 @@
 		padding: 5px;
 		border: 2px solid var(--tableColor);
 		user-select: all;
-		text-align: center;
 	}
 
 	table tr:nth-child(odd) td {
@@ -73,9 +72,6 @@
 
 	table tr:nth-child(even) td {
 		background-color: var(--tableEvenBackgroundColor);
-	}
-	#crypto td:nth-child(3) {
-		text-align: left;
 	}
 	code {
 		overflow-wrap: anywhere;

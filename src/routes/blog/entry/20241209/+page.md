@@ -6,7 +6,7 @@ category: 'life'
 ---
 
 <script>
-import banner from "/assets/blog/20241209/banner.webp";
+import banner from "$lib/assets/blog/20241209/banner.webp";
 </script>
 
 _in summary..._

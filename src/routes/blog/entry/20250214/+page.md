@@ -7,7 +7,7 @@ category: 'personal'
 ---
 
 <script>
-import train from "/assets/blog/20250214/train.webm";
+import train from "$lib/assets/blog/20250214/train.webm";
 </script>
 
 hi there! it's been a long while since I posted anything meaningful to this blog, so I'm going to vent for a bit and then talk happy.

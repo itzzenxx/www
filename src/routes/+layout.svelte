@@ -1,7 +1,10 @@
 <script lang="ts">
-	import avatar138 from '/assets/avatar-138px.webp';
-	import avatar276 from '/assets/avatar-276px.webp';
-	import avatar from '/assets/avatar.webp';
+	import avatar138 from '$lib/assets/avatar-138px.webp';
+	import avatar276 from '$lib/assets/avatar-276px.webp';
+	import avatar from '$lib/assets/avatar.webp';
+	import favicon16 from '$lib/assets/favicon-16.png';
+	import favicon32 from '$lib/assets/favicon-32.png';
+	import appletouchicon from '$lib/assets/apple-touch-icon.png';
 	import { page } from '$app/state';
 	interface Props {
 		children?: import('svelte').Snippet;
@@ -11,6 +14,11 @@
 
 <svelte:head>
 	<title>{page.url.pathname} | zen's comfy burrow</title>
+	<link rel="icon" href={favicon16} type="image/png" sizes="16x16" />
+	<link rel="icon" href={favicon32} type="image/png" sizes="32x32" />
+	<link rel="apple-touch-icon" href={appletouchicon} />
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<meta name="description" content="the personal website of zen" />
 	<meta content="#d3d3d3" name="theme-color" />
 	<meta property="og:title" content="zen's comfy burrow | {page.url.pathname}" />
@@ -20,21 +28,21 @@
 </svelte:head>
 
 <header>
-	<a href="/" title="go to the homepage"><h1>zen's comfy burrow</h1></a>
+	<a href="/"><h1>zen's comfy burrow</h1></a>
 	<p>🌺 🦋 ⚡ 🪻 💻 🌼 ❄️ 🌙</p>
 </header>
 
 <main>
 	<aside>
 		<nav>
-			<a href="/" title="go to the homepage" class:active={page.url.pathname == '/'}><i class="icons house"></i> home</a>
-			<a href="/about/" title="go to the about us page" class:active={page.url.pathname == '/about/'}><i class="icons address-card"></i> about us</a>
-			<a href="/blog/" title="go to our blog" class:active={page.url.pathname == '/blog/'}><i class="icons newspaper"></i> our blog</a>
-			<a href="/contact/" title="go to our contacts page" class:active={page.url.pathname == '/contact/'}><i class="icons paper-plane"></i> contact</a>
-			<a href="/donate/" title="go to our donations page" class:active={page.url.pathname == '/donate/'}><i class="icons coins"></i> donate</a>
-			<a href="/links/" title="go to our curated links page" class:active={page.url.pathname == '/links/'}><i class="icons earth"></i> links</a>
-			<a href="/presence/" title="go to our presence page" class:active={page.url.pathname == '/presence/'}><i class="icons share-nodes"></i> presence</a>
-			<a href="/projects/" title="go to our projects page" class:active={page.url.pathname == '/projects/'}><i class="icons terminal"></i> projects</a>
+			<a href="/" class:active={page.url.pathname == '/'}><i class="icons house"></i> home</a>
+			<a href="/about/" class:active={page.url.pathname == '/about/'}><i class="icons address-card"></i> about us</a>
+			<a href="/blog/" class:active={page.url.pathname == '/blog/'}><i class="icons newspaper"></i> our blog</a>
+			<a href="/contact/" class:active={page.url.pathname == '/contact/'}><i class="icons paper-plane"></i> contact</a>
+			<a href="/donate/" class:active={page.url.pathname == '/donate/'}><i class="icons coins"></i> donate</a>
+			<a href="/links/" class:active={page.url.pathname == '/links/'}><i class="icons earth"></i> links</a>
+			<a href="/presence/" class:active={page.url.pathname == '/presence/'}><i class="icons share-nodes"></i> presence</a>
+			<a href="/projects/" class:active={page.url.pathname == '/projects/'}><i class="icons terminal"></i> projects</a>
 		</nav>
 		<hr />
 		<a href={avatar} class="avatar"><img src={avatar} alt="a waxing crescent moon" title="me.webp" srcset="{avatar138} 138w, {avatar276} 276w, {avatar} 512w" sizes="138px" /></a>
@@ -46,7 +54,7 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by zen | <i>site last modified 2026-03-13</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by zen | <i>site last modified 2026-03-14</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>
 
 <style>
@@ -118,7 +126,8 @@
 		}
 	}
 
-	aside, article :global {
+	aside,
+	article :global {
 		hr {
 			width: 100%;
 			margin: 10px 0 10px 0;
@@ -181,35 +190,35 @@
 	}
 
 	.address-card {
-		mask-image: url(/assets/icons/address-card.svg);
+		mask-image: url($lib/assets/icons/address-card.svg);
 	}
 
 	.coins {
-		mask-image: url(/assets/icons/coins.svg);
+		mask-image: url($lib/assets/icons/coins.svg);
 	}
 
 	.earth {
-		mask-image: url(/assets/icons/earth-europe.svg);
+		mask-image: url($lib/assets/icons/earth-europe.svg);
 	}
 
 	.house {
-		mask-image: url(/assets/icons/house.svg);
+		mask-image: url($lib/assets/icons/house.svg);
 	}
 
 	.newspaper {
-		mask-image: url(/assets/icons/newspaper.svg);
+		mask-image: url($lib/assets/icons/newspaper.svg);
 	}
 
 	.paper-plane {
-		mask-image: url(/assets/icons/paper-plane.svg);
+		mask-image: url($lib/assets/icons/paper-plane.svg);
 	}
 
 	.share-nodes {
-		mask-image: url(/assets/icons/share-nodes.svg);
+		mask-image: url($lib/assets/icons/share-nodes.svg);
 	}
 
 	.terminal {
-		mask-image: url(/assets/icons/terminal.svg);
+		mask-image: url($lib/assets/icons/terminal.svg);
 	}
 
 	@media screen and (max-width: 450px) {

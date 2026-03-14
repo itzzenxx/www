@@ -11,7 +11,7 @@
 	let { title, date, author, category, modified, children }: Props = $props();
 </script>
 
-<p><a href="https://itzzen.net/blog"><i class="icons arrow-left"></i> back to my blog</a></p>
+<p><a href="https://itzzen.net/blog"><i class="icons arrow-left"></i> back to our blog</a></p>
 
 <h2>{title}</h2>
 <p>publish date: {date}</p>
@@ -25,7 +25,7 @@
 
 <style>
 	.arrow-left {
-		mask-image: url(/assets/icons/arrow-left.svg);
+		mask-image: url($lib/assets/icons/arrow-left.svg);
 	}
 	:global {
 		blockquote {

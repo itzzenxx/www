@@ -6,9 +6,9 @@ category: 'meta'
 ---
 
 <script>
-import website from "/assets/blog/20240624/website.webp";
-import meta from "/assets/blog/20240624/meta.webp";
-import buttons from "/assets/blog/20240624/buttons.webp";
+import website from "$lib/assets/blog/20240624/website.webp";
+import meta from "$lib/assets/blog/20240624/meta.webp";
+import buttons from "$lib/assets/blog/20240624/buttons.webp";
 </script>
 
 ## welcome to the slightly new itzzen.net

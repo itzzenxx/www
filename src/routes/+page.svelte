@@ -1,36 +1,36 @@
 <script>
-	import desk from '/assets/desk.avif';
-	import desk400 from '/assets/desk-400px.avif';
-	import desk800 from '/assets/desk-800px.avif';
-	import itzzennet from '/assets/buttons/itzzennet.png';
-	import ajvega from '/assets/buttons/ajvega.webp';
-	import biddyfox from '/assets/buttons/biddyfox.png';
-	import elysia from '/assets/buttons/elysia.webp';
-	import kawaiizenbo from '/assets/buttons/kawaiizenbo.webp';
-	import translunar from '/assets/buttons/translunar.webp';
-	import trans from '/assets/buttons/trans.webp';
-	import lesbian from '/assets/buttons/lesbian.webp';
-	import plural from '/assets/buttons/plural.webp';
-	import discord from '/assets/buttons/discord.webp';
-	import linux from '/assets/buttons/linux.webp';
-	import firefox from '/assets/buttons/firefox.png';
-	import freebsdpowered from '/assets/buttons/freebsdpowered.webp';
-	import freespeech from '/assets/buttons/fspeech96.webp';
-	import validhtml5 from '/assets/buttons/validhtml5.webp';
-	import validcss from '/assets/buttons/validcss.webp';
-	import anybrowseryoulike from '/assets/buttons/anybrowseryoulike.webp';
-	import transyourgender from '/assets/buttons/transyourgender.webp';
-	import notcloudflared from '/assets/buttons/notcloudflared.webp';
-	import msidiot from '/assets/buttons/msidiot.gif';
-	import piracy from '/assets/buttons/piracy.webp';
-	import shitify from '/assets/buttons/shitify.gif';
-	import internetprivacynow from '/assets/buttons/internetprivacynow.gif';
-	import sameshitdiffass from '/assets/buttons/sameshitdiffass.gif';
-	import webmaster from '/assets/buttons/webmaster.webp';
-	import antinazi from '/assets/buttons/antinazi.webp';
-	import mobilefriendly from '/assets/buttons/mobilefriendly.webp';
-	import voidlinux from '/assets/buttons/voidlinux.webp';
-	import greenteam from '/assets/buttons/green-team.gif';
+	import desk from '$lib/assets/desk.avif';
+	import desk400 from '$lib/assets/desk-400px.avif';
+	import desk800 from '$lib/assets/desk-800px.avif';
+	import itzzennet from '$lib/assets/buttons/itzzennet.png';
+	import ajvega from '$lib/assets/buttons/ajvega.webp';
+	import biddyfox from '$lib/assets/buttons/biddyfox.png';
+	import elysia from '$lib/assets/buttons/elysia.webp';
+	import kawaiizenbo from '$lib/assets/buttons/kawaiizenbo.webp';
+	import translunar from '$lib/assets/buttons/translunar.webp';
+	import trans from '$lib/assets/buttons/trans.webp';
+	import lesbian from '$lib/assets/buttons/lesbian.webp';
+	import plural from '$lib/assets/buttons/plural.webp';
+	import discord from '$lib/assets/buttons/discord.webp';
+	import linux from '$lib/assets/buttons/linux.webp';
+	import firefox from '$lib/assets/buttons/firefox.png';
+	import freebsdpowered from '$lib/assets/buttons/freebsdpowered.webp';
+	import freespeech from '$lib/assets/buttons/fspeech96.webp';
+	import validhtml5 from '$lib/assets/buttons/validhtml5.webp';
+	import validcss from '$lib/assets/buttons/validcss.webp';
+	import anybrowseryoulike from '$lib/assets/buttons/anybrowseryoulike.webp';
+	import transyourgender from '$lib/assets/buttons/transyourgender.webp';
+	import notcloudflared from '$lib/assets/buttons/notcloudflared.webp';
+	import msidiot from '$lib/assets/buttons/msidiot.gif';
+	import piracy from '$lib/assets/buttons/piracy.webp';
+	import shitify from '$lib/assets/buttons/shitify.gif';
+	import internetprivacynow from '$lib/assets/buttons/internetprivacynow.gif';
+	import sameshitdiffass from '$lib/assets/buttons/sameshitdiffass.gif';
+	import webmaster from '$lib/assets/buttons/webmaster.webp';
+	import antinazi from '$lib/assets/buttons/antinazi.webp';
+	import mobilefriendly from '$lib/assets/buttons/mobilefriendly.webp';
+	import voidlinux from '$lib/assets/buttons/voidlinux.webp';
+	import greenteam from '$lib/assets/buttons/green-team.gif';
 </script>
 
 <h2>itzzen.net</h2>
@@ -47,39 +47,47 @@
 
 <hr />
 
-<iframe class="button" src="https://incr.itzzen.net/badge?key=itzzennet" title="increment badge"></iframe>
-<a href="https://itzzen.net"><img src={itzzennet} alt="allissa's comfy burrow now!" class="button" /></a>
-<a href="https://translunar.academy"><img src={translunar} alt="translunar academy" class="button" /></a>
-<a href="https://ajvega.net"><img src={ajvega} alt="a. j. vega" class="button" /></a>
-<a href="https://biddyfox.net"><img src={biddyfox} alt="biddyfox" class="button" /></a>
-<a href="https://ely.pub.moe"><img src={elysia} alt="elysia" class="button" /></a>
-<a href="https://kawaiizenbo.me"><img src={kawaiizenbo} alt="kawaiizenbo.me" class="button" /></a>
-<img src={trans} alt="trans pride flag" class="button" />
-<img src={lesbian} alt="lesbian pride flag" class="button" />
-<img src={plural} alt="plural pride flag" class="button" />
-<img src={discord} alt="Discord? No Way!" class="button" />
-<a href="https://kernel.org"><img src={linux} alt="made on GNU/Linux" class="button" /></a>
-<a href="https://www.firefox.com/en-US/"><img src={firefox} alt="firefox" class="button" /></a>
-<a href="https://freebsd.org"><img src={freebsdpowered} alt="Powered by FreeBSD" class="button" /></a>
-<img src={freespeech} alt="free speech now! 1996" class="button" />
-<img src={anybrowseryoulike} alt="any browser you like" class="button" />
-<img src={transyourgender} alt="trans your gender!" class="button" />
-<img src={mobilefriendly} alt="mobile friendly!" class="button" />
-<img src={notcloudflared} alt="This website is not cloudflared!" class="button" />
-<img src={antinazi} alt="no nazi, no fascism, no racism" class="button" />
-<img src={internetprivacynow} alt="Internet privacy now!" class="button" />
-<a href="https://youtu.be/Y7WtkdLQ6PM?si=JPbeN3h3dvRDQMkJ"><img src={msidiot} alt="microsoft idiot explorer!" class="button" /></a>
-<img src={piracy} alt="piracy now!" class="button" />
-<img src={shitify} alt="Spotify, When you love music but hate artists." class="button" />
-<img src={sameshitdiffass} alt="Same shit different asshole." class="button" />
-<a href="https://voidlinux.org/"><img src={voidlinux} alt="enter the void" class="button" /></a>
-<a href="https://justinjackson.ca/webmaster/"><img src={webmaster} alt="fucking webmaster." class="button" /></a>
-<a href="https://512kb.club/"><img src={greenteam} alt="512kb club green team" class="button" /></a>
-<a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fitzzen.net"><img src={validhtml5} alt="Valid HTML5" class="button" /></a>
-<a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fitzzen.net"><img src={validcss} alt="Valid CSS" class="button" /></a>
+<div class="buttons">
+	<iframe src="https://incr.itzzen.net/badge?key=itzzennet" title="increment badge"></iframe>
+	<a href="https://itzzen.net"><img src={itzzennet} alt="allissa's comfy burrow now!" /></a>
+	<a href="https://translunar.academy"><img src={translunar} alt="translunar academy" /></a>
+	<a href="https://ajvega.net"><img src={ajvega} alt="a. j. vega" /></a>
+	<a href="https://biddyfox.net"><img src={biddyfox} alt="biddyfox" /></a>
+	<a href="https://ely.pub.moe"><img src={elysia} alt="elysia" /></a>
+	<a href="https://kawaiizenbo.me"><img src={kawaiizenbo} alt="kawaiizenbo.me" /></a>
+	<img src={trans} alt="trans pride flag" />
+	<img src={lesbian} alt="lesbian pride flag" />
+	<img src={plural} alt="plural pride flag" />
+	<img src={discord} alt="Discord? No Way!" />
+	<a href="https://kernel.org"><img src={linux} alt="made on GNU/Linux" /></a>
+	<a href="https://www.firefox.com/en-US/"><img src={firefox} alt="firefox" /></a>
+	<a href="https://freebsd.org"><img src={freebsdpowered} alt="Powered by FreeBSD" /></a>
+	<img src={freespeech} alt="free speech now! 1996" />
+	<img src={anybrowseryoulike} alt="any browser you like" />
+	<img src={transyourgender} alt="trans your gender!" />
+	<img src={mobilefriendly} alt="mobile friendly!" />
+	<img src={notcloudflared} alt="This website is not cloudflared!" />
+	<img src={antinazi} alt="no nazi, no fascism, no racism" />
+	<img src={internetprivacynow} alt="Internet privacy now!" />
+	<a href="https://youtu.be/Y7WtkdLQ6PM?si=JPbeN3h3dvRDQMkJ"><img src={msidiot} alt="microsoft idiot explorer!" /></a>
+	<img src={piracy} alt="piracy now!" />
+	<img src={shitify} alt="Spotify, When you love music but hate artists." />
+	<img src={sameshitdiffass} alt="Same shit different asshole." />
+	<a href="https://voidlinux.org/"><img src={voidlinux} alt="enter the void" /></a>
+	<a href="https://justinjackson.ca/webmaster/"><img src={webmaster} alt="fucking webmaster." /></a>
+	<a href="https://512kb.club/"><img src={greenteam} alt="512kb club green team" /></a>
+	<a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fitzzen.net"><img src={validhtml5} alt="Valid HTML5" /></a>
+	<a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fitzzen.net"><img src={validcss} alt="Valid CSS" /></a>
+</div>
 
 <style>
-	.button {
+	.buttons {
+		display: flex;
+		flex-flow: wrap;
+		gap: 0 0.32em;
+	}
+	.buttons img,
+	.buttons iframe {
 		height: 31px;
 		width: 88px;
 		border: 0;
