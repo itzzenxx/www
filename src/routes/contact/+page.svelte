@@ -15,7 +15,4 @@
 	li {
 		color: var(--textColor);
 	}
-	li + li {
-		margin: 3px 0;
-	}
 </style>
