@@ -7,10 +7,10 @@ export const GET = async () => {
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
-<title>allissa's blog</title>
+<title>zen's blog</title>
 <atom:link href="https://itzzen.net/blog/rss.xml" rel="self" type="application/rss+xml" />
 <link>https://itzzen.net/blog/rss.xml</link>
-<description>allissa's blog</description>
+<description>zen's blog</description>
 ${posts
 	.map(
 		(post: { meta: { title: string; date: string | number | Date }; path: string; content: { html: string } }) => `

@@ -7,9 +7,9 @@ export const GET = async () => {
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://itzzen.net/blog/atom.xml" rel="self" type="application/rss+xml" />
 <updated>2024-04-13T00:00:00.000Z</updated>
-<title>allissa's blog</title>
+<title>zen's blog</title>
 <author>
-<name>allissa</name>
+<name>zen</name>
 <email>itzzen@itzzen.net</email>
 </author>
 <id>urn:uuid:7b459989-5361-486c-9d6d-e337b3510bf1</id>
