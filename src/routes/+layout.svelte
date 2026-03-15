@@ -54,7 +54,7 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by zen | <i>site last modified 2026-03-14</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by zen | <i>site last modified 2026-03-15</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
 </footer>
 
 <style>
