@@ -2,24 +2,12 @@
 
 <h3>Fiat</h3>
 
-<table>
-	<thead>
-		<tr>
-			<th>service</th>
-			<th>link/username</th>
-			<th>currency</th>
-			<th>fee</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>Zelle</td>
-			<td>itzzen.net</td>
-			<td>USD</td>
-			<td>0%</td>
-		</tr>
-	</tbody>
-</table>
+<ul>
+	<li><a href="https://ko-fi.com/itzzen"><i class="icons ko-fi"></i> itzzen</a> | Ko-fi</li>
+	<li><a href="https://paypal.me/itzzenxx"><i class="icons paypal"></i> itzzenxx</a> | Paypal</li>
+	<li><a href="https://venmo.com/u/itzzenxx"><i class="icons venmo"></i> itzzenxx</a> | Venmo</li>
+	<li><i class="icons zelle"></i> itzzen@itzzen.net | Zelle</li>
+</ul>
 
 <h3>Crypto</h3>
 
@@ -46,6 +34,24 @@
 </table>
 
 <style>
+	.ko-fi {
+		mask-image: url($lib/assets/icons/ko-fi.svg);
+	}
+	.paypal {
+		mask-image: url($lib/assets/icons/paypal.svg);
+	}
+	.venmo {
+		mask-image: url($lib/assets/icons/venmo.svg);
+	}
+	.zelle {
+		mask-image: url($lib/assets/icons/zelle.svg);
+	}
+	li {
+		color: var(--textColor);
+	}
+	li + li {
+		margin: 3px 0;
+	}
 	table {
 		border-collapse: collapse;
 		padding: 5px;
