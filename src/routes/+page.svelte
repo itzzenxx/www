@@ -44,7 +44,9 @@
 
 <p>Proudly online since 2021-02-28. Happy 5th birthday itzzen.net!</p>
 
-<a href={frontpage}><img src={frontpage400} alt="our frontpage setup" fetchpriority="high" srcset="{frontpage400} 400w, {frontpage800} 800w, {frontpage} 4000w" sizes="400px" /></a>
+<a href={frontpage}><img src={frontpage400} alt="A photo of the long island sound. In the middle of the frame lies a rock with soft waves crashing in around it." fetchpriority="high" srcset="{frontpage400} 400w, {frontpage800} 800w, {frontpage} 4000w" sizes="400px" />
+
+<i><p>Cove Island Park in Stamford, Connecticut. 2026-09-22</p></i></a>
 
 <hr />
 
