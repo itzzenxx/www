@@ -28,7 +28,6 @@
 	import webmaster from '$lib/assets/buttons/webmaster.webp';
 	import antinazi from '$lib/assets/buttons/antinazi.webp';
 	import mobilefriendly from '$lib/assets/buttons/mobilefriendly.webp';
-	import voidlinux from '$lib/assets/buttons/voidlinux.webp';
 	import greenteam from '$lib/assets/buttons/green-team.gif';
 	import vmfunc from '$lib/assets/buttons/vmfunc.webp';
 	import june from '$lib/assets/buttons/june.webp';
@@ -44,9 +43,11 @@
 
 <p>Proudly online since 2021-02-28. Happy 5th birthday itzzen.net!</p>
 
-<a href={frontpage}><img src={frontpage400} alt="A photo of the long island sound. In the middle of the frame lies a rock with soft waves crashing in around it." fetchpriority="high" srcset="{frontpage400} 400w, {frontpage800} 800w, {frontpage} 4000w" sizes="400px" />
+<a href={frontpage}
+	><img src={frontpage400} alt="The long island sound. In the middle of the frame lies a rock with soft waves crashing in around it." fetchpriority="high" srcset="{frontpage400} 400w, {frontpage800} 800w, {frontpage} 4000w" sizes="400px" />
 
-<i><p>Cove Island Park in Stamford, Connecticut. 2026-09-22</p></i></a>
+	<i><p>Cove Island Park in Stamford, Connecticut. 2026-09-22</p></i></a
+>
 
 <hr />
 
@@ -77,7 +78,6 @@
 	<img src={piracy} alt="piracy now!" />
 	<img src={shitify} alt="Spotify, When you love music but hate artists." />
 	<img src={sameshitdiffass} alt="Same shit different asshole." />
-	<a href="https://voidlinux.org/"><img src={voidlinux} alt="enter the void" /></a>
 	<a href="https://justinjackson.ca/webmaster/"><img src={webmaster} alt="fucking webmaster." /></a>
 	<a href="https://512kb.club/"><img src={greenteam} alt="512kb club green team" /></a>
 	<a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fitzzen.net"><img src={validhtml5} alt="Valid HTML5" /></a>

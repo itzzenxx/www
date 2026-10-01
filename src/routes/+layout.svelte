@@ -38,9 +38,8 @@
 			<a href="/about/" class:active={page.url.pathname == '/about/'}><i class="icons address-card"></i> about us</a>
 			<a href="/blog/" class:active={page.url.pathname == '/blog/'}><i class="icons newspaper"></i> our blog</a>
 			<a href="/contact/" class:active={page.url.pathname == '/contact/'}><i class="icons paper-plane"></i> contact</a>
-			<a href="/resume/" class:active={page.url.pathname == '/resume/'}><i class="icons briefcase"></i> resume</a>
-			<a href="/donate/" class:active={page.url.pathname == '/donate/'}><i class="icons coins"></i> donate</a>
-			<a href="/presence/" class:active={page.url.pathname == '/presence/'}><i class="icons share-nodes"></i> presence</a>
+			<a href="/portfolio/" class:active={page.url.pathname == '/portfolio/'}><i class="icons briefcase"></i> portfolio</a>
+			<a href="/social/" class:active={page.url.pathname == '/social/'}><i class="icons share-nodes"></i> social</a>
 		</nav>
 		<hr />
 		<a href={avatar} class="avatar"><img src={avatar} alt="a waxing crescent moon" title="me.webp" srcset="{avatar138} 138w, {avatar276} 276w, {avatar} 512w" sizes="138px" /></a>
@@ -52,7 +51,7 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by zen | <i>site last modified 2026-07-14</i> | <a href="https://codeberg.org/itzzen/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by zen | <i>site last modified 2026-10-01</i> | <a href="https://github.com/itzzenxx/www">source code viewable here</a></i></p>
 </footer>
 
 <style>
@@ -195,14 +194,6 @@
 		mask-image: url($lib/assets/icons/briefcase.svg);
 	}
 
-	.coins {
-		mask-image: url($lib/assets/icons/coins.svg);
-	}
-
-	.earth {
-		mask-image: url($lib/assets/icons/earth-europe.svg);
-	}
-
 	.house {
 		mask-image: url($lib/assets/icons/house.svg);
 	}
@@ -217,10 +208,6 @@
 
 	.share-nodes {
 		mask-image: url($lib/assets/icons/share-nodes.svg);
-	}
-
-	.terminal {
-		mask-image: url($lib/assets/icons/terminal.svg);
 	}
 
 	@media screen and (max-width: 450px) {

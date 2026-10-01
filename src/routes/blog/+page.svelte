@@ -1,8 +1,7 @@
 <script>
 	import validrss from '$lib/assets/buttons/validrss.webp';
 	import validatom from '$lib/assets/buttons/validatom.webp';
-	import { fetchMarkdownPosts } from '$lib/utils/blogEntries.ts';
-	export const posts = await fetchMarkdownPosts();
+	let { data } = $props();
 </script>
 
 <h2>Our blog</h2>
@@ -17,7 +16,7 @@
 		</tr>
 	</thead>
 	<tbody>
-		{#each posts as post}
+		{#each data.posts as post}
 			<tr><td><a href={post.path}>{post.meta.title}</a></td><td>{post.meta.category}</td><td>{post.meta.author}</td><td>{post.meta.date}</td></tr>
 		{/each}
 	</tbody>

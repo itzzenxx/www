@@ -19,12 +19,6 @@ export default {
 		})
 	},
 
-	compilerOptions: {
-		experimental: {
-			async: true
-		}
-	},
-
 	extensions: ['.svelte', '.md'],
 
 	preprocess: [
