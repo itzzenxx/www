@@ -1,7 +1,7 @@
 <script>
-	import desk from '$lib/assets/desk.avif';
-	import desk400 from '$lib/assets/desk-400px.avif';
-	import desk800 from '$lib/assets/desk-800px.avif';
+	import frontpage from '$lib/assets/frontpage.avif';
+	import frontpage400 from '$lib/assets/frontpage-400px.avif';
+	import frontpage800 from '$lib/assets/frontpage-800px.avif';
 	import itzzennet from '$lib/assets/buttons/itzzennet.png';
 	import ajvega from '$lib/assets/buttons/ajvega.webp';
 	import biddyfox from '$lib/assets/buttons/biddyfox.png';
@@ -44,7 +44,7 @@
 
 <p>Proudly online since 2021-02-28. Happy 5th birthday itzzen.net!</p>
 
-<a href={desk}><img src={desk400} alt="our desk setup" fetchpriority="high" srcset="{desk400} 400w, {desk800} 800w, {desk} 4000w" sizes="400px" /></a>
+<a href={frontpage}><img src={frontpage400} alt="our frontpage setup" fetchpriority="high" srcset="{frontpage400} 400w, {frontpage800} 800w, {frontpage} 4000w" sizes="400px" /></a>
 
 <hr />
 
