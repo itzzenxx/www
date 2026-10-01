@@ -5,9 +5,7 @@
 	import itzzennet from '$lib/assets/buttons/itzzennet.png';
 	import ajvega from '$lib/assets/buttons/ajvega.webp';
 	import biddyfox from '$lib/assets/buttons/biddyfox.png';
-	import cobra from "$lib/assets/buttons/cobra.webp";
 	import elysia from '$lib/assets/buttons/elysia.webp';
-	import kawaiizenbo from '$lib/assets/buttons/kawaiizenbo.webp';
 	import translunar from '$lib/assets/buttons/translunar.webp';
 	import trans from '$lib/assets/buttons/trans.webp';
 	import lesbian from '$lib/assets/buttons/lesbian.webp';
@@ -56,9 +54,7 @@
 	<a href="https://translunar.academy"><img src={translunar} alt="translunar academy" /></a>
 	<a href="https://ajvega.net"><img src={ajvega} alt="a. j. vega" /></a>
 	<a href="https://biddyfox.net"><img src={biddyfox} alt="biddyfox" /></a>
-	<a href="https://cobra.vern.cc"><img src={cobra} alt="sky" /></a>
 	<a href="https://ely.pub.moe"><img src={elysia} alt="elysia" /></a>
-	<a href="https://kawaiizenbo.me"><img src={kawaiizenbo} alt="kawaiizenbo.me" /></a>
 	<a href="https://f.dog"><img src={june} alt="june girlboss.ceo" /></a>
 	<a href="https://vmfunc.re"><img src={vmfunc} alt="mel" /></a>
 	<img src={trans} alt="trans pride flag" />
